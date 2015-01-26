@@ -1,0 +1,10 @@
+sample_name,library_acc,collection_date,investigation_type,site_name,sample_volume,filter_min,filter_max,environmental_temperature,environmental_salinity,depth,dissolved_oxygen
+AntNovFreeVir,AntNovFreeVir,11/18/10,virus,WAP:B,20 L,0.22,,1.0,,0,
+AntNovIndVir,AntNovIndVir,11/18/10,virus,WAP:B,20 L,0.22,,1.0,,0,
+AntJanFreeVir,AntJanFreeVir,1/29/11,virus,WAP:B,20 L,0.22,,1.0,,0,
+AntJanIndVir,AntJanIndVir,1/29/11,virus,WAP:B,20 L,0.22,,1.0,,0,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

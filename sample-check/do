@@ -1,0 +1,402 @@
+mv reads/1308374654821336331.fa reads/SARGASSOSEA_SMPL_DMSP.fa
+irm /iplant/home/shared/imicrobe/projects/61/samples/1308374654821336331.fa
+iput reads/SARGASSOSEA_SMPL_DMSP.fa /iplant/home/shared/imicrobe/projects/61/samples/
+mv reads/1309720343266460939.fa reads/CAM_P0000101_SMPL_PACT1.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343266460939.fa
+iput reads/CAM_P0000101_SMPL_PACT1.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1309720343400678667.fa reads/CAM_P0000101_SMPL_PACT2.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343400678667.fa
+iput reads/CAM_P0000101_SMPL_PACT2.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1309720343459398923.fa reads/CAM_P0000101_SMPL_PAPUT1.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343459398923.fa
+iput reads/CAM_P0000101_SMPL_PAPUT1.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1309720343513924875.fa reads/CAM_P0000101_SMPL_PAPUT2.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343513924875.fa
+iput reads/CAM_P0000101_SMPL_PAPUT2.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1309720343572645131.fa reads/CAM_P0000101_SMPL_PASPD1.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343572645131.fa
+iput reads/CAM_P0000101_SMPL_PASPD1.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1309720343627171083.fa reads/CAM_P0000101_SMPL_PASPD2.fa
+irm /iplant/home/shared/imicrobe/projects/13/samples/1309720343627171083.fa
+iput reads/CAM_P0000101_SMPL_PASPD2.fa /iplant/home/shared/imicrobe/projects/13/samples/
+mv reads/1312147078700336395.fa reads/BACTERIOPLANKTON_SMPL_S_35131.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078700336395.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35131.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078759056651.fa reads/BACTERIOPLANKTON_SMPL_S_35139.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078759056651.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35139.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078792611083.fa reads/BACTERIOPLANKTON_SMPL_S_35147.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078792611083.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35147.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078851331339.fa reads/BACTERIOPLANKTON_SMPL_S_35155.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078851331339.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35155.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078884885771.fa reads/BACTERIOPLANKTON_SMPL_S_35162.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078884885771.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35162.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078918440203.fa reads/BACTERIOPLANKTON_SMPL_S_35163.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078918440203.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35163.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078951994635.fa reads/BACTERIOPLANKTON_SMPL_S_35171.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078951994635.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35171.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1312147078981354763.fa reads/BACTERIOPLANKTON_SMPL_S_35179.fa
+irm /iplant/home/shared/imicrobe/projects/7/samples/1312147078981354763.fa
+iput reads/BACTERIOPLANKTON_SMPL_S_35179.fa /iplant/home/shared/imicrobe/projects/7/samples/
+mv reads/1314442544758654219.fa reads/DICE_SMPL_DICE_E1.fa
+irm /iplant/home/shared/imicrobe/projects/19/samples/1314442544758654219.fa
+iput reads/DICE_SMPL_DICE_E1.fa /iplant/home/shared/imicrobe/projects/19/samples/
+mv reads/1314442544788014347.fa reads/DICE_SMPL_DICE_E2.fa
+irm /iplant/home/shared/imicrobe/projects/19/samples/1314442544788014347.fa
+iput reads/DICE_SMPL_DICE_E2.fa /iplant/home/shared/imicrobe/projects/19/samples/
+mv reads/1314442544821568779.fa reads/DICE_SMPL_DICE_C1.fa
+irm /iplant/home/shared/imicrobe/projects/19/samples/1314442544821568779.fa
+iput reads/DICE_SMPL_DICE_C1.fa /iplant/home/shared/imicrobe/projects/19/samples/
+mv reads/1314442544850928907.fa reads/DICE_SMPL_DICE_C2.fa
+irm /iplant/home/shared/imicrobe/projects/19/samples/1314442544850928907.fa
+iput reads/DICE_SMPL_DICE_C2.fa /iplant/home/shared/imicrobe/projects/19/samples/
+mv reads/1316500374978299189.fa reads/BATS_SMPL_174-1.fa
+irm /iplant/home/shared/imicrobe/projects/6/samples/1316500374978299189.fa
+iput reads/BATS_SMPL_174-1.fa /iplant/home/shared/imicrobe/projects/6/samples/
+mv reads/1316500375016047925.fa reads/BATS_SMPL_174-2.fa
+irm /iplant/home/shared/imicrobe/projects/6/samples/1316500375016047925.fa
+iput reads/BATS_SMPL_174-2.fa /iplant/home/shared/imicrobe/projects/6/samples/
+mv reads/1316500375053796661.fa reads/BATS_SMPL_179-1.fa
+irm /iplant/home/shared/imicrobe/projects/6/samples/1316500375053796661.fa
+iput reads/BATS_SMPL_179-1.fa /iplant/home/shared/imicrobe/projects/6/samples/
+mv reads/1316500375087351093.fa reads/BATS_SMPL_179-2.fa
+irm /iplant/home/shared/imicrobe/projects/6/samples/1316500375087351093.fa
+iput reads/BATS_SMPL_179-2.fa /iplant/home/shared/imicrobe/projects/6/samples/
+mv reads/1316602061755778357.fa reads/MONTEREYBAY_SMPL_MB2000JD298_1.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061755778357.fa
+iput reads/MONTEREYBAY_SMPL_MB2000JD298_1.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1316602061793527093.fa reads/MONTEREYBAY_SMPL_MB2000JD298_2.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061793527093.fa
+iput reads/MONTEREYBAY_SMPL_MB2000JD298_2.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1316602061831275829.fa reads/MONTEREYBAY_SMPL_MB2001JD115_1.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061831275829.fa
+iput reads/MONTEREYBAY_SMPL_MB2001JD115_1.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1316602061864830261.fa reads/MONTEREYBAY_SMPL_MB2001JD115_2.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061864830261.fa
+iput reads/MONTEREYBAY_SMPL_MB2001JD115_2.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1316602061898384693.fa reads/MONTEREYBAY_SMPL_MB2001JD135_1.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061898384693.fa
+iput reads/MONTEREYBAY_SMPL_MB2001JD135_1.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1316602061931939125.fa reads/MONTEREYBAY_SMPL_MB2001JD135_2.fa
+irm /iplant/home/shared/imicrobe/projects/48/samples/1316602061931939125.fa
+iput reads/MONTEREYBAY_SMPL_MB2001JD135_2.fa /iplant/home/shared/imicrobe/projects/48/samples/
+mv reads/1317253394854839563.fa reads/GENEEXPRESSION_SMPL_TA_20173.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253394854839563.fa
+iput reads/GENEEXPRESSION_SMPL_TA_20173.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253394909365515.fa reads/GENEEXPRESSION_SMPL_TA_20179.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253394909365515.fa
+iput reads/GENEEXPRESSION_SMPL_TA_20179.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253394942919947.fa reads/GENEEXPRESSION_SMPL_S_20154.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253394942919947.fa
+iput reads/GENEEXPRESSION_SMPL_S_20154.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253394989057291.fa reads/GENEEXPRESSION_SMPL_S_20162.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253394989057291.fa
+iput reads/GENEEXPRESSION_SMPL_S_20162.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395022611723.fa reads/GENEEXPRESSION_SMPL_TA_35194.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395022611723.fa
+iput reads/GENEEXPRESSION_SMPL_TA_35194.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395056166155.fa reads/GENEEXPRESSION_SMPL_TA_35197.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395056166155.fa
+iput reads/GENEEXPRESSION_SMPL_TA_35197.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395089720587.fa reads/GENEEXPRESSION_SMPL_TA_20197.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395089720587.fa
+iput reads/GENEEXPRESSION_SMPL_TA_20197.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395123275019.fa reads/GENEEXPRESSION_SMPL_TA_20199.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395123275019.fa
+iput reads/GENEEXPRESSION_SMPL_TA_20199.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395156829451.fa reads/GENEEXPRESSION_SMPL_TA_34838.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395156829451.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34838.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395190383883.fa reads/GENEEXPRESSION_SMPL_TA_34840.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395190383883.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34840.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395219744011.fa reads/GENEEXPRESSION_SMPL_TA_34871.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395219744011.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34871.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1317253395270075659.fa reads/GENEEXPRESSION_SMPL_TA_34877.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1317253395270075659.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34877.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1327052830921458955.fa reads/PML_SMPL_SRS000294.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052830921458955.fa
+iput reads/PML_SMPL_SRS000294.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052830942430475.fa reads/PML_SMPL_SRS000295.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052830942430475.fa
+iput reads/PML_SMPL_SRS000295.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052830959207691.fa reads/PML_SMPL_SRS000296.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052830959207691.fa
+iput reads/PML_SMPL_SRS000296.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052830980179211.fa reads/PML_SMPL_SRS000297.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052830980179211.fa
+iput reads/PML_SMPL_SRS000297.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052830996956427.fa reads/PML_SMPL_SRS000298.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052830996956427.fa
+iput reads/PML_SMPL_SRS000298.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052831017927947.fa reads/PML_SMPL_SRS000299.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052831017927947.fa
+iput reads/PML_SMPL_SRS000299.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052831034705163.fa reads/PML_SMPL_SRS000300.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052831034705163.fa
+iput reads/PML_SMPL_SRS000300.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1327052831055676683.fa reads/PML_SMPL_SRS000301.fa
+irm /iplant/home/shared/imicrobe/projects/52/samples/1327052831055676683.fa
+iput reads/PML_SMPL_SRS000301.fa /iplant/home/shared/imicrobe/projects/52/samples/
+mv reads/1329873174451455243.fa reads/SAR11CLADES_SMPL_HTCC2148.fa
+irm /iplant/home/shared/imicrobe/projects/57/samples/1329873174451455243.fa
+iput reads/SAR11CLADES_SMPL_HTCC2148.fa /iplant/home/shared/imicrobe/projects/57/samples/
+mv reads/1329873174485009675.fa reads/SAR11CLADES_SMPL_HTCC1002.fa
+irm /iplant/home/shared/imicrobe/projects/57/samples/1329873174485009675.fa
+iput reads/SAR11CLADES_SMPL_HTCC1002.fa /iplant/home/shared/imicrobe/projects/57/samples/
+mv reads/1329873174501786891.fa reads/SAR11CLADES_SMPL_HTCC1025.fa
+irm /iplant/home/shared/imicrobe/projects/57/samples/1329873174501786891.fa
+iput reads/SAR11CLADES_SMPL_HTCC1025.fa /iplant/home/shared/imicrobe/projects/57/samples/
+mv reads/1329873174522758411.fa reads/SAR11CLADES_SMPL_HTCC1051.fa
+irm /iplant/home/shared/imicrobe/projects/57/samples/1329873174522758411.fa
+iput reads/SAR11CLADES_SMPL_HTCC1051.fa /iplant/home/shared/imicrobe/projects/57/samples/
+mv reads/1332544567492216075.fa reads/GENEEXPRESSION_SMPL_TA_34921.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1332544567492216075.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34921.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1332544567517381899.fa reads/GENEEXPRESSION_SMPL_TA_34960.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1332544567517381899.fa
+iput reads/GENEEXPRESSION_SMPL_TA_34960.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1332544567550936331.fa reads/GENEEXPRESSION_SMPL_TA_35115.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1332544567550936331.fa
+iput reads/GENEEXPRESSION_SMPL_TA_35115.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1332544567567713547.fa reads/GENEEXPRESSION_SMPL_TA_35117.fa
+irm /iplant/home/shared/imicrobe/projects/27/samples/1332544567567713547.fa
+iput reads/GENEEXPRESSION_SMPL_TA_35117.fa /iplant/home/shared/imicrobe/projects/27/samples/
+mv reads/1335002427924940043.fa reads/SYNECHOCOCCUS_SMPL_SRS00536_1.fa
+irm /iplant/home/shared/imicrobe/projects/62/samples/1335002427924940043.fa
+iput reads/SYNECHOCOCCUS_SMPL_SRS00536_1.fa /iplant/home/shared/imicrobe/projects/62/samples/
+mv reads/1337529374911497483.fa reads/BBRE_SPLICING_SMPL_MBRE-C.fa
+irm /iplant/home/shared/imicrobe/projects/8/samples/1337529374911497483.fa
+iput reads/BBRE_SPLICING_SMPL_MBRE-C.fa /iplant/home/shared/imicrobe/projects/8/samples/
+mv reads/1337529374932469003.fa reads/BBRE_SPLICING_SMPL_MBRE-UV.fa
+irm /iplant/home/shared/imicrobe/projects/8/samples/1337529374932469003.fa
+iput reads/BBRE_SPLICING_SMPL_MBRE-UV.fa /iplant/home/shared/imicrobe/projects/8/samples/
+mv reads/1342599944422294795.fa reads/SAPELOISLAND_SMPL_SRS000238.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944422294795.fa
+iput reads/SAPELOISLAND_SMPL_SRS000238.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944443266315.fa reads/SAPELOISLAND_SMPL_SRS000239.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944443266315.fa
+iput reads/SAPELOISLAND_SMPL_SRS000239.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944464237835.fa reads/SAPELOISLAND_SMPL_SRS000240.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944464237835.fa
+iput reads/SAPELOISLAND_SMPL_SRS000240.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944485209355.fa reads/SAPELOISLAND_SMPL_SRS000241.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944485209355.fa
+iput reads/SAPELOISLAND_SMPL_SRS000241.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944501986571.fa reads/SAPELOISLAND_SMPL_SRS000242.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944501986571.fa
+iput reads/SAPELOISLAND_SMPL_SRS000242.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944518763787.fa reads/SAPELOISLAND_SMPL_SRS000243.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944518763787.fa
+iput reads/SAPELOISLAND_SMPL_SRS000243.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944539735307.fa reads/SAPELOISLAND_SMPL_SRS000244.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944539735307.fa
+iput reads/SAPELOISLAND_SMPL_SRS000244.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1342599944556512523.fa reads/SAPELOISLAND_SMPL_SRS000245.fa
+irm /iplant/home/shared/imicrobe/projects/60/samples/1342599944556512523.fa
+iput reads/SAPELOISLAND_SMPL_SRS000245.fa /iplant/home/shared/imicrobe/projects/60/samples/
+mv reads/1346220354825094411.fa reads/SYNECHOCOCCUSWH7803_SMPL_WH7803.AC0.SC2.fa
+irm /iplant/home/shared/imicrobe/projects/63/samples/1346220354825094411.fa
+iput reads/SYNECHOCOCCUSWH7803_SMPL_WH7803.AC0.SC2.fa /iplant/home/shared/imicrobe/projects/63/samples/
+mv reads/1346220354888008971.fa reads/SYNECHOCOCCUSWH7803_SMPL_WH7803.AC167.fa
+irm /iplant/home/shared/imicrobe/projects/63/samples/1346220354888008971.fa
+iput reads/SYNECHOCOCCUSWH7803_SMPL_WH7803.AC167.fa /iplant/home/shared/imicrobe/projects/63/samples/
+mv reads/1347433931682612491.fa reads/HF_SMPL_HOT179_25M_GDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931682612491.fa
+iput reads/HF_SMPL_HOT179_25M_GDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931703584011.fa reads/HF_SMPL_HOT179_25M_CDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931703584011.fa
+iput reads/HF_SMPL_HOT179_25M_CDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931749721355.fa reads/HF_SMPL_HOT179_75M_GDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931749721355.fa
+iput reads/HF_SMPL_HOT179_75M_GDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931770692875.fa reads/HF_SMPL_HOT179_75M_CDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931770692875.fa
+iput reads/HF_SMPL_HOT179_75M_CDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931787470091.fa reads/HF_SMPL_HOT179_125M_GDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931787470091.fa
+iput reads/HF_SMPL_HOT179_125M_GDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931808441611.fa reads/HF_SMPL_HOT179_125M_CDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931808441611.fa
+iput reads/HF_SMPL_HOT179_125M_CDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931825218827.fa reads/HF_SMPL_HOT179_500M_GDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931825218827.fa
+iput reads/HF_SMPL_HOT179_500M_GDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1347433931841996043.fa reads/HF_SMPL_HOT179_500M_CDNA.fa
+irm /iplant/home/shared/imicrobe/projects/31/samples/1347433931841996043.fa
+iput reads/HF_SMPL_HOT179_500M_CDNA.fa /iplant/home/shared/imicrobe/projects/31/samples/
+mv reads/1360420915145344267.fa reads/PBSM_SMPL_PBSM.fa
+irm /iplant/home/shared/imicrobe/projects/51/samples/1360420915145344267.fa
+iput reads/PBSM_SMPL_PBSM.fa /iplant/home/shared/imicrobe/projects/51/samples/
+mv reads/1362510248425817355.fa reads/DAYNIGHT_SMPL_METATRANSCRIPTOMIC_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/20/samples/1362510248425817355.fa
+iput reads/DAYNIGHT_SMPL_METATRANSCRIPTOMIC_DAY.fa /iplant/home/shared/imicrobe/projects/20/samples/
+mv reads/1362510248463566091.fa reads/DAYNIGHT_SMPL_METATRANSCRIPTOMIC_NIGHT.fa
+irm /iplant/home/shared/imicrobe/projects/20/samples/1362510248463566091.fa
+iput reads/DAYNIGHT_SMPL_METATRANSCRIPTOMIC_NIGHT.fa /iplant/home/shared/imicrobe/projects/20/samples/
+mv reads/1366989864960001291.fa reads/WESTERNCHANNELOMM_SMPL_AUG_10AM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989864960001291.fa
+iput reads/WESTERNCHANNELOMM_SMPL_AUG_10AM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865048081675.fa reads/WESTERNCHANNELOMM_SMPL_159-AUG_10AM_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865048081675.fa
+iput reads/WESTERNCHANNELOMM_SMPL_159-AUG_10AM_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865102607627.fa reads/WESTERNCHANNELOMM_SMPL_AUG_4AM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865102607627.fa
+iput reads/WESTERNCHANNELOMM_SMPL_AUG_4AM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865157133579.fa reads/WESTERNCHANNELOMM_SMPL_158-AUG_4AM_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865157133579.fa
+iput reads/WESTERNCHANNELOMM_SMPL_158-AUG_4AM_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865211659531.fa reads/WESTERNCHANNELOMM_SMPL_AUG_10PM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865211659531.fa
+iput reads/WESTERNCHANNELOMM_SMPL_AUG_10PM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865266185483.fa reads/WESTERNCHANNELOMM_SMPL_157-AUG_10PM_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865266185483.fa
+iput reads/WESTERNCHANNELOMM_SMPL_157-AUG_10PM_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865337488651.fa reads/WESTERNCHANNELOMM_SMPL_AUG_4PM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865337488651.fa
+iput reads/WESTERNCHANNELOMM_SMPL_AUG_4PM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865392014603.fa reads/WESTERNCHANNELOMM_SMPL_156-AUG_4PM_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865392014603.fa
+iput reads/WESTERNCHANNELOMM_SMPL_156-AUG_4PM_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865442346251.fa reads/WESTERNCHANNELOMM_SMPL_APR_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865442346251.fa
+iput reads/WESTERNCHANNELOMM_SMPL_APR_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865492677899.fa reads/WESTERNCHANNELOMM_SMPL_155-APR_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865492677899.fa
+iput reads/WESTERNCHANNELOMM_SMPL_155-APR_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865559786763.fa reads/WESTERNCHANNELOMM_SMPL_APR_NIGHT_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865559786763.fa
+iput reads/WESTERNCHANNELOMM_SMPL_APR_NIGHT_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865605924107.fa reads/WESTERNCHANNELOMM_SMPL_154-APR_NIGHT_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865605924107.fa
+iput reads/WESTERNCHANNELOMM_SMPL_154-APR_NIGHT_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865652061451.fa reads/WESTERNCHANNELOMM_SMPL_APR_DAY_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865652061451.fa
+iput reads/WESTERNCHANNELOMM_SMPL_APR_DAY_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865698198795.fa reads/WESTERNCHANNELOMM_SMPL_153-APR_DAY_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865698198795.fa
+iput reads/WESTERNCHANNELOMM_SMPL_153-APR_DAY_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865740141835.fa reads/WESTERNCHANNELOMM_SMPL_JAN_NIGHT_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865740141835.fa
+iput reads/WESTERNCHANNELOMM_SMPL_JAN_NIGHT_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865819833611.fa reads/WESTERNCHANNELOMM_SMPL_152-JAN_NIGHT_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865819833611.fa
+iput reads/WESTERNCHANNELOMM_SMPL_152-JAN_NIGHT_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865865970955.fa reads/WESTERNCHANNELOMM_SMPL_JAN_DAY_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865865970955.fa
+iput reads/WESTERNCHANNELOMM_SMPL_JAN_DAY_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865924691211.fa reads/WESTERNCHANNELOMM_SMPL_151-JAN_DAY_PREFILTER.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865924691211.fa
+iput reads/WESTERNCHANNELOMM_SMPL_151-JAN_DAY_PREFILTER.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989865970828555.fa reads/WESTERNCHANNELOMM_SMPL_JAN_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989865970828555.fa
+iput reads/WESTERNCHANNELOMM_SMPL_JAN_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1366989866008577291.fa reads/WESTERNCHANNELOMM_SMPL_150-JAN_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1366989866008577291.fa
+iput reads/WESTERNCHANNELOMM_SMPL_150-JAN_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067410584843.fa reads/WESTERNCHANNELOMM_SMPL_175_AUG_10AM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067410584843.fa
+iput reads/WESTERNCHANNELOMM_SMPL_175_AUG_10AM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067481888011.fa reads/WESTERNCHANNELOMM_SMPL_174_AUG_4AM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067481888011.fa
+iput reads/WESTERNCHANNELOMM_SMPL_174_AUG_4AM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067540608267.fa reads/WESTERNCHANNELOMM_SMPL_173_AUG_10PM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067540608267.fa
+iput reads/WESTERNCHANNELOMM_SMPL_173_AUG_10PM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067595134219.fa reads/WESTERNCHANNELOMM_SMPL_172_AUG_4PM_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067595134219.fa
+iput reads/WESTERNCHANNELOMM_SMPL_172_AUG_4PM_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067649660171.fa reads/WESTERNCHANNELOMM_SMPL_179_APR_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067649660171.fa
+iput reads/WESTERNCHANNELOMM_SMPL_179_APR_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067704186123.fa reads/WESTERNCHANNELOMM_SMPL_177_APR_NIGHT_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067704186123.fa
+iput reads/WESTERNCHANNELOMM_SMPL_177_APR_NIGHT_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067771294987.fa reads/WESTERNCHANNELOMM_SMPL_176_APR_DAY_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067771294987.fa
+iput reads/WESTERNCHANNELOMM_SMPL_176_APR_DAY_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067825820939.fa reads/WESTERNCHANNELOMM_SMPL_171_JAN_NIGHT_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067825820939.fa
+iput reads/WESTERNCHANNELOMM_SMPL_171_JAN_NIGHT_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067876152587.fa reads/WESTERNCHANNELOMM_SMPL_170_JAN_DAY_PF.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067876152587.fa
+iput reads/WESTERNCHANNELOMM_SMPL_170_JAN_DAY_PF.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1370530067930678539.fa reads/WESTERNCHANNELOMM_SMPL_178_JAN_DAY.fa
+irm /iplant/home/shared/imicrobe/projects/72/samples/1370530067930678539.fa
+iput reads/WESTERNCHANNELOMM_SMPL_178_JAN_DAY.fa /iplant/home/shared/imicrobe/projects/72/samples/
+mv reads/1372769123590735115.fa reads/HMP_SMPL_HMP16S_JCVI.fa
+irm /iplant/home/shared/imicrobe/projects/30/samples/1372769123590735115.fa
+iput reads/HMP_SMPL_HMP16S_JCVI.fa /iplant/home/shared/imicrobe/projects/30/samples/
+mv reads/1372769123620095243.fa reads/HMP_SMPL_HMP16S_WIBR.fa
+irm /iplant/home/shared/imicrobe/projects/30/samples/1372769123620095243.fa
+iput reads/HMP_SMPL_HMP16S_WIBR.fa /iplant/home/shared/imicrobe/projects/30/samples/
+mv reads/1373110013647652107.fa reads/HUMANDISTALGUT_SMPL_UNCULTUREDBACTERIA.fa
+irm /iplant/home/shared/imicrobe/projects/32/samples/1373110013647652107.fa
+iput reads/HUMANDISTALGUT_SMPL_UNCULTUREDBACTERIA.fa /iplant/home/shared/imicrobe/projects/32/samples/
+mv reads/1373110013668623627.fa reads/HUMANDISTALGUT_SMPL_BIFIDOBACTERIUMLONGUM.fa
+irm /iplant/home/shared/imicrobe/projects/32/samples/1373110013668623627.fa
+iput reads/HUMANDISTALGUT_SMPL_BIFIDOBACTERIUMLONGUM.fa /iplant/home/shared/imicrobe/projects/32/samples/
+mv reads/1373110013689595147.fa reads/HUMANDISTALGUT_SMPL_METHANOBREVIBACTERSMITHII.fa
+irm /iplant/home/shared/imicrobe/projects/32/samples/1373110013689595147.fa
+iput reads/HUMANDISTALGUT_SMPL_METHANOBREVIBACTERSMITHII.fa /iplant/home/shared/imicrobe/projects/32/samples/
+mv reads/1378102155101078795.fa reads/PERUMARGINSEDIMENT_SMPL_MBSF_1ORIGINAL.fa
+irm /iplant/home/shared/imicrobe/projects/54/samples/1378102155101078795.fa
+iput reads/PERUMARGINSEDIMENT_SMPL_MBSF_1ORIGINAL.fa /iplant/home/shared/imicrobe/projects/54/samples/
+mv reads/1378102155189159179.fa reads/PERUMARGINSEDIMENT_SMPL_MBSF_1AMPLIFIED.fa
+irm /iplant/home/shared/imicrobe/projects/54/samples/1378102155189159179.fa
+iput reads/PERUMARGINSEDIMENT_SMPL_MBSF_1AMPLIFIED.fa /iplant/home/shared/imicrobe/projects/54/samples/
+mv reads/1378102155264656651.fa reads/PERUMARGINSEDIMENT_SMPL_MBSF_16AMPLIFIED.fa
+irm /iplant/home/shared/imicrobe/projects/54/samples/1378102155264656651.fa
+iput reads/PERUMARGINSEDIMENT_SMPL_MBSF_16AMPLIFIED.fa /iplant/home/shared/imicrobe/projects/54/samples/
+mv reads/1378102155340154123.fa reads/PERUMARGINSEDIMENT_SMPL_MBSF_32AMPLIFIED.fa
+irm /iplant/home/shared/imicrobe/projects/54/samples/1378102155340154123.fa
+iput reads/PERUMARGINSEDIMENT_SMPL_MBSF_32AMPLIFIED.fa /iplant/home/shared/imicrobe/projects/54/samples/
+mv reads/1378102155411457291.fa reads/PERUMARGINSEDIMENT_SMPL_MBSF_50AMPLIFIED.fa
+irm /iplant/home/shared/imicrobe/projects/54/samples/1378102155411457291.fa
+iput reads/PERUMARGINSEDIMENT_SMPL_MBSF_50AMPLIFIED.fa /iplant/home/shared/imicrobe/projects/54/samples/
+mv reads/1380619975747699979.fa reads/SAM_SMPL_SAMPLE1.fa
+irm /iplant/home/shared/imicrobe/projects/56/samples/1380619975747699979.fa
+iput reads/SAM_SMPL_SAMPLE1.fa /iplant/home/shared/imicrobe/projects/56/samples/
+mv reads/1380619975823197451.fa reads/SAM_SMPL_SAMPLE2.fa
+irm /iplant/home/shared/imicrobe/projects/56/samples/1380619975823197451.fa
+iput reads/SAM_SMPL_SAMPLE2.fa /iplant/home/shared/imicrobe/projects/56/samples/
+mv reads/1382448830435296523.fa reads/BISONMETAGENOME_SMPL_BISONPOOL_1.fa
+irm /iplant/home/shared/imicrobe/projects/9/samples/1382448830435296523.fa
+iput reads/BISONMETAGENOME_SMPL_BISONPOOL_1.fa /iplant/home/shared/imicrobe/projects/9/samples/
+mv reads/1382448830464656651.fa reads/BISONMETAGENOME_SMPL_BISONPOOL_3.fa
+irm /iplant/home/shared/imicrobe/projects/9/samples/1382448830464656651.fa
+iput reads/BISONMETAGENOME_SMPL_BISONPOOL_3.fa /iplant/home/shared/imicrobe/projects/9/samples/
+mv reads/1382448830481433867.fa reads/BISONMETAGENOME_SMPL_BISONPOOL_4.fa
+irm /iplant/home/shared/imicrobe/projects/9/samples/1382448830481433867.fa
+iput reads/BISONMETAGENOME_SMPL_BISONPOOL_4.fa /iplant/home/shared/imicrobe/projects/9/samples/
+mv reads/1382448830506599691.fa reads/BISONMETAGENOME_SMPL_BISONPOOL_5.fa
+irm /iplant/home/shared/imicrobe/projects/9/samples/1382448830506599691.fa
+iput reads/BISONMETAGENOME_SMPL_BISONPOOL_5.fa /iplant/home/shared/imicrobe/projects/9/samples/
+mv reads/1385714565320279307.fa reads/SAPELO2008_SMPL_FN56.fa
+irm /iplant/home/shared/imicrobe/projects/59/samples/1385714565320279307.fa
+iput reads/SAPELO2008_SMPL_FN56.fa /iplant/home/shared/imicrobe/projects/59/samples/
+mv reads/1385714565370610955.fa reads/SAPELO2008_SMPL_FN57.fa
+irm /iplant/home/shared/imicrobe/projects/59/samples/1385714565370610955.fa
+iput reads/SAPELO2008_SMPL_FN57.fa /iplant/home/shared/imicrobe/projects/59/samples/
+mv reads/1388270474122757387.fa reads/WASTEWATER_SMPL_AEROBICBASIN16S_967F_1177R.fa
+irm /iplant/home/shared/imicrobe/projects/71/samples/1388270474122757387.fa
+iput reads/WASTEWATER_SMPL_AEROBICBASIN16S_967F_1177R.fa /iplant/home/shared/imicrobe/projects/71/samples/
+mv reads/1388270474156311819.fa reads/WASTEWATER_SMPL_AEROBICBASIN16S_967F_1046R.fa
+irm /iplant/home/shared/imicrobe/projects/71/samples/1388270474156311819.fa
+iput reads/WASTEWATER_SMPL_AEROBICBASIN16S_967F_1046R.fa /iplant/home/shared/imicrobe/projects/71/samples/
+mv reads/1388270474189866251.fa reads/WASTEWATER_SMPL_AEROBICBASIN16S_341F_517R.fa
+irm /iplant/home/shared/imicrobe/projects/71/samples/1388270474189866251.fa
+iput reads/WASTEWATER_SMPL_AEROBICBASIN16S_341F_517R.fa /iplant/home/shared/imicrobe/projects/71/samples/
+mv reads/1388270474219226379.fa reads/WASTEWATER_SMPL_AEROBICBASIN16S_27F_337R.fa
+irm /iplant/home/shared/imicrobe/projects/71/samples/1388270474219226379.fa
+iput reads/WASTEWATER_SMPL_AEROBICBASIN16S_27F_337R.fa /iplant/home/shared/imicrobe/projects/71/samples/
+mv reads/1388270474248586507.fa reads/WASTEWATER_SMPL_AEROBICBASINGENOMIC.fa
+irm /iplant/home/shared/imicrobe/projects/71/samples/1388270474248586507.fa
+iput reads/WASTEWATER_SMPL_AEROBICBASINGENOMIC.fa /iplant/home/shared/imicrobe/projects/71/samples/

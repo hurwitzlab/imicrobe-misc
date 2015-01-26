@@ -1,0 +1,18 @@
+drop table if exists library;
+create table library (
+    library_id int unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    sample_id int unsigned NOT NULL,
+    library_acc varchar(100),
+    library_name varchar(100),
+    key (sample_id),
+    foreign key (sample_id) references sample (sample_id) on delete cascade
+) ENGING=InnoDB;
+
+drop table if exists metagenome;
+create table metagenome (
+    metagenome_id int unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    library_id int unsigned NOT NULL,
+    metagenome_name varchar(100),
+    key (library_id),
+    foreign key (library_id) references library (library_id) on delete cascade
+) ENGING=InnoDB;

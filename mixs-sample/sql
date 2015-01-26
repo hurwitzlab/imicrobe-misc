@@ -1,0 +1,15 @@
+CREATE TABLE sample_metadata (
+  sample_metadata_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+  metadata_type_id int(10) unsigned NOT NULL,
+  sample_id int(10) unsigned NOT NULL,
+  metadata_value varchar(255) NOT NULL,
+  PRIMARY KEY (sample_metadata_id),
+  UNIQUE KEY sample_id (sample_id,sample_metadata_type_id,attr_value),
+  KEY sample_metadata_type_id (sample_attr_type_id),
+  CONSTRAINT sample_metadata_ibfk_1 FOREIGN KEY (sample_attr_type_id) REFERENCES sample_attr_type (sample_attr_type_id),
+  CONSTRAINT sample_metadata_ibfk_2 FOREIGN KEY (sample_id) REFERENCES sample (sample_id) ON DELETE CASCADE
+) ENGINE=InnoDB
+
+CREATE TABLE metadata_type (
+  metadata_type_id int(10) unsigned NOT NULL AUTO_INCREMENT,
+) ENGINE=InnoDB

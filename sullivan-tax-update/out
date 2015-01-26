@@ -1,0 +1,63 @@
+    1: BROADPHAGEGENOMES_SMPL_S-SM2_G1159 (435) family: '' -> Myoviridae
+    2: BROADPHAGEGENOMES_SMPL_S-SM2_G1159 (435) genus: '' -> T4-like viruses
+    3: BROADPHAGEGENOMES_SMPL_S-SM2_G1159 (435) species: '' -> Synechococcus phage S-SM2
+    4: BROADPHAGEGENOMES_SMPL_S-SSM7_G1167 (437) family: '' -> Myoviridae
+    5: BROADPHAGEGENOMES_SMPL_S-SSM7_G1167 (437) genus: '' -> T4-like viruses
+    6: BROADPHAGEGENOMES_SMPL_S-SSM7_G1167 (437) species: '' -> Synechococcus phage S-SSM7
+    7: BROADPHAGEGENOMES_SMPL_SYN33_G1163 (441) family: '' -> Myoviridae
+    8: BROADPHAGEGENOMES_SMPL_SYN33_G1163 (441) genus: '' -> T4-like viruses
+    9: BROADPHAGEGENOMES_SMPL_SYN33_G1163 (441) species: '' -> Prochlorococcus phage Syn33
+   10: BROADPHAGEGENOMES_SMPL_SYN1_G1160 (439) family: '' -> Myoviridae
+   11: BROADPHAGEGENOMES_SMPL_SYN1_G1160 (439) genus: '' -> T4-like viruses
+   12: BROADPHAGEGENOMES_SMPL_SYN1_G1160 (439) species: '' -> Prochlorococcus phage Syn1
+   13: BROADPHAGEGENOMES_SMPL_9515-10A_G1321 (427) family: '' -> Podoviridae
+   14: BROADPHAGEGENOMES_SMPL_9515-10A_G1321 (427) genus: '' -> T7-like viruses
+   15: BROADPHAGEGENOMES_SMPL_9515-10A_G1321 (427) species: '' -> Cyanophage 9515-10a
+   16: BROADPHAGEGENOMES_SMPL_P-SSM7_G1169 (432) family: '' -> Myoviridae
+   17: BROADPHAGEGENOMES_SMPL_P-SSM7_G1169 (432) genus: '' -> T4-like viruses
+   18: BROADPHAGEGENOMES_SMPL_P-SSM7_G1169 (432) species: '' -> Prochlorococcus phage P-SSM7
+   19: BROADPHAGEGENOMES_SMPL_P-HM2_G1155 (430) family: '' ->  Myoviridae
+   20: BROADPHAGEGENOMES_SMPL_P-HM2_G1155 (430) genus: '' -> T4-like viruses
+   21: BROADPHAGEGENOMES_SMPL_P-HM2_G1155 (430) species: '' -> Prochlorococcus phage P-HM2
+   22: BROADPHAGEGENOMES_SMPL_P-HM1_G1154 (429) family: '' -> Myoviridae
+   23: BROADPHAGEGENOMES_SMPL_P-HM1_G1154 (429) genus: '' -> T4-like viruses
+   24: BROADPHAGEGENOMES_SMPL_P-HM1_G1154 (429) species: '' -> Prochlorococcus phage P-HM1
+   25: BROADPHAGEGENOMES_SMPL_P-RSM4_G1161 (431) family: '' -> Myoviridae
+   26: BROADPHAGEGENOMES_SMPL_P-RSM4_G1161 (431) genus: '' -> T4-like viruses
+   27: BROADPHAGEGENOMES_SMPL_P-RSM4_G1161 (431) species: '' -> Prochlorococcus phage P-RSM4
+   28: BROADPHAGEGENOMES_SMPL_S-SM1_G1061 (434) family: '' -> Myoviridae
+   29: BROADPHAGEGENOMES_SMPL_S-SM1_G1061 (434) genus: '' -> T4-like viruses
+   30: BROADPHAGEGENOMES_SMPL_S-SM1_G1061 (434) species: '' -> Synechococcus phage S-SM1
+   31: BROADPHAGEGENOMES_SMPL_SYN19_G1165 (438) family: '' -> Myoviridae
+   32: BROADPHAGEGENOMES_SMPL_SYN19_G1165 (438) genus: '' -> T4-like viruses
+   33: BROADPHAGEGENOMES_SMPL_SYN19_G1165 (438) species: '' -> Synechococcus phage Syn19
+   34: BROADPHAGEGENOMES_SMPL_SYN26_G1170 (440) family: '' -> Podoviridae
+   35: BROADPHAGEGENOMES_SMPL_SYN26_G1170 (440) genus: '' -> T7-like viruses
+   36: BROADPHAGEGENOMES_SMPL_SYN26_G1170 (440) species: '' -> Cyanophage Syn26
+   37: BROADPHAGEGENOMES_SMPL_S-SHM2_G1164 (433) family: '' -> Myoviridae
+   38: BROADPHAGEGENOMES_SMPL_S-SHM2_G1164 (433) genus: '' -> T4-like viruses
+   39: BROADPHAGEGENOMES_SMPL_S-SHM2_G1164 (433) species: '' -> Synechococcus phage S-ShM2
+   40: BROADPHAGEGENOMES_SMPL_NATL1A-7_G1172 (426) family: '' -> Podoviridae
+   41: BROADPHAGEGENOMES_SMPL_NATL1A-7_G1172 (426) genus: '' -> T7-like viruses
+   42: BROADPHAGEGENOMES_SMPL_NATL1A-7_G1172 (426) species: '' -> Cyanophage NATL1A-7
+   43: BROADPHAGEGENOMES_SMPL_S-SSM5_G1166 (436) family: '' -> Myoviridae
+   44: BROADPHAGEGENOMES_SMPL_S-SSM5_G1166 (436) genus: '' -> T4-like viruses
+   45: BROADPHAGEGENOMES_SMPL_S-SSM5_G1166 (436) species: '' -> Synechococcus phage S-SSM5
+   46: BROADPHAGEGENOMES_SMPL_NATL2A-133_G1171 (428) family: '' -> Podoviridae
+   47: BROADPHAGEGENOMES_SMPL_NATL2A-133_G1171 (428) genus: '' -> T7-like viruses
+   48: BROADPHAGEGENOMES_SMPL_NATL2A-133_G1171 (428) species: '' -> Cyanophage NATL2A-133
+   49: Podovirus S-CBP42 (host bacterium Synechococcus sp. WH7803) ~50kb (512) family: '' -> Podoviridae
+   50: Podovirus S-CBP42 (host bacterium Synechococcus sp. WH7803) ~50kb (512) species: '' -> Synechococcus phage S-CBP42
+   51: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101 	RIM2_R21_2007 (446) family: '' -> Myoviridae
+   52: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101 	RIM2_R21_2007 (446) species: '' -> Synechococcus phage S-RIM2
+   53: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101 RIM2_R0_1999 (447) family: '' -> Myoviridae
+   54: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101 RIM2_R0_1999 (447) species: '' -> Synechococcus phage S-RIM2
+   55: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101	 RIM2_R9_2006 (448) family: '' -> Myoviridae
+   56: Synechococcus spp. WH7803, WH8012, WH8018 and WH8101	 RIM2_R9_2006 (448) species: '' -> Synechococcus phage S-RIM2
+   57: Cyanophage NATL2A-3 (471) species: '' -> Prochlorococcus phage P-SSM3
+   58: Synechococcus sp. CB0101 S-CBM2 (514) family: '' -> Myoviridae
+   59: Synechococcus sp. CB0101 S-CBM2 (514) species: '' -> Synechococcus phage S-CBM2
+   60: Cyanophage NATL2A-14 (470) species: '' -> Prochlorococcus phage P-SSM5
+   61: Cyanophage MED4-8a (469) species: '' -> Prochlorococcus phage P-GSP1
+   62: Cyanophage 9515-11a (468) species: '' -> Prochlorococcus phage P-SSP6
+Done.

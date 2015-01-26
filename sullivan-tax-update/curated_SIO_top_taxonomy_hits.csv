@@ -1,0 +1,831 @@
+taxon_id,species,superkingdom,genus,family
+444860,Synechococcus phage S-SM2,Viruses,T4-like viruses,Myoviridae
+268746,Prochlorococcus phage P-SSM2,Viruses,T4-like viruses,Myoviridae
+445686,Synechococcus phage S-SSM7,Viruses,T4-like viruses,Myoviridae
+462590,Pseudomonas phage YuA,Viruses,,Siphoviridae
+136084,Roseobacter phage SIO1,Viruses,,Podoviridae
+444878,Prochlorococcus phage Syn33,Viruses,T4-like viruses,Myoviridae
+444861,Prochlorococcus phage Syn1,Viruses,T4-like viruses,Myoviridae
+555387,Synechococcus phage S-RSM4,Viruses,T4-like viruses,Myoviridae
+279383,Phage phiJL001,Viruses,,Siphoviridae
+444875,Cyanophage 9515-10a,Viruses,T7-like viruses,Podoviridae
+322019,Acanthocystis turfacea Chlorella virus 1,Viruses,Chlorovirus,Phycodnaviridae
+445688,Prochlorococcus phage P-SSM7,Viruses,T4-like viruses,Myoviridae
+445696,Prochlorococcus phage P-HM2,Viruses,T4-like viruses, Myoviridae
+238854,Synechococcus phage S-PM2,Viruses,T4-like viruses,Myoviridae
+445700,Prochlorococcus phage P-HM1,Viruses,T4-like viruses,Myoviridae
+444862,Prochlorococcus phage P-RSM4,Viruses,T4-like viruses,Myoviridae
+444859,Synechococcus phage S-SM1,Viruses,T4-like viruses,Myoviridae
+268748,Prochlorococcus phage P-SSP7,Viruses,,Podoviridae
+445684,Synechococcus phage Syn19,Viruses,T4-like viruses,Myoviridae
+444876,Cyanophage Syn26,Viruses,T7-like viruses,Podoviridae
+445683,Synechococcus phage S-ShM2,Viruses,T4-like viruses,Myoviridae
+347328,Pseudomonas phage M6,Viruses,,Siphoviridae
+445693,Cyanophage NATL1A-7,Viruses,T7-like viruses,Podoviridae
+382359,Synechococcus phage syn9,Viruses,T4-like viruses,Myoviridae
+445685,Synechococcus phage S-SSM5,Viruses,T4-like viruses,Myoviridae
+445692,Cyanophage NATL2A-133,Viruses,T7-like viruses,Podoviridae
+268747,Prochlorococcus phage P-SSM4,Viruses,T4-like viruses,Myoviridae
+347327,Pseudomonas phage PA11,Viruses,,
+658401,Cyanophage PSS2,Viruses,,Siphoviridae
+484895,Pseudomonas phage LUZ24,Viruses,LUZ24-like viruses,Podoviridae
+438482,Synechococcus phage Syn5,Viruses,,Podoviridae
+188350,Pseudomonas phage PaP3,Viruses,LUZ24-like viruses,Podoviridae
+322855,Xanthomonas phage Xp15,Viruses,,
+236210,Podovirus SOG,Viruses,,Podoviridae
+880161,Micromonas sp. RCC1109 virus MpV1,Viruses,Prasinovirus,Phycodnaviridae
+148943,Rhodothermus phage RM378,Viruses,,Myoviridae
+880159,Bathycoccus sp. RCC1105 virus BpV1,Viruses,Prasinovirus,Phycodnaviridae
+260372,Vibrio phage VP2,Viruses,VP2-like phages,Podoviridae
+294631,Flavobacterium phage 11b,Viruses,,Siphoviridae
+236244,Podovirus GOM,Viruses,,Podoviridae
+373405,Mycobacterium phage Che12,Viruses,,Siphoviridae
+10719,Streptomyces phage phiC31,Viruses,PhiC31-like viruses,Siphoviridae
+369581,Stenotrophomonas phage Smp14,Viruses,T4-like viruses,Myoviridae
+880160,Bathycoccus sp. RCC1105 virus BpV2,Viruses,Prasinovirus,Phycodnaviridae
+417280,Burkholderia ambifaria phage BcepF1,Viruses,,Myoviridae
+260827,Vibrio phage VP5,Viruses,VP2-like phages,Podoviridae
+562742,Roseobacter phage RDJL Phi 1,Viruses,,Siphoviridae
+582382,Pseudomonas phage SN,Viruses,,Myoviridae
+877240,Pseudoalteromonas phage H105/1,Viruses,,Siphoviridae
+225588,Streptomyces phage phiBT1,Viruses,PhiC31-like viruses,Siphoviridae
+212035,Acanthamoeba polyphaga mimivirus,Viruses,Mimivirus,Mimiviridae
+151528,Synechococcus phage P60,Viruses,,Podoviridae
+749447,Pseudomonas phage JG024,Viruses,,Myoviridae
+310539,Listonella phage phiHSIC,Viruses,,Siphoviridae
+743813,Pseudomonas phage PAK_P1,Viruses,,Myoviridae
+194699,Bordetella phage BPP-1,Viruses,Bpp-1-like viruses,Podoviridae
+722418,Campylobacter phage CPt10,Viruses,,Myoviridae
+879628,Aeromonas phage phiAS4,Viruses,T4-like viruses,Myoviridae
+260149,Aeromonas phage 65,Viruses,T4-like viruses,Myoviridae
+440250,Phormidium phage Pf-WMP3,Viruses,,Podoviridae
+747763,Streptomyces phage phiSASD1,Viruses,PhiC31-like viruses,Siphoviridae
+10685,Bacillus phage SPO1,Viruses,SPO1-like viruses,Myoviridae
+665032,Deftia phage phiW-14,Viruses,,Myoviridae
+540068,Mycobacterium phage Pukovnik,Viruses,,Siphoviridae
+340435,Microcystis aeruginosa phage Ma-LMM01,Viruses,,Myoviridae
+489089,Ostreococcus virus OsV5,Viruses,,Phycodnaviridae
+205879,Mycobacterium phage Omega,Viruses,,Siphoviridae
+194802,Vibrio phage VpV262,Viruses,,Podoviridae
+538398,Pseudomonas phage PB1,Viruses,,Myoviridae
+696472,Ostreococcus tauri virus 2,Viruses,,Phycodnaviridae
+926067,Aeromonas phage PX29,Viruses,T4-like viruses,Myoviridae
+491003,Enterobacteria phage EPS7,Viruses,,Siphoviridae
+880162,Ostreococcus lucimarinus virus OlV1,Viruses,Prasinovirus,Phycodnaviridae
+760939,Acinetobacter phage Acj9,Viruses,T4-like viruses,Myoviridae
+205868,Mycobacterium phage Che8,Viruses,,Siphoviridae
+321023,Aeromonas phage 31,Viruses,T4-like viruses,Myoviridae
+467481,Azospirillum phage Cd,Viruses,,Siphoviridae
+10704,Rhizobium phage 16-3,Viruses,,Siphoviridae
+549445,Pseudomonas phage LBL3,Viruses,,Myoviridae
+551790,Ralstonia phage RSB1,Viruses,phiKMV-like viruses,Podoviridae
+233894,Aeromonas phage 25,Viruses,T4-like viruses,Myoviridae
+482058,Ralstonia phage RSL1,Viruses,,Myoviridae
+227720,Yersinia pestis phage phiA1122,Viruses,T7-like viruses,Podoviridae
+279280,Burkholderia phage BcepC6B,Viruses,Bpp-1-like viruses,Podoviridae
+879630,Aeromonas phage phiAS5,Viruses,T4-like viruses,Myoviridae
+637730,Shigella phage phiSboM-AG3,Viruses,,Myoviridae
+642926,Ostreococcus tauri virus 1,Viruses,,Phycodnaviridae
+10726,Enterobacteria phage T5,Viruses,T5-like viruses,Siphoviridae
+351709,Cyanophage S-CBP3,Viruses,,Podoviridae
+889876,Acinetobacter phage AB1,Viruses,,Siphoviridae
+762660,Acinetobacter phage Ac42,Viruses,T4-like viruses,Myoviridae
+722417,Campylobacter phage CP220,Viruses,,Myoviridae
+674081,Klebsiella phage KP34,Viruses,,Podoviridae
+581037,Pseudomonas phage 14-1,Viruses,,Myoviridae
+227470,Aeromonas phage Aeh1,Viruses,T4-like viruses,Myoviridae
+451705,Enterobacteria phage phiEcoM-GJ1,Viruses,,Myoviridae
+437329,Burkholderia phage BcepGomr,Viruses,,Siphoviridae
+10506,Paramecium bursaria Chlorella virus 1,Viruses,Chlorovirus,Phycodnaviridae
+867696,Salmonella phage Vi01,Viruses,,Myoviridae
+49964,Myxococcus phage Mx8,Viruses,,Podoviridae
+351707,Cyanophage S-CBP1,Viruses,,Podoviridae
+469660,Thalassomonas phage BA3,Viruses,,Podoviridae
+707757,Klebsiella phage KP15,Viruses,T4-like viruses,Myoviridae
+711470,Mycobacterium phage RedRock,Viruses,,Siphoviridae
+760732,Acinetobacter phage Acj61,Viruses,T4-like viruses,Myoviridae
+380598,Paramecium bursaria Chlorella virus AR158,Viruses,Chlorovirus,Phycodnaviridae
+693272,Cafeteria roenbergensis virus BV-PW1,Viruses,,
+663557,Mycobacterium phage Peaches,Viruses,,Siphoviridae
+342373,Yersinia phage PY100,Viruses,,Myoviridae
+709484,Enterobacteria phage CC31,Viruses,T4-like viruses,Myoviridae
+373126,Sodalis phage phiSG1,Viruses,,
+264653,Synechococcus phage S-RSM2,Viruses,,Myoviridae
+559189,Clostridium phage phiCD27,Viruses,,Myoviridae
+10707,Enterobacteria phage BF23,Viruses,T5-like viruses,Siphoviridae
+549446,Pseudomonas phage LMA2,Viruses,,Myoviridae
+576789,Enterobacteria phage JSE,Viruses,T4-like viruses,Myoviridae
+115987,Aeromonas phage 44RR2.8t,Viruses,T4-like viruses,Myoviridae
+373413,Mycobacterium phage Pipefish,Viruses,,Siphoviridae
+330397,Listeria phage B054,Viruses,,Siphoviridae
+279006,Acinetobacter phage 133,Viruses,T4-like viruses,Myoviridae
+31757,Mycobacterium phage L5,Viruses,L5-like viruses,Siphoviridae
+925983,Erwinia phage phiEa100,Viruses,,
+329381,Enterobacteria phage RB16,Viruses,T4-like viruses,Myoviridae
+205876,Mycobacterium phage Che9d,Viruses,,Siphoviridae
+700939,Enterobacteria phage vB_EcoM-VR7,Viruses,T4-like viruses,Myoviridae
+526118,Morganella phage MmP1,Viruses,T7-like viruses,Podoviridae
+242527,Burkholderia phage Bcep22,Viruses,,Podoviridae
+532075,Enterobacteria phage EcoDS1,Viruses,T7-like viruses,Podoviridae
+46021,Paramecium bursaria Chlorella virus NY2A,Viruses,Chlorovirus,Phycodnaviridae
+205870,Mycobacterium phage Bxz2,Viruses,,Siphoviridae
+698490,Escherichia phage K1ind3,Viruses,,
+347325,Pseudomonas phage 73,Viruses,,Siphoviridae
+344021,Enterobacteria phage K1F,Viruses,T7-like viruses,Podoviridae
+683735,Aggregatibacter phage S1249,Viruses,,Myoviridae
+194966,Enterobacteria phage SP6,Viruses,SP6-like viruses,Podoviridae
+543152,Mycobacterium phage Nigel,Viruses,,Siphoviridae
+749413,Deep-sea thermophilic phage D6E,Viruses,,
+187764,Enterobacteria phage K1-5,Viruses,SP6-like viruses,Podoviridae
+173824,Methanothermobacter phage psiM100,Viruses,,Siphoviridae
+261726,Vibrio phage VP882,Viruses,,Myoviridae
+546805,Mycobacterium phage Myrna,Viruses,,Myoviridae
+697227,Enterobacteria phage IME08,Viruses,T4-like viruses,Myoviridae
+329254,Xanthomonas phage OP1,Viruses,,Siphoviridae
+687799,Cyanophage S-RIM17,Viruses,,Myoviridae
+399183,Escherichia phage rv5,Viruses,,Myoviridae
+691318,Acinetobacter phage phiAB1,Viruses,,
+424716,Salmonella phage Vi II-E1,Viruses,,Siphoviridae
+563123,Mycobacterium phage Ramsey,Viruses,,Siphoviridae
+663241,Enterococcus phage phiEf11,Viruses,,Siphoviridae
+655097,Pseudomonas phage LUZ7,Viruses,N4-like viruses,Podoviridae
+263374,Bordetella phage BMP-1,Viruses,Bpp-1-like viruses,Podoviridae
+424944,Salmonella phage SETP3,Viruses,,Siphoviridae
+407392,Thermus phage phiYS40,Viruses,,Myoviridae
+861047,Mycobacterium phage LeBron,Viruses,,Siphoviridae
+179237,Sinorhizobium phage PBC5,Viruses,,
+698486,Escherichia phage K1G,Viruses,,
+370623,Streptomyces phage mu1/6,Viruses,,Siphoviridae
+12353,Enterobacteria phage RB69,Viruses,T4-like viruses,Myoviridae
+205869,Mycobacterium phage Cjw1,Viruses,,Siphoviridae
+693582,Pseudomonas phage phi-2,Viruses,phiKMV-like viruses,Podoviridae
+40523,Listeria phage A511,Viruses,SPO1-like viruses,Myoviridae
+673375,Sodalis phage SO-1,Viruses,,Siphoviridae
+448384,Enterobacteria phage Phi1,Viruses,T4-like viruses,Myoviridae
+546182,Mycobacterium phage Boomer,Viruses,,Siphoviridae
+424948,Salmonella phage SETP11,Viruses,,Siphoviridae
+344022,Enterobacteria phage K1E,Viruses,SP6-like viruses,Podoviridae
+65015,Synechococcus phage S-WHM1,Viruses,,Myoviridae
+88870,Mycobacterium phage TM4,Viruses,,Siphoviridae
+50948,Enterobacteria phage RB49,Viruses,T4-like viruses,Myoviridae
+10760,Enterobacteria phage T7,Viruses,T7-like viruses,Podoviridae
+115991,Enterobacteria phage RB43,Viruses,T4-like viruses,Myoviridae
+663560,Mycobacterium phage UncleHowie,Viruses,,Siphoviridae
+470314,Xanthomonas phage Xop411,Viruses,,Siphoviridae
+546185,Mycobacterium phage Porky,Viruses,,Siphoviridae
+925986,Erwinia phage phiEa104,Viruses,,
+461711,Synechococcus phage S-CBP42,Viruses,,Podoviridae
+351711,Cyanophage S-CBP2,Viruses,,Podoviridae
+103807,Enterobacteria phage phiP27,Viruses,,Myoviridae
+77048,Methanobacterium phage psiM2,Viruses,,Siphoviridae
+857312,Brochothrix phage A9,Viruses,,Myoviridae
+439809,Mycobacterium phage Tweety,Viruses,,Siphoviridae
+99179,Bacteroides phage B40-8,Viruses,,Siphoviridae
+568989,Bacteriophage APSE-3,Viruses,,
+874471,Roseovarius sp. 217 phage 1,Viruses,N4-like viruses,Podoviridae
+215158,Salmonella phage epsilon15,Viruses,Epsilon15-like viruses,Podoviridae
+298338,Lactobacillus phage LP65,Viruses,SPO1-like viruses,Myoviridae
+293644,Salmonella phage SS3e,Viruses,,Siphoviridae
+674082,Klebsiella phage KP32,Viruses,T7-like viruses,Podoviridae
+698488,Escherichia phage K1ind1,Viruses,,
+698489,Escherichia phage K1ind2,Viruses,,
+624134,Enterobacteria phage SSL-2009a,Viruses,,Siphoviridae
+447909,Geobacillus virus E2,Viruses,,
+466052,Thermus phage P74-26,Viruses,,Siphoviridae
+694060,Staphylococcus phage SA1,Viruses,,Myoviridae
+687801,Cyanophage S-RIM24,Viruses,,Myoviridae
+691963,Rhodococcus phage ReqiPine5,Viruses,,Siphoviridae
+330398,Listeria phage P35,Viruses,,Siphoviridae
+516541,Staphylococcus phage A5W,Viruses,,Myoviridae
+538979,Xanthomonas phage phiL7,Viruses,,Siphoviridae
+551895,Iodobacteriophage phiPLPE,Viruses,,Myoviridae
+232237,Xanthomonas phage Xp10,Viruses,,Siphoviridae
+197783,Pseudomonas phage gh-1,Viruses,T7-like viruses,Podoviridae
+673376,Clostridium phage CP26F,Viruses,,
+373415,Mycobacterium phage Wildcat,Viruses,,Siphoviridae
+480808,Mycobacterium phage Giles,Viruses,,Siphoviridae
+373406,Mycobacterium phage Cooper,Viruses,,Siphoviridae
+77775,Enterobacteria phage Felix 01,Viruses,,Myoviridae
+198110,Pseudomonas phage 201phi2-1,Viruses,phiKZ-like viruses,Myoviridae
+694581,Marseillevirus,Viruses,,
+670252,Xylella phage Xfas53,Viruses,,Podoviridae
+55510,Staphylococcus phage Twort,Viruses,SPO1-like viruses,Myoviridae
+386793,Enterobacteria phage LKA1,Viruses,phiKMV-like viruses,Podoviridae
+644524,Burkholderia phage BcepIL02,Viruses,,Podoviridae
+28369,Mycobacterium phage D29,Viruses,L5-like viruses,Siphoviridae
+244310,Burkholderia phage Bcep1,Viruses,,Myoviridae
+66797,Bacillus phage SPbeta,Viruses,SPbeta-like viruses,Siphoviridae
+871584,Clostridium phage phiCTP1,Viruses,,Siphoviridae
+698487,Escherichia phage K1H,Viruses,,
+576790,Enterobacteria phage JS10,Viruses,T4-like viruses,Myoviridae
+245685,Enterobacteria phage TLS,Viruses,T1-like viruses,Siphoviridae
+242861,Burkholderia phage BcepNazgul,Viruses,,Siphoviridae
+230158,Haemophilus phage Aaphi23,Viruses,,Myoviridae
+10493,Frog virus 3,Viruses,Ranavirus,Iridoviridae
+702821,Staphylococcus phage SAP090D,Viruses,,
+181082,Emiliania huxleyi virus 86,Viruses,Coccolithovirus,Phycodnaviridae
+881953,Lactococcus phage 949,Viruses,,Siphoviridae
+540065,Mycobacterium phage Jasper,Viruses,,Siphoviridae
+557393,Erwinia phage phiEa21-4,Viruses,,Myoviridae
+231992,Feldmannia irregularis virus a,Viruses,Phaeovirus,Phycodnaviridae
+881915,Dickeya phage LIMElight,Viruses,phiKMV-like viruses,Podoviridae
+66711,Enterobacteria phage AR1,Viruses,T4-like viruses,Myoviridae
+554168,Acanthamoeba castellanii mamavirus,Viruses,,Mimiviridae
+176652,Invertebrate iridescent virus 6,Viruses,Iridovirus,Iridoviridae
+645664,Shigella phage SP18,Viruses,T4-like viruses,Myoviridae
+329886,Vibriophage VP4,Viruses,T7-like viruses,Podoviridae
+687802,Cyanophage S-RIM49,Viruses,,Myoviridae
+529929,Salmonella phage phiSG-JL2,Viruses,T7-like viruses,Podoviridae
+442493,Enterococcus phage phiEF24C,Viruses,SPO1-like viruses,Myoviridae
+280701,Pseudomonas phage F116,Viruses,,Podoviridae
+279530,Burkholderia phage BcepB1A,Viruses,,Myoviridae
+10752,Enterobacteria phage N4,Viruses,N4-like viruses,Podoviridae
+644563,Vibrio phage N4,Viruses,T7-like viruses,Podoviridae
+576791,Enterobacteria phage WV8,Viruses,,Myoviridae
+673839,Enterococcus phage phiFL4A,Viruses,,Siphoviridae
+546183,Mycobacterium phage Kostya,Viruses,,Siphoviridae
+205880,Mycobacterium phage Barnyard,Viruses,,Siphoviridae
+582345,Pseudomonas phage KPP10,Viruses,,Myoviridae
+499235,Halomonas phage phiHAP-1,Viruses,,Myoviridae
+370564,Streptococcus phage 2096.1,Viruses,,
+205875,Mycobacterium phage Corndog,Viruses,,Siphoviridae
+264727,Cyanophage S-BM4,Viruses,,Myoviridae
+691966,Rhodococcus phage ReqiDocB7,Viruses,,Siphoviridae
+384848,Corynebacterium phage P1201,Viruses,,Siphoviridae
+540066,Mycobacterium phage KBG,Viruses,,Siphoviridae
+491893,Abalone shriveling syndrome-associated virus,Viruses,,
+890041,Streptococcus phage PhiSpn_200,Viruses,,
+866889,Salmonella phage Vi06,Viruses,T7-like viruses,Podoviridae
+187397,Emiliania huxleyi virus 99B1,Viruses,,
+532077,Klebsiella phage K11,Viruses,T7-like viruses,Podoviridae
+236987,Cyanophage S-RIM,Viruses,,Myoviridae
+110457,Yersinia phage phiYeO3-12,Viruses,T7-like viruses,Podoviridae
+687803,Cyanophage S-RIM50,Viruses,,Myoviridae
+590739,Salmonella phage c341,Viruses,P22-like viruses,Podoviridae
+687800,Synechococcus phage S-RIM2,Viruses,,Myoviridae
+532076,Enterobacteria phage 13a,Viruses,T7-like viruses,Podoviridae
+504346,Pseudomonas phage PAJU2,Viruses,,Siphoviridae
+458639,Bacillus phage 0305phi8-36,Viruses,,Myoviridae
+565140,Bacillus phage TP21-L,Viruses,,Siphoviridae
+279303,Actinoplanes phage phiAsp2,Viruses,,Siphoviridae
+12397,Bacillus phage H2,Viruses,,Siphoviridae
+541865,Clostridium phage 39-O,Viruses,,
+169684,Halobacterium phage phiH,Viruses,phiH-like viruses,Myoviridae
+340054,Bacteriophage APSE-2,Viruses,,Podoviridae
+335797,Burkholderia phage KS9,Viruses,Lambda-like viruses,Siphoviridae
+292029,Staphylococcus phage G1,Viruses,SPO1-like viruses,Myoviridae
+928293,Yersinia phage Yep-phi,Viruses,T7-like viruses,Podoviridae
+646460,Enterobacteria phage IP008,Viruses,,
+755164,Lactobacillus phage LBR48,Viruses,,Myoviridae
+12402,Streptococcus phage EJ-1,Viruses,,Myoviridae
+114777,Natrialba phage PhiCh1,Viruses,,Myoviridae
+400567,Phormidium phage Pf-WMP4,Viruses,,Podoviridae
+255431,Klebsiella phage phiKO2,Viruses,,Siphoviridae
+113376,Iridovirus IV31,Viruses,Iridovirus,Iridoviridae
+490913,Sulfitobacter phage EE36phi1,Viruses,N4-like viruses,Podoviridae
+446807,Burkholderia phage BcepNY3,Viruses,,Myoviridae
+767806,Enterococcus phage EFRM31,Viruses,,Siphoviridae
+532074,Enterobacteria phage BA14,Viruses,T7-like viruses,Podoviridae
+255131,Burkholderia phage phi1026b,Viruses,Lambda-like viruses,Siphoviridae
+197310,Enterobacteria phage RB14,Viruses,T4-like viruses,Myoviridae
+45406,Enterobacteria phage RB32,Viruses,T4-like viruses,Myoviridae
+172667,Yersinia phage PY54,Viruses,,Siphoviridae
+373408,Mycobacterium phage Llij,Viruses,,Siphoviridae
+33771,Halorubrum phage HF2,Viruses,,
+490912,Silicibacter phage DSS3phi2,Viruses,N4-like viruses,Podoviridae
+631719,Vibrio phage VP58.5,Viruses,,Myoviridae
+47049,Kluyvera phage Kvp1,Viruses,T7-like viruses,Podoviridae
+31535,Pseudomonas phage D3,Viruses,,Siphoviridae
+180504,Burkholderia phage phiE125,Viruses,Lambda-like viruses,Siphoviridae
+568993,Bacteriophage APSE-7,Viruses,,
+424949,Salmonella phage SETP13,Viruses,,Siphoviridae
+365048,Geobacillus phage GBSV1,Viruses,,
+686439,Clavibacter phage CMP1,Viruses,,Siphoviridae
+466051,Thermus phage P23-45,Viruses,,Siphoviridae
+101570,Enterobacteria phage ES18,Viruses,,Siphoviridae
+925984,Erwinia phage phiEt88,Viruses,,
+373414,Mycobacterium phage Qyrzula,Viruses,,Siphoviridae
+67571,Endosymbiont phage APSE-1,Viruses,,Podoviridae
+528321,Mycobacterium phage Adjutor,Viruses,,Siphoviridae
+355246,Enterobacteria phage RTP,Viruses,T1-like viruses,Siphoviridae
+10724,Bacillus phage SPP1,Viruses,Lambda-like viruses,Siphoviridae
+673837,Enterococcus phage phiFL3A,Viruses,,Siphoviridae
+50892,Arthrobacter phage phi AAU2,Viruses,,Siphoviridae
+331627,Xanthomonas phage OP2,Viruses,,
+320841,Staphylococcus phage EW,Viruses,,Siphoviridae
+148603,Mycobacterium phage Bxb1,Viruses,L5-like viruses,Siphoviridae
+701454,Mycobacterium phage Fang,Viruses,,Siphoviridae
+546807,Mycobacterium phage ScottMcG,Viruses,,Myoviridae
+418443,Enterobacteria phage Era103,Viruses,SP6-like viruses,Podoviridae
+925985,Erwinia phage phiEa1H,Viruses,,
+741942,Lactococcus phage 1358,Viruses,,
+37665,Ectocarpus siliculosus virus 1,Viruses,Phaeovirus,Phycodnaviridae
+573591,Stenotrophomonas phage S1,Viruses,,Siphoviridae
+40522,Listeria phage A500,Viruses,,Siphoviridae
+10761,Shigella phage Sf6,Viruses,P22-like viruses,Podoviridae
+669008,Enterobacteria phage 285P,Viruses,T7-like viruses,Podoviridae
+655098,Pseudomonas phage LIT1,Viruses,N4-like viruses,Podoviridae
+764562,Brochothrix phage BL3,Viruses,,Siphoviridae
+10702,Streptomyces phage VWB,Viruses,Lambda-like viruses,Siphoviridae
+40631,Enterobacteria phage N15,Viruses,N15-like viruses,Siphoviridae
+348137,Burkholderia phage Bcep176,Viruses,,Siphoviridae
+632112,Lactobacillus phage Lb338-1,Viruses,,Myoviridae
+641832,Vibrio phage VP93,Viruses,phiKMV-like viruses,Podoviridae
+552528,Serratia phage KSP90,Viruses,,Myoviridae
+139871,Lactobacillus johnsonii prophage Lj771,Viruses,,
+337828,Enterobacteria phage JK06,Viruses,,Siphoviridae
+432371,Environmental halophage 1 AAJ-2005,Viruses,,
+347329,Pseudomonas phage F8,Viruses,,Myoviridae
+571950,Streptococcus phage phi-m46.1,Viruses,,
+568990,Bacteriophage APSE-4,Viruses,,
+685506,Mycobacterium phage Ardmore,Viruses,,
+864178,Clostridium phage phiCD6356,Viruses,,Siphoviridae
+270673,Pseudomonas phage PaP2,Viruses,,Podoviridae
+10759,Enterobacteria phage T3,Viruses,T7-like viruses,Podoviridae
+431891,Burkholderia phage phi644-2,Viruses,Lambda-like viruses,Siphoviridae
+59241,Streptococcus phage Dp-1,Viruses,,Siphoviridae
+36363,Lymphocystis disease virus 1,Viruses,Lymphocystivirus,Iridoviridae
+578234,Lactobacillus phage Lv-1,Viruses,,Siphoviridae
+546808,Mycobacterium phage Spud,Viruses,,Myoviridae
+505292,Pseudomonas phage MP38,Viruses,Lambda-like viruses,Siphoviridae
+504553,Propionibacterium phage PAS50,Viruses,,Siphoviridae
+146269,Lactobacillus phage Lc-Nu,Viruses,,Siphoviridae
+568991,Bacteriophage APSE-5,Viruses,,
+379329,Stx2-converting phage 86,Viruses,Lambda-like viruses,Siphoviridae
+260373,Burkholderia phage Bcep43,Viruses,,Myoviridae
+446529,Microbacterium phage Min1,Viruses,,Siphoviridae
+207597,Vibrio phage VHML,Viruses,,Myoviridae
+12355,Enterobacteria phage T1,Viruses,T1-like viruses,Siphoviridae
+591487,Mycobacterium phage Phlyer,Viruses,,Siphoviridae
+10507,Chlorella virus,Viruses,Chlorovirus,Phycodnaviridae
+431894,Burkholderia phage phiE255,Viruses,,Myoviridae
+861045,Mycobacterium phage CrimD,Viruses,,Siphoviridae
+668994,Thermus phage P23-77,Viruses,,
+663554,Mycobacterium phage ET08,Viruses,,Myoviridae
+646413,Streptococcus phage 5093,Viruses,,Siphoviridae
+209052,Burkholderia phage Bcep781,Viruses,,Myoviridae
+169683,Pseudomonas phage phiKZ,Viruses,phiKZ-like viruses,Myoviridae
+878329,Turkey adenovirus 1,Viruses,Aviadenovirus,Adenoviridae
+343516,Escherichia phage phiV10,Viruses,Epsilon15-like viruses,Podoviridae
+413066,Streptococcus phage SMP,Viruses,,
+347326,Pseudomonas phage 119X,Viruses,,Podoviridae
+137511,Leptospira phage LE1,Viruses,,Myoviridae
+423476,Streptococcus phage phi3396,Viruses,,Siphoviridae
+369257,Yersinia phage Berlin,Viruses,T7-like viruses,Podoviridae
+260120,Mycobacterium phage U2,Viruses,,Siphoviridae
+701455,Mycobacterium phage Scoot17C,Viruses,,Siphoviridae
+376758,Propionibacterium phage PA6,Viruses,,Siphoviridae
+205872,Mycobacterium phage Che9c,Viruses,,Siphoviridae
+536453,Prochlorococcus phage P-SSM3,Viruses,,
+35345,Lactococcus phage TP901-1,Viruses,,Siphoviridae
+753089,Synechococcus phage S-MM1,Viruses,,Myoviridae
+703038,Bacillus phage 11143,Viruses,,
+584892,Bacillus phage Bcp1,Viruses,,Myoviridae
+546184,Mycobacterium phage Phaedrus,Viruses,,Siphoviridae
+12348,Lactobacillus phage LL-H,Viruses,,Siphoviridae
+10693,Enterobacteria phage RB51,Viruses,T4-like viruses,Myoviridae
+658056,Clostridium phage D-1873,Viruses,,
+568992,Bacteriophage APSE-6,Viruses,,
+563122,Mycobacterium phage Pacc40,Viruses,,Siphoviridae
+504501,Propionibacterium phage PAD20,Viruses,,Siphoviridae
+37296,Human herpesvirus 8,Viruses,Rhadinovirus,Herpesviridae
+294382,Bacillus phage BCJA1c,Viruses,,Siphoviridae
+561998,Mycobacterium phage Gumball,Viruses,,Siphoviridae
+543939,Sputnik virophage,Viruses,,
+476523,Pseudomonas phage PT5,Viruses,phiKMV-like viruses,Podoviridae
+396034,Bacillus virus 1,Viruses,,
+320836,Staphylococcus phage 2638A,Viruses,,Siphoviridae
+262071,Clostridium phage phiC2,Viruses,,Myoviridae
+627480,Pseudomonas phage phikF77,Viruses,phiKMV-like viruses,Podoviridae
+458434,Novosphingobium phage N-AFCa0707-17,Viruses,,
+264985,Cyanophage S-RSM88,Viruses,T4-like viruses,Myoviridae
+260121,Mycobacterium phage Bethlehem,Viruses,,Siphoviridae
+158197,Bacillus amyloliquefaciens phage Morita2001,Viruses,,Podoviridae
+753090,Synechococcus phage S-BnM1,Viruses,,Myoviridae
+641487,Lactococcus phage P087,Viruses,,Siphoviridae
+56637,Enterobacteria phage K5,Viruses,SP6-like viruses,Podoviridae
+180230,Cyprinid herpesvirus 3,Viruses,Cyprinivirus,Alloherpesviridae
+158683,Diadromus pulchellus ascovirus 4a,Viruses,Ascovirus,Ascoviridae
+912321,Leuconostoc phage phiMH1,Viruses,,Siphoviridae
+701456,Mycobacterium phage SkiPole,Viruses,,Siphoviridae
+666474,Paenibacillus phage phiBP,Viruses,,
+489258,Burkholderia phage Bups phi1,Viruses,,Myoviridae
+39420,Feldmannia species virus,Viruses,Phaeovirus,Phycodnaviridae
+338781,Micromonas pusilla reovirus,Viruses,Mimoreovirus,Reoviridae
+329864,Salmonella phage SE1,Viruses,,Podoviridae
+264484,Klebsiella phage KPP95,Viruses,,
+11676,Human immunodeficiency virus 1,Viruses,Lentivirus,Retroviridae
+11673,Feline immunodeficiency virus,Viruses,Lentivirus,Retroviridae
+910475,Burkholderia phage KS14,Viruses,P2-like viruses,Myoviridae
+536459,Cyanophage P-ShM1,Viruses,T4-like viruses,Myoviridae
+536448,Cyanophage P-RSM5,Viruses,T4-like viruses,Myoviridae
+484896,Pseudomonas phage LUZ19,Viruses,phiKMV-like viruses,Podoviridae
+372457,Streptococcus phage M102,Viruses,,Siphoviridae
+235201,Lactobacillus phage phiJL-1,Viruses,,Siphoviridae
+861044,Mycobacterium phage Angelica,Viruses,,Siphoviridae
+560178,Listeria phage P40,Viruses,,Siphoviridae
+498343,Synechococcus phage SPGM99-15,Viruses,,
+475178,Lactococcus phage 1706,Viruses,,Siphoviridae
+37554,Enterobacteria phage HK97,Viruses,Lambda-like viruses,Siphoviridae
+363555,Lactobacillus phage KC5a,Viruses,,Siphoviridae
+35241,Lactococcus phage Tuc2009,Viruses,,Siphoviridae
+222645,Halovirus HF1,Viruses,,
+169864,unknown phycodnavirus,Viruses,,Phycodnaviridae
+139870,Lactobacillus prophage Lj965,Viruses,,Siphoviridae
+668618,Staphylococcus phage P954,Viruses,,
+532078,Yersinia phage Yepe2,Viruses,T7-like viruses,Podoviridae
+424946,Salmonella phage SETP12,Viruses,,Siphoviridae
+406340,Ralstonia phage phiRSA1,Viruses,P2-like viruses,Myoviridae
+351708,Synechococcus phage S-CBM2,Viruses,,Myoviridae
+330396,Listeria phage B025,Viruses,,Siphoviridae
+320122,Clostridium phage phi CD119,Viruses,,Myoviridae
+256729,Lymphocystis disease virus - isolate China,Viruses,Lymphocystivirus,Iridoviridae
+151599,Pseudomonas phage B3,Viruses,,Siphoviridae
+10717,Bacillus phage phi105,Viruses,Lambda-like viruses,Siphoviridae
+701257,Bacillus phage 250,Viruses,,
+691964,Rhodococcus phage ReqiPoco6,Viruses,,Siphoviridae
+552529,Serratia phage KSP100,Viruses,,Podoviridae
+552525,Bacillus phage IEBH,Viruses,,Siphoviridae
+540064,Mycobacterium phage DD5,Viruses,,Siphoviridae
+459845,Streptococcus phage 858,Viruses,,Siphoviridae
+398839,Staphylococcus phage CNPH82,Viruses,,Siphoviridae
+397353,Pseudomonas phage MP22,Viruses,Lambda-like viruses,Siphoviridae
+320840,Staphylococcus phage 37,Viruses,,Siphoviridae
+265126,Cyanophage S-RSM28,Viruses,,Myoviridae
+10778,Bacillus phage B103,Viruses,Phi29-like viruses,Podoviridae
+649272,Erwinia phage phiAT1,Viruses,,
+496396,Pseudomonas phage PT2,Viruses,phiKMV-like viruses,Podoviridae
+455364,Chrysochromulina ericina virus,Viruses,,Phycodnaviridae
+445516,Staphylococcus phage tp310-2,Viruses,,
+403905,Streptococcus phage P9,Viruses,,Siphoviridae
+347324,Pseudomonas phage F10,Viruses,,Siphoviridae
+31537,Lactococcus phage c2,Viruses,c2-like viruses,Siphoviridae
+306535,Synechococcus phage S-PWM3,Viruses,,Myoviridae
+28358,Corynebacterium phage BFK20,Viruses,,Siphoviridae
+112596,Wolbachia phage WO,Viruses,,
+10756,Bacillus phage phi29,Viruses,Phi29-like viruses,Podoviridae
+10754,Enterobacteria phage P22,Viruses,P22-like viruses,Podoviridae
+10359,Human herpesvirus 5,Viruses,Cytomegalovirus,Herpesviridae
+686440,Clavibacter phage CN77,Viruses,,
+627087,Enterococcus phage EFAP-1,Viruses,,Siphoviridae
+373403,Mycobacterium phage 244,Viruses,,Siphoviridae
+221915,Staphylococcus phage K,Viruses,SPO1-like viruses,Myoviridae
+128975,Salmonella phage Fels-1,Viruses,,
+10742,Enterobacteria phage HK022,Viruses,Lambda-like viruses,Siphoviridae
+644007,Streptococcus phage PH10,Viruses,,Siphoviridae
+447796,Enterobacteria phage T5-D1,Viruses,,
+393598,Aeromonas phage phiO18P,Viruses,P2-like viruses,Myoviridae
+221029,Enterobacteria phage ST104,Viruses,P22-like viruses,Podoviridae
+12345,Bacillus phage GA-1,Viruses,Phi29-like viruses,Podoviridae
+10320,Bovine herpesvirus 1,Viruses,Varicellovirus,Herpesviridae
+561999,Mycobacterium phage Troll4,Viruses,,Siphoviridae
+555603,Mycobacterium phage Solon,Viruses,,Siphoviridae
+546806,Mycobacterium phage Rizal,Viruses,,Myoviridae
+416419,Archaeal BJ1 virus,Viruses,,Siphoviridae
+386792,Pseudomonas phage LKD16,Viruses,phiKMV-like viruses,Podoviridae
+205874,Mycobacterium phage Rosebush,Viruses,,Siphoviridae
+156747,Synechococcus phage P17,Viruses,,
+12392,Lactobacillus phage mv4,Viruses,,
+10368,Human herpesvirus 6,Viruses,Roseolovirus,Herpesviridae
+10258,Orf virus,Viruses,Parapoxvirus,Poxviridae
+682370,Streptococcus phage ALQ13.2,Viruses,,Siphoviridae
+536469,Cyanophage S-SSM7,Viruses,,
+262968,Singapore grouper iridovirus,Viruses,Ranavirus,Iridoviridae
+227506,Lactococcus phage bIL66M1,Viruses,,Siphoviridae
+198932,Streptococcus phage phisc1,Viruses,,
+129953,Bovine adenovirus A,Viruses,Mastadenovirus,Adenoviridae
+673832,Enterococcus phage phiFL1A,Viruses,,Siphoviridae
+536471,Cyanophage S-ShM2,Viruses,,
+52979,Lactobacillus phage phig1e,Viruses,,Siphoviridae
+498352,Synechococcus phage SPGM99-31,Viruses,,
+438780,Lactobacillus phage phiPYB5,Viruses,,Siphoviridae
+235265,Myxococcus phage Mx9,Viruses,P22-like viruses,Podoviridae
+12336,Clostridium phage c-st,Viruses,,Myoviridae
+10723,Bacillus phage SPO2,Viruses,Lambda-like viruses,Siphoviridae
+10325,Macacine herpesvirus 1,Viruses,Simplexvirus,Herpesviridae
+10244,Monkeypox virus,Viruses,Orthopoxvirus,Poxviridae
+100217,Epizootic haematopoietic necrosis virus,Viruses,Ranavirus,Iridoviridae
+575608,Staphylococcus phage phiSauS-IPLA88,Viruses,,Siphoviridae
+563121,Mycobacterium phage Konstantine,Viruses,,Siphoviridae
+563119,Mycobacterium phage Fruitloop,Viruses,,Siphoviridae
+546803,Mycobacterium phage Cali,Viruses,,Myoviridae
+543153,Mycobacterium phage Predator,Viruses,,Siphoviridae
+540067,Mycobacterium phage Lockley,Viruses,,Siphoviridae
+536460,Cyanophage P-ShM2,Viruses,,
+498339,Synechococcus phage SPGM99-07,Viruses,,
+43685,Lactococcus phage r1t,Viruses,,Siphoviridae
+375282,Xanthomonas phage Xo411,Viruses,,
+263375,Bordetella phage BIP-1,Viruses,Bpp-1-like viruses,Podoviridae
+194948,Escherichia Stx1 converting bacteriophage,Viruses,Lambda-like viruses,Siphoviridae
+150286,Anguillid herpesvirus 1,Viruses,,Alloherpesviridae
+691965,Rhodococcus phage ReqiPepy6,Viruses,,Siphoviridae
+51369,Lactobacillus phage A2,Viruses,,Siphoviridae
+419435,Glypta fumiferanae ichnovirus,Viruses,Ichnovirus,Polydnaviridae
+190478,Clostridium phage phi3626,Viruses,,Siphoviridae
+10497,African swine fever virus,Viruses,Asfivirus,Asfarviridae
+10331,Equid herpesvirus 4,Viruses,Varicellovirus,Herpesviridae
+10326,Equid herpesvirus 1,Viruses,Varicellovirus,Herpesviridae
+795388,Phage NST1,Viruses,,
+687249,Cyanophage ZQS-77,Viruses,,
+633135,Streptococcus phage Abc2,Viruses,,Siphoviridae
+537874,Streptococcus phage PH15,Viruses,,Siphoviridae
+498340,Synechococcus phage SPGM99-10,Viruses,,
+455367,Pyramimonas orientalis virus,Viruses,,Phycodnaviridae
+399185,Staphylococcus phage PH15,Viruses,,Siphoviridae
+396359,Clostridium phage phiSM101,Viruses,,
+35343,Pseudomonas phage phiCTX,Viruses,P2-like viruses,Myoviridae
+351710,Synechococcus phage S-CBM32,Viruses,,Myoviridae
+320843,Staphylococcus phage ROSA,Viruses,,
+225726,Bacillus phage phBC6A52,Viruses,,
+156741,Synechococcus phage 31B,Viruses,,
+10766,Enterobacteria phage K11,Viruses,,Podoviridae
+78541,Streptococcus phage Sfi11,Viruses,,Siphoviridae
+77920,Phage #D,Viruses,,
+76933,Enterobacteria phage Ac3,Viruses,T4-like viruses,Myoviridae
+55744,Equid herpesvirus 9,Viruses,Varicellovirus,Herpesviridae
+498344,Synechococcus phage SPGM99-16,Viruses,,
+496874,Lactobacillus phage Lrm1,Viruses,,Siphoviridae
+46020,Paramecium bursaria Chlorella virus NC1A,Viruses,Chlorovirus,Phycodnaviridae
+42178,Enterobacteria phage LZ7,Viruses,T4-like viruses,Myoviridae
+394231,Phormidium phage P4,Viruses,,Podoviridae
+387909,Staphylococcus phage phiNM3,Viruses,,Siphoviridae
+333743,Hawaiian monk seal herpesvirus,Viruses,,Herpesviridae
+240426,Squirrel poxvirus,Viruses,,Poxviridae
+180170,Infectious spleen and kidney necrosis virus,Viruses,Megalocytivirus,Iridoviridae
+148339,Phage GMSE-1,Viruses,,
+120574,Streptococcus phage MM1,Viruses,,Siphoviridae
+10376,Human herpesvirus 4,Viruses,Lymphocryptovirus,Herpesviridae
+97195,Heterosigma akashiwo virus 01,Viruses,Raphidovirus,Phycodnaviridae
+764561,Brochothrix phage NF5,Viruses,,Siphoviridae
+633836,Bathycoccus virus BpV161,Viruses,,Phycodnaviridae
+559170,Helicoverpa armigera multiple nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+552527,Serratia phage KSP20,Viruses,,Myoviridae
+472965,Streptococcus phage NZ131.2,Viruses,,
+455365,Phaeocystis pouchetii virus,Viruses,,Phycodnaviridae
+40521,Listeria phage A118,Viruses,,Siphoviridae
+39640,Cotesia congregata bracovirus,Viruses,Bracovirus,Polydnaviridae
+388452,Lactococcus phage KSY1,Viruses,,Podoviridae
+382654,Enterobacteria phage MV BS,Viruses,T4-like viruses,Myoviridae
+36340,Enterobacteria phage RB15,Viruses,T4-like viruses,Myoviridae
+35239,Bacillusphage phiE,Viruses,,Siphoviridae
+340907,Papiine herpesvirus 2,Viruses,Simplexvirus,Herpesviridae
+328615,Trichoplusia ni ascovirus 2c,Viruses,Ascovirus,Ascoviridae
+320837,Staphylococcus phage 42E,Viruses,,Siphoviridae
+320432,Chrysodeixis chalcites nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+315953,Acidianus two-tailed virus,Viruses,Bicaudavirus,Bicaudaviridae
+31533,Enterobacteria phage RB3,Viruses,T4-like viruses,Myoviridae
+263386,Bacillus phage 1102phi1-3,Viruses,,Myoviridae
+205877,Mycobacterium phage Bxz1,Viruses,,Myoviridae
+204440,Mamestra configurata NPV-B,Viruses,Alphabaculovirus,Baculoviridae
+156750,Synechococcus phage P81,Viruses,,
+12417,Lactobacillus phage phiadh,Viruses,,Siphoviridae
+11786,Murine leukemia virus,Viruses,Gammaretrovirus,Retroviridae
+112023,Streptococcus phage 7201,Viruses,,Siphoviridae
+10390,Gallid herpesvirus 2,Viruses,Mardivirus,Herpesviridae
+926589,Escherichia phage PhaxI,Viruses,,
+92521,Oryctes rhinoceros virus,Viruses,,
+753091,Synechococcus phage S-BP3,Viruses,,Podoviridae
+745177,Lymantria xylina MNPV,Viruses,Alphabaculovirus,Baculoviridae
+745088,Leuconostoc phage 1-A4,Viruses,,Siphoviridae
+673835,Enterococcus phage phiFL2A,Viruses,,Siphoviridae
+638660,Short-finned eel ranavirus,Viruses,Ranavirus,Iridoviridae
+58620,Serpulina phage VSH-1,Viruses,,Myoviridae
+575610,Staphylococcus phage phiSauS-IPLA35,Viruses,,Siphoviridae
+566270,Spodoptera litura nucleopolyhedrovirus II,Viruses,Alphabaculovirus,Baculoviridae
+536465,Cyanophage S-SSM3,Viruses,,
+536449,Cyanophage P-SSM1,Viruses,,
+52996,Dioscorea bacilliform virus,Viruses,Badnavirus,Caulimoviridae
+52971,Salmonella phage MB78,Viruses,,Siphoviridae
+498347,Synechococcus phage SPGM99-24,Viruses,,
+490711,Orgyia leucostigma NPV,Viruses,Alphabaculovirus,Baculoviridae
+458429,Novosphingobium phage N-AFCa0628-12,Viruses,,
+45455,Macacine herpesvirus 4,Viruses,Lymphocryptovirus,Herpesviridae
+450214,Enterobacteria phage KEP10,Viruses,,Myoviridae
+425386,Pyrococcus abyssi virus 1,Viruses,,
+373411,Mycobacterium phage PLot,Viruses,,Siphoviridae
+365144,Soft-shelled turtle iridovirus,Viruses,Ranavirus,Iridoviridae
+319522,Gordonia terrae phage GTE5,Viruses,,Siphoviridae
+28871,Taterapox virus,Viruses,Orthopoxvirus,Poxviridae
+273133,Pseudomonas phage EL,Viruses,phiKZ-like viruses,Myoviridae
+225725,Bacillus phage phBC6A51,Viruses,,
+207830,Mamestra configurata NPV-A,Viruses,Alphabaculovirus,Baculoviridae
+204507,Neodiprion abietis NPV,Viruses,Gammabaculovirus,Baculoviridae
+173443,Salmonella phage ST64T,Viruses,P22-like viruses,Podoviridae
+156748,Synechococcus phage P77,Viruses,,
+156744,Synechococcus phage S-PWM1,Viruses,,Myoviridae
+130478,Staphylococcus phage phiSLT,Viruses,,Siphoviridae
+129726,Pseudocowpox virus,Viruses,Parapoxvirus,Poxviridae
+12461,Hepatitis E virus,Viruses,Hepevirus,Hepeviridae
+11768,Feline leukemia virus,Viruses,Gammaretrovirus,Retroviridae
+11593,Crimean-Congo hemorrhagic fever virus,Viruses,Nairovirus,Bunyaviridae
+113370,Spodoptera frugiperda ascovirus 1a,Viruses,Ascovirus,Ascoviridae
+10708,Pseudomonas phage D3112,Viruses,,Siphoviridae
+10696,Bacillus phage SP82,Viruses,SPO1-like viruses,Myoviridae
+10678,Enterobacteria phage P1,Viruses,P1-like viruses,Myoviridae
+10674,Enterobacteria phage K3,Viruses,T4-like viruses,Myoviridae
+10381,Saimiriine herpesvirus 2,Viruses,Rhadinovirus,Herpesviridae
+10298,Human herpesvirus 1,Viruses,Simplexvirus,Herpesviridae
+99000,Tanapox virus,Viruses,Yatapoxvirus,Poxviridae
+929814,Salmonella phage RE-2010,Viruses,,
+908819,Flavobacterium phage FCL-2,Viruses,,
+83191,Melanoplus sanguinipes entomopoxvirus,Viruses,,Poxviridae
+753087,Synechococcus phage S-BM3,Viruses,,Myoviridae
+706163,Terra virus 2 TAO-TJA,Viruses,,
+702822,Staphylococcus phage SAP090B,Viruses,,
+687239,Cyanophage ZQS-14,Viruses,,
+648017,Staphylococcus phage phiPVL-CN125,Viruses,,
+64186,Streptococcus phage Sfi21,Viruses,,Siphoviridae
+57476,Bacillus phage 12826,Viruses,,
+539221,Enterobacteria phage CUS-3,Viruses,P22-like viruses,Podoviridae
+536463,Cyanophage S-SSM1,Viruses,,
+536458,Cyanophage P-SSM9,Viruses,,
+536454,Prochlorococcus phage P-SSM5,Viruses,,
+50947,Enterobacteria phage RB42,Viruses,T4-like viruses,Myoviridae
+505291,Pseudomonas phage MP29,Viruses,Lambda-like viruses,Siphoviridae
+498353,Synechococcus phage SPGM99-39,Viruses,,
+498345,Synechococcus phage SPGM99-20,Viruses,,
+498342,Synechococcus phage SPGM99-14,Viruses,,
+489779,Enterobacteria phage Min27,Viruses,,Podoviridae
+47298,Lactococcus phage phi41,Viruses,,Siphoviridae
+46019,Paramecium bursaria Chlorella virus IL3A,Viruses,Chlorovirus,Phycodnaviridae
+458421,Novosphingobium phage N-AFCa0615-4,Viruses,,
+430512,Streptococcus phage 370.1,Viruses,,
+39059,unidentified herpesvirus,Viruses,,Herpesviridae
+389469,Pseudomonas phage DMS3,Viruses,Lambda-like viruses,Siphoviridae
+382262,Prochlorococcus phage P-GSP1,Viruses,,
+38018,unidentified phage,Viruses,,
+379891,Plutella xylostella multiple nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+374422,Streptomyces phage TG1,Viruses,,Siphoviridae
+373412,Mycobacterium phage PMC,Viruses,,Siphoviridae
+373407,Mycobacterium phage Halo,Viruses,,Siphoviridae
+360398,Staphylococcus phage phiPVL108,Viruses,,Siphoviridae
+35244,Bovine herpesvirus 5,Viruses,Varicellovirus,Herpesviridae
+352258,Synechococcus phage S-CBM17,Viruses,,Myoviridae
+346883,Acidianus filamentous virus 7,Viruses,Betalipothrixvirus,Lipothrixviridae
+338345,Enterobacteria phage Nil3,Viruses,,
+334523,Phage SK137,Viruses,,
+330399,Listeria phage A006,Viruses,,Siphoviridae
+326037,Staphylococcus phage phiETA3,Viruses,,Siphoviridae
+31754,Lactococcus phage BK5-T,Viruses,,Siphoviridae
+306536,Synechococcus phage S-PWM4,Viruses,,Myoviridae
+305674,Deerpox virus W-848-83,Viruses,Cervidpoxvirus,Poxviridae
+296144,Paramecium bursaria Chlorella virus Marburg 1,Viruses,Chlorovirus,Phycodnaviridae
+29250,Heliothis zea virus 1,Viruses,,
+285013,Sulfolobus virus STSV1,Viruses,Bicaudavirus,Bicaudaviridae
+261939,Ostreid herpesvirus 1,Viruses,Ostreavirus,Malacoherpesviridae
+252468,Steller sea lion poxvirus,Viruses,Orthopoxvirus,Poxviridae
+224399,Adoxophyes honmai NPV,Viruses,Alphabaculovirus,Baculoviridae
+207656,Bacillus phage phiNIT1,Viruses,,
+198538,Streptococcus pyogenes phage 315.1,Viruses,,
+194949,Stx2 converting phage II,Viruses,Lambda-like viruses,Siphoviridae
+188763,Panine herpesvirus 2,Viruses,Cytomegalovirus,Herpesviridae
+187944,Vibrio phage 1,Viruses,,Siphoviridae
+151537,Lactococcus phage bIL309,Viruses,,Siphoviridae
+151535,Lactococcus phage bIL285,Viruses,,Siphoviridae
+139872,Lactobacillus prophage Lj928,Viruses,,Siphoviridae
+137422,Ralstonia phage P4282,Viruses,,
+12426,Salmonella phage 5,Viruses,T5-like viruses,Siphoviridae
+12375,Lactococcus phage (ISOLATE 7-9),Viruses,,
+115986,Burkholderia phage 42,Viruses,T4-like viruses,Myoviridae
+10735,Bacillus phage rho11s,Viruses,Lambda-like viruses,Siphoviridae
+10464,Agrotis segetum granulovirus,Viruses,Betabaculovirus,Baculoviridae
+10449,Lymantria dispar MNPV,Viruses,Alphabaculovirus,Baculoviridae
+10407,Hepatitis B virus,Viruses,Orthohepadnavirus,Hepadnaviridae
+10398,Ovine herpesvirus 2,Viruses,Macavirus,Herpesviridae
+102145,Streptococcus phage ST3,Viruses,,Siphoviridae
+910474,Burkholderia phage KL3,Viruses,P2-like viruses,Myoviridae
+872294,Staphylococcus phage SAP-26,Viruses,,Siphoviridae
+85708,Porcine circovirus 2,Viruses,Circovirus,Circoviridae
+85154,Streptococcus phage O1205,Viruses,,Siphoviridae
+74382,Streptococcus phage SFi18,Viruses,,Siphoviridae
+72638,Streptococcus phage Sfi19,Viruses,,Siphoviridae
+707783,Staphylococcus phage phiSaST5K,Viruses,,
+68887,Torque teno virus,Viruses,,Anelloviridae
+687343,Torque teno virus 4,Viruses,Alphatorquevirus,Anelloviridae
+687243,Cyanophage ZQS-54,Viruses,,
+687242,Cyanophage ZQS-51,Viruses,,
+663236,Bacillus phage Wip4,Viruses,,
+658423,Canine papillomavirus 7,Viruses,,Papillomaviridae
+650121,Heterocapsa circularisquama DNA virus 01,Viruses,,Phycodnaviridae
+633835,Bathycoccus virus BpV132,Viruses,,Phycodnaviridae
+626962,Olive latent virus 3,Viruses,,Tymoviridae
+588068,Vibrio phage VP3,Viruses,,Podoviridae
+557289,Burkholderia phage KS10,Viruses,,Myoviridae
+55511,Staphylococcus phage 187,Viruses,,Siphoviridae
+547245,Beet eastern yellows virus,Viruses,Polerovirus,Luteoviridae
+542343,Adoxophyes orana nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+536462,Cyanophage S-SM2,Viruses,,
+536461,Cyanophage S-SM1,Viruses,,
+536456,Cyanophage P-SSM7,Viruses,,
+536455,Cyanophage P-SSM6,Viruses,,
+536447,Cyanophage P-RSM4,Viruses,,
+51677,Xestia c-nigrum granulovirus,Viruses,Betabaculovirus,Baculoviridae
+50292,Cercopithecine herpesvirus 5,Viruses,Cytomegalovirus,Herpesviridae
+498349,Synechococcus phage SPGM99-28,Viruses,,
+489830,Helicoverpa armigera granulovirus,Viruses,Betabaculovirus,Baculoviridae
+47929,Macacine herpesvirus 3,Viruses,Cytomegalovirus,Herpesviridae
+470865,Staphylococcus phage SAP-2,Viruses,AHJD-like viruses,Podoviridae
+464033,Campylobacter phage CGC-2007,Viruses,,
+463676,Human rhinovirus C,Viruses,Enterovirus,Picornaviridae
+458456,Novosphingobium phage N-AFCF0901-37,Viruses,,
+458439,Novosphingobium phage N-AFCF0802-22,Viruses,,
+458438,Novosphingobium phage N-AFCF0802-21,Viruses,,
+458432,Novosphingobium phage N-AFCF0707-15,Viruses,,
+456832,Myodes glareolus rhadinovirus 1,Viruses,Rhadinovirus,Herpesviridae
+45221,Latino virus,Viruses,Arenavirus,Arenaviridae
+445515,Staphylococcus phage tp310-1,Viruses,,
+435637,Enterobacteria phage K1A,Viruses,,
+417289,Saccharopolyspora erythraea prophage pSE101,Viruses,,
+414970,Enterobacteria phage cdtI,Viruses,Lambda-like viruses,Siphoviridae
+402399,Brugmansia mild mottle virus,Viruses,Tobamovirus,Virgaviridae
+40051,Bluetongue virus,Viruses,Orbivirus,Reoviridae
+397368,Panthera leo gammaherpesvirus 1,Viruses,,Herpesviridae
+39112,GB virus A,Viruses,,Flaviviridae
+384359,Ralstonia phage RSM1,Viruses,Inovirus,Inoviridae
+382275,Prochlorococcus phage P-SSP6,Viruses,,
+373404,Mycobacterium phage Catera,Viruses,,Myoviridae
+37124,Chikungunya virus,Viruses,Alphavirus,Togaviridae
+37108,Meleagrid herpesvirus 1,Viruses,Mardivirus,Herpesviridae
+368445,Crocodilepox virus,Viruses,,Poxviridae
+364745,Choristoneura occidentalis granulovirus,Viruses,Betabaculovirus,Baculoviridae
+36343,Lactococcus phage bIL67,Viruses,c2-like viruses,Siphoviridae
+359961,Bacillus phage WBeta,Viruses,,Siphoviridae
+35844,Enterobacteria phage K1,Viruses,,Podoviridae
+35288,Grapevine virus A,Viruses,Vitivirus,Betaflexiviridae
+35238,Mycoplasma phage P1,Viruses,,Podoviridae
+352259,Synechococcus phage S-CBM66,Viruses,,Myoviridae
+352257,Synechococcus phage S-CBM68,Viruses,,Myoviridae
+352256,Synechococcus phage S-CBM8,Viruses,,Myoviridae
+351073,Mammalian orthoreovirus,Viruses,Orthoreovirus,Reoviridae
+350104,Streptococcus phage 700P1,Viruses,,
+348058,Salmonella phage epsilon34,Viruses,P22-like viruses,Podoviridae
+346884,Acidianus filamentous virus 8,Viruses,Betalipothrixvirus,Lipothrixviridae
+345308,Northern elephant seal herpesvirus,Viruses,,Herpesviridae
+338473,Actinomyces phage Av-1,Viruses,,Podoviridae
+33708,Murid herpesvirus 4,Viruses,Rhadinovirus,Herpesviridae
+332937,Chimpanzee alpha-1 herpesvirus,Viruses,,Herpesviridae
+31508,Agrotis segetum nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+31507,Anticarsia gemmatalis nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+29271,Dasheen mosaic virus,Viruses,Potyvirus,Potyviridae
+283675,Clostera anachoreta granulovirus,Viruses,Betabaculovirus,Baculoviridae
+28321,Amsacta moorei entomopoxvirus 'L',Viruses,Betaentomopoxvirus,Poxviridae
+267407,European mountain ash ringspot-associated virus,Viruses,Emaravirus,
+256130,Cotesia plutellae polydnavirus,Viruses,Bracovirus,Polydnaviridae
+252584,Pieris rapae granulovirus,Viruses,Betabaculovirus,Baculoviridae
+244589,Sulfolobus virus 1,Viruses,Fusellovirus,Fuselloviridae
+240266,Paramecium bursaria Chlorella virus SH6A,Viruses,Chlorovirus,Phycodnaviridae
+237903,Enterobacteria phage RB61,Viruses,T4-like viruses,Myoviridae
+237902,Enterobacteria phage LZ2,Viruses,T4-like viruses,Myoviridae
+225067,Chlamydia phage 3,Viruses,Chlamydiamicrovirus,Microviridae
+215167,Staphylococcus phage 3A,Viruses,,Siphoviridae
+213236,Mycobacterium phage PG1,Viruses,,Siphoviridae
+208973,Choristoneura fumiferana MNPV,Viruses,Alphabaculovirus,Baculoviridae
+204270,Enterobacteria phage phiKMV,Viruses,phiKMV-like viruses,Podoviridae
+204090,Staphylococcus phage P68,Viruses,AHJD-like viruses,Podoviridae
+197311,Enterobacteria phage RB23,Viruses,T4-like viruses,Myoviridae
+192584,Phthorimaea operculella granulovirus,Viruses,Betabaculovirus,Baculoviridae
+190065,Fowl adenovirus E,Viruses,Aviadenovirus,Adenoviridae
+190063,Fowl adenovirus C,Viruses,Aviadenovirus,Adenoviridae
+186373,Vanilla mosaic virus,Viruses,Potyvirus,Potyviridae
+182851,Saccharomonospora phage PIS 136,Viruses,,
+177181,Streptococcus phage k3,Viruses,,Siphoviridae
+175950,Salmonella phage ST64B,Viruses,,
+170617,Adoxophyes orana granulovirus,Viruses,Betabaculovirus,Baculoviridae
+161494,Antheraea pernyi nucleopolyhedrovirus,Viruses,Alphabaculovirus,Baculoviridae
+157898,Sulfolobus islandicus rod-shaped virus 1,Viruses,Rudivirus,Rudiviridae
+157619,Avian paramyxovirus 6,Viruses,Avulavirus,Paramyxoviridae
+157239,Haemophilus phage HP2,Viruses,P2-like viruses,Myoviridae
+156749,Synechococcus phage P79,Viruses,,
+156746,Synechococcus phage P12,Viruses,,
+156745,Synechococcus phage P6,Viruses,,
+155148,Salmonella phage HK620,Viruses,P22-like viruses,Podoviridae
+152334,Nectria radicicola virus L1,Viruses,,Partitiviridae
+138540,Xanthomonas phage phiXo,Viruses,,Inoviridae
+129009,Staphylococcus prophage phiPV83,Viruses,,Siphoviridae
+12657,Equid herpesvirus 2,Viruses,Percavirus,Herpesviridae
+12639,Duck hepatitis B virus,Viruses,Avihepadnavirus,Hepadnaviridae
+12205,Papaya ringspot virus,Viruses,Potyvirus,Potyviridae
+11978,Feline calicivirus,Viruses,Vesivirus,Caliciviridae
+11757,Mouse mammary tumor virus,Viruses,Betaretrovirus,Retroviridae
+11723,Simian immunodeficiency virus,Viruses,Lentivirus,Retroviridae
+11636,Reticuloendotheliosis virus,Viruses,Gammaretrovirus,Retroviridae
+11240,Phocine distemper virus,Viruses,Morbillivirus,Paramyxoviridae
+11047,Equine arteritis virus,Viruses,Arterivirus,Arteriviridae
+109993,Porcine cytomegalovirus,Viruses,Cytomegalovirus,Herpesviridae
+10871,Pseudomonas phage Pf1,Viruses,Inovirus,Inoviridae
+10868,Enterobacteria phage If1,Viruses,Inovirus,Inoviridae
+10773,Bacillus phage SF6,Viruses,,Siphoviridae
+10750,Enterobacteria phage LP7,Viruses,P22-like viruses,Podoviridae
+10725,Bacillus phage SPR,Viruses,Lambda-like viruses,Siphoviridae
+10691,Enterobacteria phage Ox2,Viruses,T4-like viruses,Myoviridae
+10690,Haemophilus phage HP1,Viruses,P2-like viruses,Myoviridae
+10686,Enterobacteria phage TuIa,Viruses,T4-like viruses,Myoviridae
+10661,Pseudoalteromonas phage PM2,Viruses,Corticovirus,Corticoviridae
+10479,Thermoproteus tenax virus 1,Viruses,Alphalipothrixvirus,Lipothrixviridae
+10401,Ictalurid herpesvirus 1,Viruses,Ictalurivirus,Alloherpesviridae
+10397,Tupaiid herpesvirus 1,Viruses,,Herpesviridae
+10373,Macaca mulatta cytomegalovirus,Viruses,,Herpesviridae
+10345,Suid herpesvirus 1,Viruses,Varicellovirus,Herpesviridae
+10335,Human herpesvirus 3,Viruses,Varicellovirus,Herpesviridae
+10310,Human herpesvirus 2,Viruses,Simplexvirus,Herpesviridae
+10295,Bovine herpesvirus 2,Viruses,Simplexvirus,Herpesviridae

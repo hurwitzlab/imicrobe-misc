@@ -1,0 +1,4 @@
+alter table sample add class text;
+alter table sample add family text;
+alter table sample add mmetsp_id text;
+alter table sample add phylum text;

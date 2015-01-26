@@ -1,0 +1,1 @@
+select sample_name from sample where project_id=104
