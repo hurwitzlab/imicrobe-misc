@@ -9,7 +9,10 @@ use Getopt::Long;
 use IMicrobe::DB;
 use Pod::Usage;
 use Readonly;
-use Text::RecordParser::Tab;
+use Text::RecordParser;
+
+Readonly my $MAPPING_FILE => '/usr/local/imicrobe/lib/docs/mapping_files/'
+    . 'sample_metadata_fields.csv';
 
 main();
 
@@ -29,11 +32,13 @@ sub main {
     }; 
 
     reduce();
+
+    say "Done.";
 }
 
 # --------------------------------------------------
 sub reduce {
-    my $p       = Text::RecordParser::Tab->new('map.tab');
+    my $p       = Text::RecordParser->new($MAPPING_FILE);
     my $map     = $p->fetchall_hashref('imicrobe');
     my $db      = IMicrobe::DB->new;
     my $schema  = $db->schema;
@@ -49,14 +54,17 @@ sub reduce {
 
             next if $val eq '';
 
-            my $mixs_term = $map->{$fld}{'mixs_term'}     or next;
-            my $mixs_cat  = $map->{$fld}{'mixs_category'} || '';
-            my $mixs_pkg  = $map->{$fld}{'mixs_package'}  || '';
+            my $mixs_term = $map->{$fld}{'mixs_term'}    or next;
+            my $mixs_cat  = $map->{$fld}{'category'}     || '';
+            my $mixs_pkg  = $map->{$fld}{'mixs_package'} || '';
+
+            next if $mixs_term =~ /[?"|]/; # questionable assignments
+            next if $mixs_cat  =~ /[?]/;
 
             my ($SampleAttrType) 
                 = $schema->resultset('SampleAttrType')->find_or_create({
                     type     => $mixs_term,
-                    category => $mixs_cat,
+                    category => ucfirst $mixs_cat,
                 });
 
             my ($SampleAttr) =
@@ -68,10 +76,8 @@ sub reduce {
 
             printf "Moved %s (%s) => %s\n", 
                 $fld, $val, $SampleAttrType->type;
-            last;
         }
     }
-    say "Done.";
 }
 
 # --------------------------------------------------
