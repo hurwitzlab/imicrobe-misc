@@ -28,8 +28,14 @@ sub main {
         });
     }; 
 
+    process();
+    say "Done.";
+}
+
+# --------------------------------------------------
+sub process {
     #my $file = shift or pod2usage("No input file");
-    my $file   = '/home/kyclark/work/imicrobe-lib/docs/mapping_files/'
+    my $file   = '/usr/local/imicrobe/lib/docs/mapping_files/'
                . 'CameraMetadata_ENVO_working_copy.csv';
     my $db     = IMicrobe::DB->new;
     my $dbh    = $db->dbh;
@@ -65,20 +71,69 @@ sub main {
 
     # Using schema
     my $i = 0;
-#    SAMPLE:
-#    for my $rec ($p->fetchrow_hashref) {
+    SAMPLE:
+    while (my $rec = $p->fetchrow_hashref) {
+        my $sample_acc = $rec->{'SAMPLE_ACC'} || ''; #or next;
+
+        # call "search" in a list context, not scalar! here be dragons!
+        my ($Sample)   = $schema->resultset('Sample')->search({
+            sample_acc => $sample_acc
+        });
+
+        if (!$Sample) {
+            print STDERR "Cannot find sample '$sample_acc'\n";
+            next SAMPLE;
+        }
+
+        printf "%5d: %s (%s)\n", ++$i, $Sample->sample_name, $Sample->id;
+
+        OFLD:
+        for my $fld (@ontology_flds) {
+            my $acc_name   = $fld->{'acc'};
+            my $label_name = $fld->{'label'};
+            my @acc_vals   = split(/[|]/, $rec->{$acc_name});
+            my @label_vals = split(/[|]/, $rec->{$label_name});
+
+            if (scalar @acc_vals != scalar @label_vals) {
+                print STDERR sprintf(
+                    "Line %s (%s): Unmatched acc/labels (%s, %s)\n",
+                    $i,
+                    $sample_acc,
+                    join(', ', @acc_vals),
+                    join(', ', @label_vals),
+                );
+            }
+
+            for my $idx (0..$#acc_vals) {
+                my $acc_val    = $acc_vals[$idx];
+                my $label_val  = $label_vals[$idx];
+
+                my ($Ontology) 
+                = $schema->resultset('Ontology')->find_or_create({
+                    ontology_acc => $acc_val,
+                    label        => $label_val,
+                });
+
+                my ($S2O) 
+                = $schema->resultset('SampleToOntology')->find_or_create({
+                    sample_id   => $Sample->id,
+                    ontology_id => $Ontology->id,
+                });
+            }
+        }
+    }
+}
+
+    # Using DBH
+#    $i = 0;
+#    while (my $rec =$p->fetchrow_hashref) {
 #        my $sample_acc = $rec->{'SAMPLE_ACC'} or next;
-#        # call "search" in a list context, not scalar! here be dragons!
-#        my ($Sample)   = $schema->resultset('Sample')->search({
-#            sample_acc => $sample_acc
-#        });
+#        my $sample_id = $dbh->selectrow_array(
+#            'select sample_id from sample where sample_acc=?', {},
+#            $sample_acc
+#        ) or next;
 #
-#        if (!$Sample) {
-#            print "Cannot find sample '$sample_acc'\n";
-#            next SAMPLE;
-#        }
-#
-#        printf "%5d: %s (%s)\n", ++$i, $Sample->sample_name, $Sample->id;
+#        printf "%5d: %s (%s)\n", ++$i, $sample_acc, $sample_id;
 #
 #        OFLD:
 #        for my $fld (@ontology_flds) {
@@ -86,43 +141,10 @@ sub main {
 #            my $label_name = $fld->{'label'};
 #            my $acc_val    = $rec->{ $acc_name }   or next OFLD;
 #            my $label_val  = $rec->{ $label_name } || '';
-#
-#            my ($Ontology) = $schema->resulset('Ontology')->find_or_create({
-#                ontology_acc => $acc_val,
-#                label        => $label_val,
-#            });
-#
-#            my ($S2O) = $schema->resulset('SampleToOntology')->find_or_create({
-#                sample_id   => $Sample->id,
-#                ontology_id => $Ontology->id,
-#            });
+#            my $ontology_id = get_ontology_id($dbh, $acc_val, $label_val);
+#            my $s2o_id      = get_s2o_id($dbh, $sample_id, $ontology_id);
 #        }
-#
-#        last;
 #    }
-
-    # Using DBH
-    $i = 0;
-    while (my $rec =$p->fetchrow_hashref) {
-        my $sample_acc = $rec->{'SAMPLE_ACC'} or next;
-        my $sample_id = $dbh->selectrow_array(
-            'select sample_id from sample where sample_acc=?', {},
-            $sample_acc
-        ) or next;
-
-        printf "%5d: %s (%s)\n", ++$i, $sample_acc, $sample_id;
-
-        OFLD:
-        for my $fld (@ontology_flds) {
-            my $acc_name   = $fld->{'acc'};
-            my $label_name = $fld->{'label'};
-            my $acc_val    = $rec->{ $acc_name }   or next OFLD;
-            my $label_val  = $rec->{ $label_name } || '';
-            my $ontology_id = get_ontology_id($dbh, $acc_val, $label_val);
-            my $s2o_id      = get_s2o_id($dbh, $sample_id, $ontology_id);
-        }
-    }
-}
 
 # --------------------------------------------------
 sub get_s2o_id {
