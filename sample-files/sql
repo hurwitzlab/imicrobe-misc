@@ -1,0 +1,20 @@
+DROP TABLE IF EXISTS sample_file_type;
+CREATE TABLE sample_file_type (
+  sample_file_type_id int unsigned NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  type varchar(25) NOT NULL,
+  UNIQUE KEY (type)
+) ENGINE=InnoDB;
+
+DROP TABLE IF EXISTS sample_file;
+CREATE TABLE sample_file (
+  sample_file_id int unsigned NOT NULL AUTO_INCREMENT,
+  sample_id int unsigned NOT NULL,
+  sample_file_type_id int unsigned NOT NULL,
+  file varchar(200) DEFAULT NULL,
+  PRIMARY KEY (sample_file_id),
+  UNIQUE (sample_id, sample_file_type_id, file),
+  KEY (sample_id),
+  KEY (sample_file_type_id),
+  FOREIGN KEY (sample_id) REFERENCES sample (sample_id),
+  FOREIGN KEY (sample_file_type_id) REFERENCES sample_file_type (sample_file_type_id)
+) ENGINE=InnoDB;
