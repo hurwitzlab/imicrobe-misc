@@ -33,45 +33,31 @@ sub main {
 
 # --------------------------------------------------
 sub process {
-    my $db     = IMicrobe::DB->new;
-    my $dbh    = $db->dbh;
-    my $schema = $db->schema;
-    my $files  = $dbh->selectall_arrayref(
-        'select * from sample_file_type',
-        { Columns => {} },
-    );
-    my $i;
+    my $db      = IMicrobe::DB->new;
+    my $dbh     = $db->dbh;
+    my $schema  = $db->schema;
+    my $Samples = $schema->resultset('Sample');
+    my $i       = 0;
+    my @types   = qw[ reads_file annotations_file 
+        cds_file peptides_file contigs_file fastq_file 
+    ];
 
-    for my $file (@$files) {
-        print "\n $file->{'sample_file_type_id'} => $file->{'type'} \n";
-        my $file_type = $file->{'type'};
-        my $samples   = $dbh->selectall_arrayref(
-            sprintf(
-                'select sample_id, %s as file from sample where %s is not null',
-                $file_type, $file_type
-            ),
-            { Columns => {} },
-        );
+    while (my $Sample = $Samples->next) {
+        for my $type (@types) {
+            if (my $file = $Sample->$type()) {
+                my ($SampleFileType) =
+                    $schema->resultset('SampleFileType')->find_or_create({
+                        type => $type
+                    });
 
-        for my $sample (@$samples) {
-            my $file_name = $sample->{'file'} or next;
-            printf "%5d: %s %s => %s\n", 
-                ++$i,
-                $sample->{'sample_id'}, 
-                $file_type,
-                $file_name,
-            ;
-
-#            $dbh->do(
-#                q[insert into sample_file
-#                    (sample_id,sample_file_type_id,file_value)
-#                     values (?,?,?)],
-#                {},
-#                (
-#                    $sample->{'sample_id'}, $file->{'sample_file_type_id'},
-#                    $sample->{'file_value'}
-#                )
-#            );
+                my ($SampleFile) = 
+                    $schema->resultset('SampleFile')->find_or_create({
+                        sample_id           => $Sample->id,
+                        sample_file_type_id => $SampleFileType->id,
+                        file                => $Sample->$type
+                });
+            }
         }
     }
-}
+}    
+
