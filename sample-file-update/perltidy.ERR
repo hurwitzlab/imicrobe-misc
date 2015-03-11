@@ -1,0 +1,6 @@
+
+There is no previous '{' to match a '}' on line 14
+14: }
+    ^
+14:	final indentation level: 0
+14:	To save a full .LOG file rerun with -g
