@@ -44,27 +44,31 @@ sub reduce {
     my $schema  = $db->schema;
     my $Samples = $schema->resultset('Sample');
     my $i       = 0;
+    my @flds    = $Samples->result_source->columns;
 
     while (my $Sample = $Samples->next) {
         printf "%5d: %s (%s)\n", ++$i, $Sample->sample_name, $Sample->id;
-        for my $fld (keys %$map) {
-            next unless $fld;
-
+        for my $fld (@flds) {
             my $val = trim($Sample->$fld());
 
             next if $val eq '';
 
-            my $mixs_term = $map->{$fld}{'mixs_term'}    or next;
-            my $mixs_cat  = $map->{$fld}{'category'}     || '';
-            my $mixs_pkg  = $map->{$fld}{'mixs_package'} || '';
+            my $mixs_map  = $map->{$fld} || {};
+            my $attr_type = $mixs_map->{'mixs_term'} 
+                         || $mixs_map->{'alternate_name'} 
+                         || $fld;
+            my $category  = $mixs_map->{'category'} || 'Other';
 
-            next if $mixs_term =~ /[?"|]/; # questionable assignments
-            next if $mixs_cat  =~ /[?]/;
+            next if $attr_type eq 'SKIP';
+            next if $attr_type =~ /[?"|]/; # questionable assignments
+            next if $category  =~ /[?]/;
+
+            $attr_type =~ s/\s+/_/g;
 
             my ($SampleAttrType) 
                 = $schema->resultset('SampleAttrType')->find_or_create({
-                    type     => $mixs_term,
-                    category => ucfirst $mixs_cat,
+                    type     => lc $attr_type,
+                    category => lc $category
                 });
 
             my ($SampleAttr) =
