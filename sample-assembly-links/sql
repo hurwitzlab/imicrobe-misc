@@ -1,0 +1,5 @@
+alter table assembly add sample_id int unsigned;
+alter table assembly add foreign key (sample_id) references sample (sample_id);
+
+alter table sample add combined_assembly_id int unsigned;
+alter table sample add foreign key (combined_assembly_id) references combined_assembly (combined_assembly_id);
