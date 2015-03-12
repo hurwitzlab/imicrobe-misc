@@ -1,0 +1,35 @@
+Library_Name	Sequencing_Method	DNA_Type	Sequencing_machine	NCBI_SRA_Accession	Data_file_name
+AntNovFreeVir	pyrosequencing (454)	gDNA	454 GS FLX Titanium 		
+AntNovIndVir	pyrosequencing (454)	gDNA	454 GS FLX Titanium 		
+AntJanFreeVir	pyrosequencing (454)	gDNA	454 GS FLX Titanium 		
+AntJanIndVir	pyrosequencing (454)	gDNA	454 GS FLX Titanium 		
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
