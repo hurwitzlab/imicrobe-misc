@@ -54,11 +54,18 @@ sub samples {
 
         for my $fld (@site_flds) {
             (my $val = $site->{$fld}) =~ s/"//g;
-            $Sample->$fld($val);
+
+            if (defined $val && $val ne '') {
+                $Sample->$fld($val);
+            }
         }
 
         for my $fld (@sample_flds) {
-            $Sample->$fld( $rec->{$fld} );
+            my $val = $rec->{$fld};
+
+            if (defined $val && $val ne '') {
+                $Sample->$fld( $rec->{$fld} );
+            }
         }   
 
         $Sample->update;

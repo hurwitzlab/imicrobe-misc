@@ -1,0 +1,5 @@
+Sample_Name	Library_Name	Collection_Time	investigation_type	Site_Name	Sample_volume	Min_filter_size (µm)	Max_filter_size	Temperature (degrees C)	Salinity	Sample_depth (m)	Oxygen (ml/l)
+AntNovFreeVir	AntNovFreeVir	2010-11-18	virus	WAP:B	20 L	0.22		1.0		0	
+AntNovIndVir	AntNovIndVir	2010-11-18	virus	WAP:B	20 L	0.22		1.0		0	
+AntJanFreeVir	AntJanFreeVir	2011-01-29	virus	WAP:B	20 L	0.22		1.0		0	
+AntJanIndVir	AntJanIndVir	2011-01-29	virus	WAP:B	20 L	0.22		1.0		0	
