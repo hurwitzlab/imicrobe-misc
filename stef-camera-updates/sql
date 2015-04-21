@@ -1,0 +1,7 @@
+alter table sample add assembly_id int unsigned;
+alter table sample add key (assembly_id);
+alter table sample add foreign key (assembly_id) references assembly (assembly_id);
+
+update sample s
+join   assembly a on s.sample_id=a.sample_id
+set    s.assembly_id=a.assembly_id
