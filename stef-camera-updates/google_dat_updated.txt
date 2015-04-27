@@ -1,0 +1,734 @@
+sample_name  biomaterial_provider    lat long    name    phylum  color   city    state   strain  symbol  country
+MMETSP1100  David Caron -77.625 -179.23 MMETSP1100  Haptophyta  #c9643b Los Angeles CA  Caron Lab Isolate       
+MMETSP1444  Willie Wilson   -77.8333    -163    MMETSP1444  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP1374        
+MMETSP1322  Daniel Vaulot   71.18333333 -159.4166667    MMETSP1322  Bacillariophyta #c0fb2d Roscoff France  RCC2270     
+MMETSP1470  Willie Wilson   22.75   -158    MMETSP1470  Unknown dark gray   West Boothbay Harbor    Maine   CCMP2175        
+MMETSP0397  Edward Theriot  21.514  -157.8362   MMETSP0397  Bacillariophyta #c0fb2d Austin  TX  ECT3854     
+MMETSP1370  Ruth Gates  21.43   -157.78 MMETSP1370  Dinophyta   #f9bc08 Kaneohe HI  C15     
+MMETSP1475  Willie Wilson   21.102  -157.06 MMETSP1475  Unknown dark gray   West Boothbay Harbor    Maine   CCMP1999        
+MMETSP1319  Daniel Vaulot   -16 -150    MMETSP1319  Ochrophyta  gray    Roscoff France  RCC208      
+MMETSP1129  Willie Wilson   -14.87  -148.68 MMETSP1129  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP1324        
+MMETSP0883  Christopher Gobler  49.9166 -145.1166   MMETSP0883  Ochrophyta  gray    Southampton NY  CCMP1429        
+MMETSP0884  Christopher Gobler  49.9166 -145.1166   MMETSP0884  Ochrophyta  gray    Southampton NY  CCMP1429        
+MMETSP0885  Christopher Gobler  49.9166 -145.1166   MMETSP0885  Ochrophyta  gray    Southampton NY  CCMP1429        
+MMETSP1311  Willie Wilson   -8.333333333    -141.25 MMETSP1311  Unknown dark gray   West Boothbay Harbor    Maine   RCC856      
+MMETSP1325  Daniel Vaulot   -8.333333333    -141.25 MMETSP1325  Ochrophyta  gray    Roscoff France  RCC1007     
+MMETSP1329  Daniel Vaulot   -8.333333333    -141.25 MMETSP1329  Ochrophyta  gray    Roscoff France  RCC1024     
+MMETSP1327  Daniel Vaulot   70.55   -140.8  MMETSP1327  Chlorophyta #00035b Roscoff France  RCC2306     
+MMETSP1096  David Caron 49.6    -140.6166   MMETSP1096  Haptophyta  #c9643b Los Angeles CA  CCMP281     
+MMETSP1336  Daniel Vaulot   70.68333333 -138.3666667    MMETSP1336  Bacillariophyta #c0fb2d Roscoff France  RCC1993     
+MMETSP1309  Willie Wilson   -9.066666667    -136.9833333    MMETSP1309  Unknown dark gray   West Boothbay Harbor    Maine   RCC998      
+MMETSP0882  Christopher Gobler  30.8333 -136.8333   MMETSP0882  Ochrophyta  gray    Southampton NY  CCMP1429        
+MMETSP0886  Christopher Gobler  30.8333 -136.8333   MMETSP0886  Ochrophyta  gray    Southampton NY  CCMP1756        
+MMETSP0887  Christopher Gobler  30.8333 -136.8333   MMETSP0887  Ochrophyta  gray    Southampton NY  CCMP1756        
+MMETSP0888  Christopher Gobler  30.8333 -136.8333   MMETSP0888  Ochrophyta  gray    Southampton NY  CCMP1756        
+MMETSP0889  Christopher Gobler  30.8333 -136.8333   MMETSP0889  Ochrophyta  gray    Southampton NY  CCMP1756        
+MMETSP1326  Willie Wilson   70.5    -135.5  MMETSP1326  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC2288     
+MMETSP1428  Adrian Marchetti    48.816  -128.666    MMETSP1428  Bacillariophyta #c0fb2d Chapel Hill NC  UNC1201     
+MMETSP1429  Adrian Marchetti    48.816  -128.666    MMETSP1429  Bacillariophyta #c0fb2d Chapel Hill NC  UNC1202     
+MMETSP0409  Susanne Menden-Deuer    52.5758 -128.5003   MMETSP0409  Ochrophyta  gray    Narragansett    Rhode Island    CCMP3107        
+MMETSP0410  Susanne Menden-Deuer    52.5758 -128.5003   MMETSP0410  Ochrophyta  gray    Narragansett    Rhode Island    CCMP3107        
+MMETSP0411  Susanne Menden-Deuer    52.5758 -128.5003   MMETSP0411  Ochrophyta  gray    Narragansett    Rhode Island    CCMP3107        
+MMETSP1002  Tatiana Rynearson   49.654  -127.436    MMETSP1002  Bacillariophyta #c0fb2d Narragansett    RI  GSO103      
+MMETSP1005  Tatiana Rynearson   49.654  -127.436    MMETSP1005  Bacillariophyta #c0fb2d Narragansett    RI  GSO103      
+MMETSP0403  Bethany Jenkins 49.65   -127.4338   MMETSP0403  Bacillariophyta #c0fb2d Kingston    RI  CCMP3096        
+MMETSP0404_2    Bethany Jenkins 49.65   -127.4338   MMETSP0404_2    Bacillariophyta #c0fb2d Kingston    RI  CCMP3096        
+MMETSP1352  Willie Wilson   -0.7475 -126.03 MMETSP1352  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP1120        
+MMETSP0015_2    Virginia Armbrust   44.65   -124.53 MMETSP0015_2    Bacillariophyta #c0fb2d Seattle WA  isolate 1302-5      
+MMETSP0942  Alastair Simpson    44.7    -124.2  MMETSP0942  Bicosoecida #5729ce Halifax Nova Scotia E4-10       
+MMETSP1082  Alexandra Worden    49.25   -123.1  MMETSP1082  Chlorophyta #00035b Moss Landing    California  NEPCC29     
+MMETSP1386  Alexandra Worden    49.25   -123.1  MMETSP1386  Chlorophyta #00035b Moss Landing    California  NEPCC29     
+MMETSP0228  Patrick Keeling 48.88   -123.05 MMETSP0228  Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 535 (=CCMP 1889)       
+MMETSP0910  Tatiana Rynearson   48.629353   -122.957542 MMETSP0910  Bacillariophyta #c0fb2d Narragansett    RI  GSO102      
+MMETSP0911  Tatiana Rynearson   48.629353   -122.957542 MMETSP0911  Bacillariophyta #c0fb2d Narragansett    RI  GSO102      
+MMETSP0912  Tatiana Rynearson   48.629353   -122.957542 MMETSP0912  Bacillariophyta #c0fb2d Narragansett    RI  GSO102      
+MMETSP0913  Tatiana Rynearson   48.629353   -122.957542 MMETSP0913  Bacillariophyta #c0fb2d Narragansett    RI  GSO102      
+MMETSP0224  Patrick Keeling 49  -122.95 MMETSP0224  Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 725        
+MMETSP0123  Denis Lynn  48.634  -122.868    MMETSP0123  Ciliophora  #76ff7b     Guam    Fehren 1        
+MMETSP0126  Denis Lynn  48.608  -122.769    MMETSP0126  Ciliophora  #76ff7b     Guam    SPMC142     
+MMETSP0804  Alexandra Worden    48.225  -122.64 MMETSP0804  Chlorophyta #00035b Moss Landing    California  CCMP880     
+MMETSP0467  George McManus  48.5    -122.6  MMETSP0467  Ciliophora  #76ff7b Groton  CT  SPMC105     
+MMETSP0998  Tatiana Rynearson   47.74   -122.417    MMETSP0998  Bacillariophyta #c0fb2d Narragansett    RI  GSO105      
+MMETSP1001  Tatiana Rynearson   47.74   -122.417    MMETSP1001  Bacillariophyta #c0fb2d Narragansett    RI  GSO105      
+MMETSP1060  Virginia Armbrust   47.6901 -122.40041  MMETSP1060  Bacillariophyta #c0fb2d Seattle WA  cf. cingulata       
+MMETSP1061  Virginia Armbrust   47.6901 -122.40041  MMETSP1061  Bacillariophyta #c0fb2d Seattle WA  cf. pungens     
+MMETSP1067  Virginia Armbrust   47.6901 -122.40041  MMETSP1067  Bacillariophyta #c0fb2d Seattle WA  Tpunct2005C2        
+MMETSP0807_2    Alexandra Worden    37.78   -122.35 MMETSP0807_2    Chlorophyta #00035b Moss Landing    California  CCMP1897        
+MMETSP1159  Willie Wilson   37.78   -122.35 MMETSP1159  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1897        
+MMETSP0139_2    G Jason Smith   36.60369    -121.88927  MMETSP0139_2    Bacillariophyta #c0fb2d Moss Landing    CA  10249 10 AB     
+MMETSP0140_2    G Jason Smith   36.60369    -121.88927  MMETSP0140_2    Bacillariophyta #c0fb2d Moss Landing    CA  10249 10 AB     
+MMETSP0141_2    G Jason Smith   36.60369    -121.88927  MMETSP0141_2    Bacillariophyta #c0fb2d Moss Landing    CA  10249 10 AB     
+MMETSP0142_2    G Jason Smith   36.60369    -121.88927  MMETSP0142_2    Bacillariophyta #c0fb2d Moss Landing    CA  10249 10 AB     
+MMETSP0405  Laura Katz  34.46809    -120.27233  MMETSP0405  Unknown dark gray   Groton  CT  Am-I-7 wt       
+MMETSP0850  Bethany Jenkins 34.0847 -119.05 MMETSP0850  Bacillariophyta #c0fb2d Kingston    RI  WWA7        
+MMETSP0851  Bethany Jenkins 34.0847 -119.05 MMETSP0851  Bacillariophyta #c0fb2d Kingston    RI  WWA7        
+MMETSP0852  Bethany Jenkins 34.0847 -119.05 MMETSP0852  Bacillariophyta #c0fb2d Kingston    RI  WWA7        
+MMETSP0853  Bethany Jenkins 34.0847 -119.05 MMETSP0853  Bacillariophyta #c0fb2d Kingston    RI  WWA7        
+MMETSP1101  David Caron 33.52   -118.37 MMETSP1101  Cryptophyta #fe83cc Los Angeles CA  Caron Lab Isolate       
+MMETSP0751  Sarah Smith 32.87   -118.3  MMETSP0751  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1317        
+MMETSP0041_2    John Archibald  32.86692    -117.25169  MMETSP0041_2    Cercozoa    #d725de Halifax NS  LEX01       
+MMETSP0724  Sarah Smith 32.87   -117.25 MMETSP0724  Bacillariophyta #c0fb2d La Jolla    CA  CCMP467     
+MMETSP0737  Sarah Smith 32.87   -117.25 MMETSP0737  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1093        
+MMETSP0744  Sarah Smith 32.99   -117.25 MMETSP0744  Bacillariophyta #c0fb2d La Jolla    CA  CCMP561     
+MMETSP0109  Patrick Keeling 31.28   -113.55 MMETSP0109  Cercozoa    #d725de Vancouver   British Columbia    CCCM449     
+MMETSP1328  Daniel Vaulot   -29.23333333    -101.4833333    MMETSP1328  Ochrophyta  gray    Roscoff France  RCC969      
+MMETSP1161  Willie Wilson   36.75   -98.2   MMETSP1161  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP2329        
+MMETSP0890  Christopher Gobler  27.4708 -97.32  MMETSP0890  Ochrophyta  gray    Southampton NY  CCMP1510        
+MMETSP0891  Christopher Gobler  27.4708 -97.32  MMETSP0891  Ochrophyta  gray    Southampton NY  CCMP1510        
+MMETSP0892  Christopher Gobler  27.4708 -97.32  MMETSP0892  Ochrophyta  gray    Southampton NY  CCMP1510        
+MMETSP0893  Christopher Gobler  27.4708 -97.32  MMETSP0893  Ochrophyta  gray    Southampton NY  CCMP1510        
+MMETSP0006_2    David Caron 33.98   -96.67  MMETSP0006_2    Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP0007  David Caron 33.98   -96.67  MMETSP0007  Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP0008_2    David Caron 33.98   -96.67  MMETSP0008_2    Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP0814  David Caron 33.98   -96.67  MMETSP0814  Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP0815  David Caron 33.98   -96.67  MMETSP0815  Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP1083  David Caron 33.98   -96.67  MMETSP1083  Haptophyta  #c9643b Los Angeles CA  Texoma1     
+MMETSP0034_2    Alexandra Worden    29.3833 -94.8833    MMETSP0034_2    Chlorophyta #00035b Moss Landing    California  CCMP717     
+MMETSP1355  John Archibald  29.38   -94.88  MMETSP1355  Cryptophyta #fe83cc Halifax NS  CCMP443     
+MMETSP1095  David Caron 36.135  -92.64  MMETSP1095  Ochrophyta  gray    Los Angeles CA  UTEXLB2642      
+MMETSP1473  Willie Wilson   -31.866667  -91.416667  MMETSP1473  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC1054     
+MMETSP1438  Willie Wilson   0   -90.8333    MMETSP1438  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1384        
+MMETSP0312  Patrick Keeling 30.34   -90.06  MMETSP0312  Rhodophyta  brown   Vancouver   British Columbia    SAG 36.94       
+MMETSP1362  Virginia Armbrust   25  -90 MMETSP1362  Bacillariophyta #c0fb2d Seattle WA  CCMP1856        
+MMETSP0225  Patrick Keeling 23.809  -89.757 MMETSP0225  Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 670 (=CCMP 1069)       
+MMETSP0313  Patrick Keeling 39.14   -86.56  MMETSP0313  Rhodophyta  brown   Vancouver   British Columbia    SAG 1380-2      
+MMETSP0088  Sonya Dyhrman   29.42   -86.1   MMETSP0088  Bacillariophyta #c0fb2d Palisades   NY  CCMP159     
+MMETSP1041  John Archibald  29.8    -85.67  MMETSP1041  Cryptophyta #fe83cc Halifax NS  CCMP439     
+MMETSP1377  Ruth Gates  24.7335 -80.769167  MMETSP1377  Dinophyta   #f9bc08 Kaneohe HI  D1a     
+MMETSP1066  Virginia Armbrust   31.4322 -80.358 MMETSP1066  Bacillariophyta #c0fb2d Seattle WA  CCMP2513        
+MMETSP1084  Alexandra Worden    8.5 -78.22  MMETSP1084  Chlorophyta #00035b Moss Landing    California  RCC472      
+MMETSP1387  Alexandra Worden    8.5 -78.22  MMETSP1387  Chlorophyta #00035b Moss Landing    California  RCC472      
+MMETSP1474  Willie Wilson   -31.35  -78.1   MMETSP1474  Haptophyta  #c9643b West Boothbay Harbor    Maine   RCC918      
+MMETSP0413  Laura Katz  34.22573    -77.94471   MMETSP0413  Unknown dark gray   Groton  CT  NC-AS-23-1      
+MMETSP0974  Connie Lovejoy  77.0014 -77.2383    MMETSP0974  Unknown dark gray   Quebec City Quebec  CCMP2097        
+MMETSP0975  Connie Lovejoy  77.0014 -77.2383    MMETSP0975  Unknown dark gray   Quebec City Quebec  CCMP2097        
+MMETSP0976  Connie Lovejoy  77.0014 -77.2383    MMETSP0976  Unknown dark gray   Quebec City Quebec  CCMP2097        
+MMETSP0977  Connie Lovejoy  77.0014 -77.2383    MMETSP0977  Unknown dark gray   Quebec City Quebec  CCMP2097        
+MMETSP1141  Connie Lovejoy  77.0014 -77.2383    MMETSP1141  Unknown dark gray   Quebec City Quebec  CCMP2298        
+MMETSP1142  Connie Lovejoy  77.0014 -77.2383    MMETSP1142  Unknown dark gray   Quebec City Quebec  CCMP2298        
+MMETSP1143  Connie Lovejoy  77.0014 -77.2383    MMETSP1143  Unknown dark gray   Quebec City Quebec  CCMP2298        
+MMETSP1144  Connie Lovejoy  77.0014 -77.2383    MMETSP1144  Unknown dark gray   Quebec City Quebec  CCMP2298        
+MMETSP0447  Laura Katz  37.26598    -76.38467   MMETSP0447  Unknown dark gray   Groton  CT  BSH-02190019        
+MMETSP0417  Laura Katz  37.26517    -76.38354   MMETSP0417  Unknown dark gray   Groton  CT  BSH-02190019        
+MMETSP0118_2    Patrick Keeling 37.23   -76.38  MMETSP0118_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCAP 1116/3     
+MMETSP1449  Willie Wilson   77.8136 -76.3697    MMETSP1449  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP2084        
+MMETSP0982  Connie Lovejoy  76.3208 -75.8172    MMETSP0982  Unknown dark gray   Quebec City Quebec  CCMP 2436       
+MMETSP0983  Connie Lovejoy  76.3208 -75.8172    MMETSP0983  Unknown dark gray   Quebec City Quebec  CCMP 2436       
+MMETSP0984  Connie Lovejoy  76.3208 -75.8172    MMETSP0984  Unknown dark gray   Quebec City Quebec  CCMP 2436       
+MMETSP0985  Connie Lovejoy  76.3208 -75.8172    MMETSP0985  Unknown dark gray   Quebec City Quebec  CCMP 2436       
+MMETSP1443  Willie Wilson   77.8333 -75.55  MMETSP1443  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP2396        
+MMETSP0439  Laura Katz  37.93318    -75.37881   MMETSP0439  Unknown dark gray   Groton  CT  Chinc5      
+MMETSP0437  Laura Katz  37.96053    -75.3281    MMETSP0437  Unknown dark gray   Groton  CT  0       
+MMETSP1105  Denis Lynn  38.8    -75.2   MMETSP1105  Ciliophora  #76ff7b Mangilao    GU  ATCC 50986      
+MMETSP0292  Sonya Dyhrman   38.7    -75.11  MMETSP0292  Ochrophyta  gray    Palisades   NY  CCMP2393        
+MMETSP0947  Kathryn Coyne   38.59   -75.1   MMETSP0947  Ochrophyta  gray    Lewes   DE  CCMP2191        
+MMETSP0043_2    John Archibald  23  -75 MMETSP0043_2    Cryptophyta #fe83cc Halifax NS  CCMP644     
+MMETSP0941  Alexandra Worden    23  -75 MMETSP0941  Chlorophyta #00035b Moss Landing    California  CCMP1194        
+MMETSP1043  John Archibald  23  -75 MMETSP1043  Cryptophyta #fe83cc Halifax NS  CCMP441     
+MMETSP0802  Alexandra Worden    76.2833 -74.75  MMETSP0802  Chlorophyta #00035b Moss Landing    California  CCMP2099        
+MMETSP1390  Alexandra Worden    76.2833 -74.75  MMETSP1390  Chlorophyta #00035b Moss Landing    California  CCMP2099        
+MMETSP0986  Connie Lovejoy  78.5922 -74.4922    MMETSP0986  Unknown dark gray   Quebec City Quebec  CCMP2293        
+MMETSP0987  Connie Lovejoy  78.5922 -74.4922    MMETSP0987  Unknown dark gray   Quebec City Quebec  CCMP2293        
+MMETSP0988  Connie Lovejoy  78.5922 -74.4922    MMETSP0988  Unknown dark gray   Quebec City Quebec  CCMP2293        
+MMETSP0989  Connie Lovejoy  78.5922 -74.4922    MMETSP0989  Unknown dark gray   Quebec City Quebec  CCMP2293        
+MMETSP0098  Bassem Allam    40.49657    -74.17591   MMETSP0098  Unknown dark gray   Stony Brook NY  NY0313808BC1        
+MMETSP0099_2    Bassem Allam    40.49657    -74.17591   MMETSP0099_2    Unknown dark gray   Stony Brook NY  NY0313808BC1        
+MMETSP0100_2    Bassem Allam    40.49657    -74.17591   MMETSP0100_2    Unknown dark gray   Stony Brook NY  NY0313808BC1        
+MMETSP1433  Bassem Allam    40.49657    -74.17591   MMETSP1433  Unknown dark gray   Stony Brook NY  NY07348D        
+MMETSP1452  Willie Wilson   11.335  -74.0521    MMETSP1452  Unknown dark gray   West Boothbay Harbor    Maine   CCMP3072        
+MMETSP1459  Willie Wilson   -33.8667    -73.3333    MMETSP1459  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC931      
+MMETSP0053  Sonya Dyhrman   40.66   -73.25  MMETSP0053  Dinophyta   #f9bc08 Palisades   NY  CCMP1329        
+MMETSP0223_2    Patrick Keeling 40.6666 -73.25  MMETSP0223_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 885        
+MMETSP0914  Christopher Gobler  40.6508 -73.1524    MMETSP0914  Ochrophyta  gray    Southampton NY  CCMP1850        
+MMETSP0915  Christopher Gobler  40.6508 -73.1524    MMETSP0915  Ochrophyta  gray    Southampton NY  CCMP1850        
+MMETSP0916  Christopher Gobler  40.6508 -73.1524    MMETSP0916  Ochrophyta  gray    Southampton NY  CCMP1850        
+MMETSP0917  Christopher Gobler  40.6508 -73.1524    MMETSP0917  Ochrophyta  gray    Southampton NY  CCMP1850        
+MMETSP1361  Virginia Armbrust   -36.5062    -73.1225    MMETSP1361  Bacillariophyta #c0fb2d Seattle WA  CCMP2646        
+MMETSP1346  Jackie Collier  40.7    -73.1   MMETSP1346  Labyrinthista   green   Stony Brook NY  GSBS06      
+MMETSP1347  Jackie Collier  40.7    -73.1   MMETSP1347  Labyrinthista   green   Stony Brook NY  GSBS06      
+MMETSP1348  Jackie Collier  40.7    -73.1   MMETSP1348  Labyrinthista   green   Stony Brook NY  GSBS06      
+MMETSP1349  Jackie Collier  40.7    -73.1   MMETSP1349  Labyrinthista   green   Stony Brook NY  GSBS06      
+MMETSP0046_2    John Archibald  41.22   -73.06  MMETSP0046_2    Cryptophyta #fe83cc Halifax NS  CCMP 2712       
+MMETSP1047  John Archibald  41.22   -73.06  MMETSP1047  Cryptophyta #fe83cc Halifax NS  CCMP1319        
+MMETSP1048  John Archibald  41.22   -73.06  MMETSP1048  Cryptophyta #fe83cc Halifax NS  CCMP325     
+MMETSP0990  Connie Lovejoy  76.285  -73.0575    MMETSP0990  Unknown dark gray   Quebec City Quebec  CCMP2098        
+MMETSP0991  Connie Lovejoy  76.285  -73.0575    MMETSP0991  Unknown dark gray   Quebec City Quebec  CCMP2098        
+MMETSP0992  Connie Lovejoy  76.285  -73.0575    MMETSP0992  Unknown dark gray   Quebec City Quebec  CCMP2098        
+MMETSP0993  Connie Lovejoy  76.285  -73.0575    MMETSP0993  Unknown dark gray   Quebec City Quebec  CCMP2098        
+MMETSP1445  Willie Wilson   78.285  -73.0525    MMETSP1445  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP2087        
+MMETSP0894_2    Rose Ann Cattolico  41  -73 MMETSP0894_2    Ochrophyta  gray    Seattle WA  CCMP 452        
+MMETSP0895_2    Rose Ann Cattolico  41  -73 MMETSP0895_2    Ochrophyta  gray    Seattle WA  CCMP 452        
+MMETSP0896_2    Rose Ann Cattolico  41  -73 MMETSP0896_2    Ochrophyta  gray    Seattle WA  CCMP 452        
+MMETSP0897_2    Rose Ann Cattolico  41  -73 MMETSP0897_2    Ochrophyta  gray    Seattle WA  CCMP 452        
+MMETSP0954  Jackie Collier  40.93   -72.5   MMETSP0954  Labyrinthista   green   Stony Brook NY  PBS07       
+MMETSP0955  Jackie Collier  40.93   -72.5   MMETSP0955  Labyrinthista   green   Stony Brook NY  PBS07       
+MMETSP0956  Jackie Collier  40.93   -72.5   MMETSP0956  Labyrinthista   green   Stony Brook NY  PBS07       
+MMETSP0957  Jackie Collier  40.93   -72.5   MMETSP0957  Labyrinthista   green   Stony Brook NY  PBS07       
+MMETSP1315  Daniel Vaulot   -34.53333333    -72.41666667    MMETSP1315  Chlorophyta #00035b Roscoff France  RCC927      
+MMETSP1330  Daniel Vaulot   -34.53333333    -72.41666667    MMETSP1330  Chlorophyta #00035b Roscoff France  RCC944      
+MMETSP1139  Willie Wilson   38.7    -72.37  MMETSP1139  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP459     
+MMETSP0004_2    David Caron 38.702  -72.3667    MMETSP0004_2    Ochrophyta  gray    Los Angeles CA  CCMP1393        
+MMETSP0005  David Caron 38.702  -72.3667    MMETSP0005  Ochrophyta  gray    Los Angeles CA  CCMP1393        
+MMETSP0878  Francois Morel  41.11   -72.1   MMETSP0878  Bacillariophyta #c0fb2d Princeton   NJ  CCMP1336        
+MMETSP0452_2    Senjie Lin  41.35   -72.07  MMETSP0452_2    Dinophyta   #f9bc08 Groton  CT  CCMP1795        
+MMETSP0463  George McManus  41  -72 MMETSP0463  Ciliophora  #76ff7b Groton  CT  SopsisLIS2011       
+MMETSP0472  George McManus  41  -72 MMETSP0472  Ciliophora  #76ff7b Groton  CT  LIS     
+MMETSP0434  Susanne Menden-Deuer    41.30051    -71.71543   MMETSP0434  Ciliophora  #76ff7b Narragansett    Rhode Island    Fe Narragansett Bay     
+MMETSP0436  Susanne Menden-Deuer    41.30051    -71.71543   MMETSP0436  Ciliophora  #76ff7b Narragansett    Rhode Island    Fe Narragansett Bay     
+MMETSP0578  Tatiana Rynearson   41.4331 -71.455 MMETSP0578  Bacillariophyta #c0fb2d Narragansett    RI  CCMP 1804       
+MMETSP0414  Susanne Menden-Deuer    41.65583    -71.44778   MMETSP0414  Ochrophyta  gray    Narragansett    Rhode Island    NB      
+MMETSP0415  Susanne Menden-Deuer    41.65583    -71.44778   MMETSP0415  Ochrophyta  gray    Narragansett    Rhode Island    NB      
+MMETSP0416  Susanne Menden-Deuer    41.65583    -71.44778   MMETSP0416  Ochrophyta  gray    Narragansett    Rhode Island    NB      
+MMETSP0920  Tatiana Rynearson   41.573611   -71.408611  MMETSP0920  Bacillariophyta #c0fb2d Narragansett    RI  skelA       
+MMETSP0562  Tatiana Rynearson   41.57361    -71.40861   MMETSP0562  Bacillariophyta #c0fb2d Narragansett    RI  SkelB       
+MMETSP0563  Tatiana Rynearson   41.57361    -71.40861   MMETSP0563  Bacillariophyta #c0fb2d Narragansett    RI  SkelB       
+MMETSP0918  Tatiana Rynearson   41.57361    -71.40861   MMETSP0918  Bacillariophyta #c0fb2d Narragansett    RI  skelA       
+MMETSP1074  Susanne Menden-Deuer    41.57083    -71.40517   MMETSP1074  Dinophyta   #f9bc08 Narragansett    Rhode Island    PA161109        
+MMETSP1075  Susanne Menden-Deuer    41.57083    -71.40517   MMETSP1075  Dinophyta   #f9bc08 Narragansett    Rhode Island    PA161109        
+MMETSP0809  David Caron 41.6    -71.4   MMETSP0809  Euglenozoa  #7bc8f6 Los Angeles CA  CCMP1594        
+MMETSP0810  David Caron 41.6    -71.4   MMETSP0810  Euglenozoa  #7bc8f6 Los Angeles CA  CCMP1594        
+MMETSP0811_2    David Caron 41.6    -71.4   MMETSP0811_2    Euglenozoa  #7bc8f6 Los Angeles CA  CCMP1594        
+MMETSP1058  Virginia Armbrust   41.6    -71.4   MMETSP1058  Bacillariophyta #c0fb2d Seattle WA  CCMP 353        
+MMETSP1360  Virginia Armbrust   42.41915    -70.91349   MMETSP1360  Bacillariophyta #c0fb2d Seattle WA  CCMP2313        
+MMETSP1065  Virginia Armbrust   41.525  -70.6736    MMETSP1065  Bacillariophyta #c0fb2d Seattle WA  CCMP125     
+MMETSP1136  Willie Wilson   41.52   -70.67  MMETSP1136  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP645     
+MMETSP0019_2    David Caron 41.57595    -70.64038   MMETSP0019_2    Ochrophyta  gray    Los Angeles CA  UTEXLB2267      
+MMETSP0020_2    David Caron 41.57595    -70.64038   MMETSP0020_2    Ochrophyta  gray    Los Angeles CA  UTEXLB2267      
+MMETSP0812  David Caron 41.57595    -70.64038   MMETSP0812  Ochrophyta  gray    Los Angeles CA  UTEXLB2267      
+MMETSP0018_2    David Caron 41.745  -70.618 MMETSP0018_2    Ciliophora  #76ff7b Los Angeles CA  Bbcil       
+MMETSP0448  Susanne Menden-Deuer    41.54   -70.61  MMETSP0448  Dinophyta   #f9bc08 Narragansett    Rhode Island    CCMP 448        
+MMETSP0603  Tatiana Rynearson   41.566  -70.5842    MMETSP0603  Bacillariophyta #c0fb2d Narragansett    RI  CCMP793     
+MMETSP0604  Tatiana Rynearson   41.566  -70.5842    MMETSP0604  Bacillariophyta #c0fb2d Narragansett    RI  CCMP793     
+MMETSP1010  Tatiana Rynearson   41.325  -70.57  MMETSP1010  Bacillariophyta #c0fb2d Narragansett    RI  GSO104      
+MMETSP1012  Tatiana Rynearson   41.325  -70.57  MMETSP1012  Bacillariophyta #c0fb2d Narragansett    RI  GSO104      
+MMETSP1013  Tatiana Rynearson   41.325  -70.57  MMETSP1013  Bacillariophyta #c0fb2d Narragansett    RI  GSO104      
+MMETSP0580  Robert Olson    41.325  -70.5667    MMETSP0580  Bacillariophyta #c0fb2d Woods Hole  MA  0       
+MMETSP0693  Robert Olson    41.325  -70.5667    MMETSP0693  Bacillariophyta #c0fb2d Woods Hole  MA  0       
+MMETSP0713  Robert Olson    41.325  -70.5667    MMETSP0713  Bacillariophyta #c0fb2d Woods Hole  MA  0       
+MMETSP0806_2    Alexandra Worden    35  -70 MMETSP0806_2    Chlorophyta #00035b Moss Landing    California  CCMP1413        
+MMETSP1439  Willie Wilson   43.8441 -69.6413    MMETSP1439  Pyrrophycophyta dark red    West Boothbay Harbor    Maine   CCMP409     
+MMETSP1057  Virginia Armbrust   43.8442 -69.641 MMETSP1057  Bacillariophyta #c0fb2d Seattle WA  CCMP 338        
+MMETSP1090  Alexandra Worden    38.3048 -69.6192    MMETSP1090  Haptophyta  #c9643b Moss Landing    California  CCMP1244        
+MMETSP1388  Alexandra Worden    38.3048 -69.6192    MMETSP1388  Haptophyta  #c9643b Moss Landing    California  CCMP1244        
+MMETSP1006  Kay Bidle   42.5    -69 MMETSP1006  Haptophyta  #c9643b New Brunswick   NJ  374     
+MMETSP1007  Kay Bidle   42.5    -69 MMETSP1007  Haptophyta  #c9643b New Brunswick   NJ  374     
+MMETSP1008  Kay Bidle   42.5    -69 MMETSP1008  Haptophyta  #c9643b New Brunswick   NJ  374     
+MMETSP1009  Kay Bidle   42.5    -69 MMETSP1009  Haptophyta  #c9643b New Brunswick   NJ  374     
+MMETSP1052  John Archibald  43  -69 MMETSP1052  Chlorarachniophyta  #fe83cc Halifax NS  CCMP623     
+MMETSP1055  John Archibald  43  -69 MMETSP1055  Unknown dark gray   Halifax NS  CCMP1258.1      
+MMETSP1404  Alexandra Worden    43  -69 MMETSP1404  Chlorophyta #00035b Moss Landing    California  CCMP494     
+MMETSP1097  David Caron 43  -68 MMETSP1097  Ochrophyta  gray    Los Angeles CA  CCMP716     
+MMETSP0492  Tatiana Rynearson   41.92732    -67.85788   MMETSP0492  Bacillariophyta #c0fb2d Narragansett    RI  GMp14c1     
+MMETSP0493  Tatiana Rynearson   41.92732    -67.85788   MMETSP0493  Bacillariophyta #c0fb2d Narragansett    RI  GMp14c1     
+MMETSP0494  Tatiana Rynearson   41.92732    -67.85788   MMETSP0494  Bacillariophyta #c0fb2d Narragansett    RI  GMp14c1     
+MMETSP1338  Willie Wilson   14.82   -67.05  MMETSP1338  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   RCC1491     
+MMETSP1392  Alexandra Worden    10.5    -66.9   MMETSP1392  Chlorophyta #00035b Moss Landing    California  SAG 11-48b      
+MMETSP0040_2    John Archibald  34.63   -66.65  MMETSP0040_2    Cercozoa    #d725de Halifax NS  CCMP622     
+MMETSP0045_2    John Archibald  34.71   -66.5   MMETSP0045_2    Chlorarachniophyta  #fe83cc Halifax NS  CCMP 2755       
+MMETSP1358  John Archibald  34.72   -66.5   MMETSP1358  Chlorarachniophyta  #fe83cc Halifax NS  CCMP1242        
+MMETSP1018  Spencer Greenwood   43.51667    -65.6   MMETSP1018  Ciliophora  #76ff7b Charlottetown   Prince Edward Island    AH6     
+MMETSP1019  Spencer Greenwood   43.51667    -65.6   MMETSP1019  Ciliophora  #76ff7b Charlottetown   Prince Edward Island    AH6     
+MMETSP0970  Bethany Jenkins 33.1833 -65.25  MMETSP0970  Bacillariophyta #c0fb2d Kingston    RI  CCMP1005        
+MMETSP0971  Bethany Jenkins 33.1833 -65.25  MMETSP0971  Bacillariophyta #c0fb2d Kingston    RI  CCMP1005        
+MMETSP0972  Bethany Jenkins 33.1833 -65.25  MMETSP0972  Bacillariophyta #c0fb2d Kingston    RI  CCMP1005        
+MMETSP0973  Bethany Jenkins 33.1833 -65.25  MMETSP0973  Bacillariophyta #c0fb2d Kingston    RI  CCMP1005        
+MMETSP1169  Willie Wilson   33.1833 -65.25  MMETSP1169  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP722     
+MMETSP1173  Willie Wilson   32  -65.1667    MMETSP1173  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP1243        
+MMETSP0898_2    Bethany Jenkins 37  -65 MMETSP0898_2    Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP0899_2    Bethany Jenkins 37  -65 MMETSP0899_2    Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP0900_2    Bethany Jenkins 37  -65 MMETSP0900_2    Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP0901_2    Bethany Jenkins 37  -65 MMETSP0901_2    Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1405  Bethany Jenkins 37  -65 MMETSP1405  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1406  Bethany Jenkins 37  -65 MMETSP1406  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1407  Bethany Jenkins 37  -65 MMETSP1407  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1408  Bethany Jenkins 37  -65 MMETSP1408  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1409  Bethany Jenkins 37  -65 MMETSP1409  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1410  Bethany Jenkins 37  -65 MMETSP1410  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1411  Bethany Jenkins 37  -65 MMETSP1411  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1412  Bethany Jenkins 37  -65 MMETSP1412  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1413  Bethany Jenkins 37  -65 MMETSP1413  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1414  Bethany Jenkins 37  -65 MMETSP1414  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1415  Bethany Jenkins 37  -65 MMETSP1415  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1416  Bethany Jenkins 37  -65 MMETSP1416  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1417  Bethany Jenkins 37  -65 MMETSP1417  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1418  Bethany Jenkins 37  -65 MMETSP1418  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1419  Bethany Jenkins 37  -65 MMETSP1419  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1420  Bethany Jenkins 37  -65 MMETSP1420  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1421  Bethany Jenkins 37  -65 MMETSP1421  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1422  Bethany Jenkins 37  -65 MMETSP1422  Bacillariophyta #c0fb2d Kingston    RI  CCMP1010        
+MMETSP1359  John Archibald  32.38   -64.71  MMETSP1359  Chlorarachniophyta  #fe83cc Halifax NS  CCMP242     
+MMETSP1180  Willie Wilson   -64.7667    -64 MMETSP1180  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP681     
+MMETSP0114  Eunsoo Kim  46.5105 -63.4856    MMETSP0114  Cryptophyta #fe83cc New York    NY  m       
+MMETSP0115  Eunsoo Kim  46.5105 -63.4856    MMETSP0115  Bicosoecida #5729ce New York    NY  ms1     
+MMETSP0044  Claudio Slamovits   18.03   -63.05  MMETSP0044  Dinophyta   #f9bc08 Halifax NS  CCMP1788        
+MMETSP1085  Alexandra Worden    20.7722 -63.0368    MMETSP1085  Chlorophyta #00035b Moss Landing    California  CCMP1998        
+MMETSP1467  Willie Wilson   20.7722 -63.0368    MMETSP1467  Unknown dark gray   West Boothbay Harbor    Maine   CCMP2135        
+MMETSP1171  Willie Wilson   30  -60 MMETSP1171  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP826     
+MMETSP1175  Willie Wilson   30  -60 MMETSP1175  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP147     
+MMETSP0816  Thomas Mock -63.25  -58.33  MMETSP0816  Bacillariophyta #c0fb2d Norwich England CCAP1064/1      
+MMETSP1435  Willie Wilson   -61.2833    -54.7361    MMETSP1435  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP164     
+MMETSP0168  Jan Pawlowski   -35.98917   -49.01944   MMETSP0168  Unknown dark gray   Geneva  Switzerland DIVA3 517/6/12      
+MMETSP0166  Jan Pawlowski   -35.98833   -49.0175    MMETSP0166  Unknown dark gray   Geneva  Switzerland DIVA3 518/3/11/1/6      
+MMETSP0173_2    Jan Pawlowski   -26.64444   -35.24361   MMETSP0173_2    Unknown dark gray   Geneva  Switzerland DIVA3 564/2     
+MMETSP1317  Denis Lynn  120.06  -34.175 MMETSP1317  Unknown dark gray       Guam    Undescribed     
+MMETSP1353  Willie Wilson   151.15  -34.02  MMETSP1353  Rhodophyta  brown   West Boothbay Harbor    Maine   CCMP3124        
+MMETSP0151_2    Jan Pawlowski   29.60806    -28.98667   MMETSP0151_2    Unknown dark gray   Geneva  Switzerland 621/1 / CCAP 1560/9     
+MMETSP0152  Bank Beszteri   -51.83333   -28.66667   MMETSP0152  Bacillariophyta #c0fb2d Bremerhaven Germany L6-D1       
+MMETSP0154  Bank Beszteri   -51.83333   -28.66667   MMETSP0154  Bacillariophyta #c0fb2d Bremerhaven Germany L6-D1       
+MMETSP0906  Thomas Mock -48.1   -24.25  MMETSP0906  Bacillariophyta #c0fb2d Norwich England L2-C3       
+MMETSP0907  Thomas Mock -48.1   -24.25  MMETSP0907  Bacillariophyta #c0fb2d Norwich England L2-C3       
+MMETSP0908  Thomas Mock -48.1   -24.25  MMETSP0908  Bacillariophyta #c0fb2d Norwich England L2-C3       
+MMETSP0909  Thomas Mock -48.1   -24.25  MMETSP0909  Bacillariophyta #c0fb2d Norwich England L2-C3       
+MMETSP1354  Willie Wilson   43.6002 -23.1667    MMETSP1354  Rhodophyta  brown   West Boothbay Harbor    Maine   CCMP3276        
+MMETSP0733  Adrian Marchetti    -48 -16 MMETSP0733  Bacillariophyta #c0fb2d Chapel Hill NC  L26-C5      
+MMETSP0734  Adrian Marchetti    -48 -16 MMETSP0734  Bacillariophyta #c0fb2d Chapel Hill NC  L26-C5      
+MMETSP0735  Adrian Marchetti    -48 -16 MMETSP0735  Bacillariophyta #c0fb2d Chapel Hill NC  L26-C5      
+MMETSP0736  Adrian Marchetti    -48 -16 MMETSP0736  Bacillariophyta #c0fb2d Chapel Hill NC  L26-C5      
+MMETSP0156  Bank Beszteri   -47.86667   -15.8   MMETSP0156  Bacillariophyta #c0fb2d Bremerhaven Germany L26-B       
+MMETSP0158  Bank Beszteri   -47.86667   -15.8   MMETSP0158  Bacillariophyta #c0fb2d Bremerhaven Germany L26-B       
+MMETSP0169  Bank Beszteri   -47.33333   -15.65  MMETSP0169  Bacillariophyta #c0fb2d Bremerhaven Germany L29A3       
+MMETSP0171  Bank Beszteri   -47.33333   -15.65  MMETSP0171  Bacillariophyta #c0fb2d Bremerhaven Germany L29A3       
+MMETSP1086  Alexandra Worden    38.79   -9.42   MMETSP1086  Glaucophyta #fd411e Moss Landing    California  SAG4.97     
+MMETSP0328  Kjetill Sigurd Jakobsen 42.23   -8.8    MMETSP0328  Dinophyta   #f9bc08 Oslo    Norway  CCMP113     
+MMETSP0252  Patrick Keeling 42.22   -8.73   MMETSP0252  Dinophyta   #f9bc08 Vancouver   British Columbia    CCMP 684        
+MMETSP0800  Virginia Armbrust   56.42   -5.52   MMETSP0800  Bacillariophyta #c0fb2d Seattle WA  CCMP2910        
+MMETSP0943  Linda Amaral-Zettler    54.085  -4.77   MMETSP0943  Haptophyta  #c9643b Woods Hole  MA  CCMP1323        
+MMETSP0944  Linda Amaral-Zettler    54.085  -4.77   MMETSP0944  Haptophyta  #c9643b Woods Hole  MA  CCMP1323        
+MMETSP0994  Kay Bidle   50.1669 -4.2504 MMETSP0994  Haptophyta  #c9643b New Brunswick   NJ  379     
+MMETSP0995  Kay Bidle   50.1669 -4.2504 MMETSP0995  Haptophyta  #c9643b New Brunswick   NJ  379     
+MMETSP0996  Kay Bidle   50.1669 -4.2504 MMETSP0996  Haptophyta  #c9643b New Brunswick   NJ  379     
+MMETSP0997  Kay Bidle   50.1669 -4.2504 MMETSP0997  Haptophyta  #c9643b New Brunswick   NJ  379     
+MMETSP1081  Alexandra Worden    50.36   -4.15   MMETSP1081  Unknown dark gray   Moss Landing    California  CCMP720     
+MMETSP1344  Willie Wilson   49  -4  MMETSP1344  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP2471        
+MMETSP1472  Willie Wilson   48.716667   -3.983333   MMETSP1472  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC251      
+MMETSP0017_2    Virginia Armbrust   48.75   -3.95   MMETSP0017_2    Bacillariophyta #c0fb2d Seattle WA  KMMCC:B-181     
+MMETSP1456  Willie Wilson   48.75   -3.95   MMETSP1456  Unknown dark gray   West Boothbay Harbor    Maine   RCC1871     
+MMETSP0186  Claudio Slamovits   50.45876    -3.54072    MMETSP0186  Cercozoa    #d725de Halifax NS  0       
+MMETSP1321  Daniel Vaulot   49.31666667 -3.316666667    MMETSP1321  Ochrophyta  gray    Roscoff France  RCC1657     
+MMETSP1064  Virginia Armbrust   54.6    -2.8    MMETSP1064  Bacillariophyta #c0fb2d Seattle WA  CCAP 1002/5     
+MMETSP1363  Sonya Dyhrman   44.6    -1.5    MMETSP1363  Haptophyta  #c9643b Palisades   NY  RCC1303     
+MMETSP0174  Bank Beszteri   -64.0038    -0.0025 MMETSP0174  Bacillariophyta #c0fb2d Bremerhaven Germany PI-D3       
+MMETSP0176  Bank Beszteri   -64.0038    -0.0025 MMETSP0176  Bacillariophyta #c0fb2d Bremerhaven Germany PI-D3       
+MMETSP1098  David Caron 52.2333 0.08333 MMETSP1098  Ochrophyta  gray    Los Angeles CA  CCAP 955/1      
+MMETSP0052_2    David Smith 52.14   0.13    MMETSP0052_2    Chlorophyta #00035b Vancouver   British Columbia    SAG 63-3        
+MMETSP1391  Alexandra Worden    52.2    0.18    MMETSP1391  Chlorophyta #00035b Moss Landing    California  SAG 11-49       
+MMETSP0010_2    Virginia Armbrust   58.5    0.32    MMETSP0010_2    Bacillariophyta #c0fb2d Seattle WA  308     
+MMETSP0167  Thomas Mock 51.53   0.7 MMETSP0167  Rhodophyta  brown   Norwich England CCMP736     
+MMETSP1324  Daniel Vaulot   61  1.983333333 MMETSP1324  Ochrophyta  gray    Roscoff France  RCC1587     
+MMETSP0149  Bank Beszteri   -49.6   2.1 MMETSP0149  Bacillariophyta #c0fb2d Bremerhaven Germany MM31A-1     
+MMETSP0150  Bank Beszteri   -49.6   2.1 MMETSP0150  Bacillariophyta #c0fb2d Bremerhaven Germany MM31A-1     
+MMETSP1333  Daniel Vaulot   41.39   2.48    MMETSP1333  Haptophyta  #c9643b Roscoff France  RCC1455     
+MMETSP1036_2    Uwe John    57.0525 2.50056 MMETSP1036_2    Dinophyta   #f9bc08 Bremerhaven Germany 3D9     
+MMETSP1037_2    Uwe John    57.0525 2.50056 MMETSP1037_2    Dinophyta   #f9bc08 Bremerhaven Germany 3D9     
+MMETSP1038_2    Uwe John    57.0525 2.50056 MMETSP1038_2    Dinophyta   #f9bc08 Bremerhaven Germany 3D9     
+MMETSP0013_2    Virginia Armbrust   48.45   3.57    MMETSP0013_2    Bacillariophyta #c0fb2d Seattle WA  1716        
+MMETSP0014_2    Virginia Armbrust   48.43   3.59    MMETSP0014_2    Bacillariophyta #c0fb2d Seattle WA  RCC80       
+MMETSP1394  Virginia Armbrust   51.7333 3.7667  MMETSP1394  Bacillariophyta #c0fb2d Seattle WA  CCMP1581        
+MMETSP1402  Alexandra Worden    56.98   3.98    MMETSP1402  Chlorophyta #00035b Moss Landing    California  RCC1614     
+MMETSP0378  Mary Ann Moran  50.6    4.25    MMETSP0378  Dinophyta   #f9bc08 Athens  GA  CCMP1771        
+MMETSP0380  Mary Ann Moran  50.6    4.25    MMETSP0380  Dinophyta   #f9bc08 Athens  GA  CCMP1771        
+MMETSP0382  Mary Ann Moran  50.6    4.25    MMETSP0382  Dinophyta   #f9bc08 Athens  GA  CCMP1771        
+MMETSP0384  Mary Ann Moran  50.6    4.25    MMETSP0384  Dinophyta   #f9bc08 Athens  GA  CCMP1771        
+MMETSP1323  Daniel Vaulot   59.31666667 4.316666667 MMETSP1323  Ochrophyta  gray    Roscoff France  RCC1693     
+MMETSP0164_2    Glen Wheeler    50.033  4.366   MMETSP0164_2    Haptophyta  #c9643b Plymouth    Devon   PLY182g     
+MMETSP0595  Susanne Menden-Deuer    54.085  4.77    MMETSP0595  Haptophyta  #c9643b Narragansett    Rhode Island    CCMP1323        
+MMETSP1094  David Caron 49.35   4.9 MMETSP1094  Haptophyta  #c9643b Los Angeles CA  UTEX LB 985     
+MMETSP1463  Willie Wilson   55.743  4.92334 MMETSP1463  Haptophyta  #c9643b West Boothbay Harbor    Maine   RCC1537     
+MMETSP1462  Willie Wilson   43.683333   7.316667    MMETSP1462  Alveolata   #789b73 West Boothbay Harbor    Maine   RCC3387     
+MMETSP0211  Denis Lynn  38.54   8.46    MMETSP0211  Ciliophora  #76ff7b     Guam    OXSARD2     
+MMETSP1166  Willie Wilson   42.572  8.73    MMETSP1166  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP3193        
+MMETSP0287  Bente Edvardsen 58.11   9.06    MMETSP0287  Haptophyta  #c9643b Oslo    Norway  UIO044      
+MMETSP0308  Patrick Keeling 53.43   10.15   MMETSP0308  Glaucophyta #fd411e Vancouver   British Columbia    SAG 46.84       
+MMETSP0213  Denis Lynn  43.47   10.16   MMETSP0213  Ciliophora  #76ff7b     Guam    FSP1.4      
+MMETSP0208  Denis Lynn  43.3    10.2    MMETSP0208  Ciliophora  #76ff7b     Guam    S3      
+MMETSP0210  Denis Lynn  43.3    10.2    MMETSP0210  Ciliophora  #76ff7b     Guam    COL2        
+MMETSP0216  Denis Lynn  43.47558    10.33003    MMETSP0216  Ciliophora  #76ff7b     Guam    Boccale     
+MMETSP0286  Bente Edvardsen 59  10.45   MMETSP0286  Haptophyta  #c9643b Oslo    Norway  UIO037      
+MMETSP0902  Thomas Mock 59.5    10.6    MMETSP0902  Bacillariophyta #c0fb2d Norwich England CCMP982     
+MMETSP1154  Francois Morel  59.5    10.6    MMETSP1154  Haptophyta  #c9643b Princeton   NJ  CCMP370     
+MMETSP0503  George McManus  56  11  MMETSP0503  Dinophyta   #f9bc08 Groton  CT  SCCAP K-0483        
+MMETSP1174  Willie Wilson   55.48   11.1    MMETSP1174  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP1381        
+MMETSP1434  Willie Wilson   -17.5   11.25   MMETSP1434  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP3303        
+MMETSP1447  Willie Wilson   -49.9   11.55   MMETSP1447  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP1751        
+MMETSP0315  Patrick Keeling 45.29   11.78   MMETSP0315  Rhodophyta  brown   Vancouver   British Columbia    UTEX LB 2760        
+MMETSP0320  Satoshi Nagai   55.5837 12.412  MMETSP0320  Bacillariophyta #c0fb2d Kyoto   Japan   SM1012Den-03        
+MMETSP1320  Willie Wilson   35.66666667 14.1    MMETSP1320  Ochrophyta  gray    West Boothbay Harbor    Maine   RCC2347     
+MMETSP0803_2    Alexandra Worden    40.9    14.15   MMETSP0803_2    Chlorophyta #00035b Moss Landing    California  CCMP3273        
+MMETSP1465  Willie Wilson   40.9    14.15   MMETSP1465  Haptophyta  #c9643b West Boothbay Harbor    Maine   RCC1383     
+MMETSP0033_2    Alexandra Worden    40.5    14.25   MMETSP0033_2    Chlorophyta #00035b Moss Landing    California  CCMP3274        
+MMETSP1436  Willie Wilson   40.75   14.25   MMETSP1436  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   CCMP2222        
+MMETSP0321  ADRIANA ZINGONE 40.8083 14.25   MMETSP0321  Bacillariophyta #c0fb2d Napoli  Campania    B650        
+MMETSP0322  ADRIANA ZINGONE 40.8083 14.25   MMETSP0322  Bacillariophyta #c0fb2d Napoli  Campania    B651        
+MMETSP0327  Marina Montresor    40.8083 14.25   MMETSP0327  Bacillariophyta #c0fb2d Napoli  Italy   B596        
+MMETSP0329  Marina Montresor    40.8083 14.25   MMETSP0329  Bacillariophyta #c0fb2d Napoli  Italy   B593        
+MMETSP1080  Alexandra Worden    40.75   14.33   MMETSP1080  Chlorophyta #00035b Moss Landing    California  CCMP1646        
+MMETSP1399  Alexandra Worden    40.75   14.33   MMETSP1399  Chlorophyta #00035b Moss Landing    California  CCMP1898        
+MMETSP1039  Giovanna Romano 43.5    14.5    MMETSP1039  Bacillariophyta #c0fb2d Napoli  Italy   FE7     
+MMETSP1040  Giovanna Romano 43.5    14.5    MMETSP1040  Bacillariophyta #c0fb2d Napoli  Italy   FE60        
+MMETSP1318  Willie Wilson   37.4    15.61666667 MMETSP1318  Cercozoa    #d725de West Boothbay Harbor    Maine   RCC365      
+MMETSP1334  Daniel Vaulot   -34.46666667    17.3    MMETSP1334  Haptophyta  #c9643b Roscoff France  RCC1130     
+MMETSP0209  Denis Lynn  40.3    17.57   MMETSP0209  Ciliophora  #76ff7b     Guam    P1      
+MMETSP1401  Alexandra Worden    -33.03  17.98   MMETSP1401  Chlorophyta #00035b Moss Landing    California  CCAC1681        
+MMETSP0143  Sonya Dyhrman   64.75   21.33   MMETSP0143  Haptophyta  #c9643b Palisades   NY  CCMP1757        
+MMETSP0359  Karin Rengefors 59.51   23.13   MMETSP0359  Dinophyta   #f9bc08 Lund    none    SHTV-5      
+MMETSP0360  Karin Rengefors 59.51   23.13   MMETSP0360  Dinophyta   #f9bc08 Lund    none    SHTV-5      
+MMETSP0361  Karin Rengefors 59.51   23.13   MMETSP0361  Dinophyta   #f9bc08 Lund    none    SHTV-5      
+MMETSP0319  Satoshi Nagai   59.51   23.15   MMETSP0319  Bacillariophyta #c0fb2d Kyoto   Japan   SM1012Hels-07       
+MMETSP1471  Willie Wilson   -35.05  23.73333    MMETSP1471  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC733      
+MMETSP0929  Gwenael Piganeau    3.145   42.488  MMETSP0929  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC2572     
+MMETSP0930  Gwenael Piganeau    3.145   42.488  MMETSP0930  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC1621     
+MMETSP0938  Gwenael Piganeau    3.145   42.488  MMETSP0938  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC1107     
+MMETSP0939  Gwenael Piganeau    3.145   42.488  MMETSP0939  Chlorophyta #00035b Banyuls sur mer France  clade-A-BCC118000       
+MMETSP0932  Gwenael Piganeau    3.6 43.4    MMETSP0932  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC2596     
+MMETSP0933  Gwenael Piganeau    3.6 43.4    MMETSP0933  Chlorophyta #00035b Banyuls sur mer France  BCC99000        
+MMETSP0936  Gwenael Piganeau    3.6 43.4    MMETSP0936  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC2573     
+MMETSP0937  Gwenael Piganeau    3.6 43.4    MMETSP0937  Chlorophyta #00035b Banyuls sur mer France  clade-D-RCC2593     
+MMETSP1450  Willie Wilson   -13.3836    48.3388 MMETSP1450  Rhodophyta  brown   West Boothbay Harbor    Maine   CCMP3234        
+MMETSP0962  Jackie Collier  8   53  MMETSP0962  Labyrinthista   green   Stony Brook NY  ATCC28209       
+MMETSP0963  Jackie Collier  8   53  MMETSP0963  Labyrinthista   green   Stony Brook NY  ATCC28209       
+MMETSP0964  Jackie Collier  8   53  MMETSP0964  Labyrinthista   green   Stony Brook NY  ATCC28209       
+MMETSP0965  Jackie Collier  8   53  MMETSP0965  Labyrinthista   green   Stony Brook NY  ATCC28209       
+MMETSP0789  Virginia Armbrust   23.5643 58.853  MMETSP0789  Bacillariophyta #c0fb2d Seattle WA  CCMP 1694       
+MMETSP1162  Willie Wilson   23.5643 58.853  MMETSP1162  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP2710        
+MMETSP0370  Karin Rengefors 18.6    59.85   MMETSP0370  Dinophyta   #f9bc08 Lund    none    PAER-2      
+MMETSP0371  Karin Rengefors 18.6    59.85   MMETSP0371  Dinophyta   #f9bc08 Lund    none    PAER-2      
+MMETSP0786  Virginia Armbrust   18.47   64.575  MMETSP0786  Bacillariophyta #c0fb2d Seattle WA  CCMP 1798       
+MMETSP0110_2    Patrick Keeling 24.6019 64.9177 MMETSP0110_2    Cercozoa    #d725de Vancouver   British Columbia    CCMP2014        
+MMETSP1178  Willie Wilson   14.449  64.9997 MMETSP1178  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP2000        
+MMETSP1068  Virginia Armbrust   43  -68 MMETSP1068  Ochrophyta  gray    Seattle WA  CCMP716     
+MMETSP0258  Geoff Sinclair  47  -122    MMETSP0258  Dinophyta   #f9bc08 Norman  OK  CCMP1314        
+MMETSP0259  Geoff Sinclair  47  -122    MMETSP0259  Dinophyta   #f9bc08 Norman  OK  CCMP1314        
+MMETSP0398  Senjie Lin  41.56   -70.583 MMETSP0398  -       Groton  CT  #N/A        
+MMETSP0399  Senjie Lin  41.56   -70.583 MMETSP0399  Dinophyta   #f9bc08 Groton  CT  CCMP1314        
+MMETSP0196  Senjie Lin  43.1    -70.782 MMETSP0196  -       Groton  CT  #N/A        
+MMETSP0197  Senjie Lin  43.1    -70.782 MMETSP0197  Dinophyta   #f9bc08 Groton  CT  CCMP1719        
+MMETSP0347  Kjetill Sigurd Jakobsen 43.1    -70.782 MMETSP0347  Dinophyta   #f9bc08 Oslo    Norway  CCMP1719        
+MMETSP0449_2    George McManus  41  -72 MMETSP0449_2    Ciliophora  #76ff7b Groton  CT  ras09       
+MMETSP1440  Willie Wilson   78.5978 74.4992 MMETSP1440  Alveolata   #789b73 West Boothbay Harbor    Maine   CCMP2088        
+MMETSP0267  Geoff Sinclair  38.59   -75.1   MMETSP0267  Dinophyta   #f9bc08 Norman  OK  CCMP2233        
+MMETSP0268  Geoff Sinclair  38.59   -75.1   MMETSP0268  Dinophyta   #f9bc08 Norman  OK  CCMP2233        
+MMETSP0269  Geoff Sinclair  38.59   -75.1   MMETSP0269  Dinophyta   #f9bc08 Norman  OK  CCMP2233        
+MMETSP1446  Willie Wilson   -5.4684 75.6186 MMETSP1446  Unknown dark gray   West Boothbay Harbor    Maine   CCMP2111        
+MMETSP0924  Senjie Lin  38.9944 -76.2141    MMETSP0924  -       Groton  CT  ATCC PRA-65     
+MMETSP0925  Senjie Lin  38.9944 -76.2141    MMETSP0925  Perkinsozoa orange  Groton  CT  ATCC PRA-65     
+MMETSP0922  Senjie Lin  38.71306    -76.32083   MMETSP0922  -       Groton  CT  ATCC 50439      
+MMETSP0923  Senjie Lin  38.71306    -76.32083   MMETSP0923  Perkinsozoa orange  Groton  CT  ATCC 50439      
+MMETSP0367  Karin Rengefors 68.46306    78.22333    MMETSP0367  Dinophyta   #f9bc08 Lund    none    SHHI-4      
+MMETSP0368  Karin Rengefors 68.46306    78.22333    MMETSP0368  Dinophyta   #f9bc08 Lund    none    SHHI-4      
+MMETSP0369  Karin Rengefors 68.46306    78.22333    MMETSP0369  Dinophyta   #f9bc08 Lund    none    SHHI-4      
+MMETSP1015  Geoff Sinclair  32.2167 -80.7   MMETSP1015  Dinophyta   #f9bc08 Norman  OK  CCMP2283        
+MMETSP1016  Geoff Sinclair  32.2167 -80.7   MMETSP1016  Dinophyta   #f9bc08 Norman  OK  CCMP2283        
+MMETSP1017  Geoff Sinclair  32.2167 -80.7   MMETSP1017  Dinophyta   #f9bc08 Norman  OK  CCMP2283        
+MMETSP0027  Geoff Sinclair  27.0171 -82.47  MMETSP0027  Dinophyta   #f9bc08 Norman  OK  CCMP2229        
+MMETSP0029  Geoff Sinclair  27.0171 -82.47  MMETSP0029  Dinophyta   #f9bc08 Norman  OK  CCMP2229        
+MMETSP0030  Geoff Sinclair  27.0171 -82.47  MMETSP0030  Dinophyta   #f9bc08 Norman  OK  CCMP2229        
+MMETSP0031  Geoff Sinclair  27.0171 -82.47  MMETSP0031  Dinophyta   #f9bc08 Norman  OK  CCMP2229        
+MMETSP1441  Willie Wilson   76.25   82.55   MMETSP1441  Alveolata   #789b73 West Boothbay Harbor    Maine   CCMP445     
+MMETSP0270  Geoff Sinclair  27.3122 -82.6   MMETSP0270  Dinophyta   #f9bc08 Norman  OK  CCMP3099        
+MMETSP0271  Geoff Sinclair  27.3122 -82.6   MMETSP0271  Dinophyta   #f9bc08 Norman  OK  CCMP3099        
+MMETSP0272  Geoff Sinclair  27.3122 -82.6   MMETSP0272  Dinophyta   #f9bc08 Norman  OK  CCMP3099        
+MMETSP0794_2    Virginia Armbrust   29.4666 -86.121 MMETSP0794_2    Bacillariophyta #c0fb2d Seattle WA  CCMP 815        
+MMETSP1032  Mary Ann Moran  27.8    -97.13  MMETSP1032  Dinophyta   #f9bc08 Athens  GA  CCMP 1738       
+MMETSP1033  Mary Ann Moran  27.8    -97.13  MMETSP1033  Dinophyta   #f9bc08 Athens  GA  CCMP 1738       
+MMETSP1034  Mary Ann Moran  27.8    -97.13  MMETSP1034  Dinophyta   #f9bc08 Athens  GA  CCMP 1738       
+MMETSP1035  Mary Ann Moran  27.8    -97.13  MMETSP1035  Dinophyta   #f9bc08 Athens  GA  CCMP 1738       
+MMETSP1105  David Caron 5.4 100.32  MMETSP1105  Ochrophyta  gray    Los Angeles CA  BG-1        
+MMETSP1114  David Caron 13.1    101.03  MMETSP1114  Unknown dark gray   Los Angeles CA  CCAP 1951/1     
+MMETSP0785  Virginia Armbrust   5.5 105 MMETSP0785  Ochrophyta  gray    Seattle WA  CCMP 1866       
+MMETSP0200_2    Matthew Posewitz    40.95118    -112.088    MMETSP0200_2    Bacillariophyta #c0fb2d Golden  CO  GSL56       
+MMETSP1460  Willie Wilson   -14.483333  113.45  MMETSP1460  Chlorophyta #00035b West Boothbay Harbor    Maine   RCC716      
+MMETSP0696  Sarah Smith 31.3172 -113.56 MMETSP0696  Bacillariophyta #c0fb2d La Jolla    CA  CCMP396     
+MMETSP0697  Sarah Smith 31.3172 -113.56 MMETSP0697  Bacillariophyta #c0fb2d La Jolla    CA  CCMP396     
+MMETSP0698  Sarah Smith 31.3172 -113.56 MMETSP0698  Bacillariophyta #c0fb2d La Jolla    CA  CCMP396     
+MMETSP0699  Sarah Smith 31.3172 -113.56 MMETSP0699  Bacillariophyta #c0fb2d La Jolla    CA  CCMP396     
+MMETSP1059  Virginia Armbrust   34.27944    -114.22 MMETSP1059  Bacillariophyta #c0fb2d Seattle WA  FW      
+MMETSP0705  Sarah Smith 32.655  -117.14 MMETSP0705  Bacillariophyta #c0fb2d La Jolla    CA  CCMP134     
+MMETSP0706  Sarah Smith 32.655  -117.14 MMETSP0706  Bacillariophyta #c0fb2d La Jolla    CA  CCMP134     
+MMETSP0707  Sarah Smith 32.655  -117.14 MMETSP0707  Bacillariophyta #c0fb2d La Jolla    CA  CCMP134     
+MMETSP0708  Sarah Smith 32.655  -117.14 MMETSP0708  Bacillariophyta #c0fb2d La Jolla    CA  CCMP134     
+MMETSP0198_2    Eric Allen  32.86667    -117.25 MMETSP0198_2    Labyrinthista   green   La Jolla    CA  LLF1b       
+MMETSP0199_2    Eric Allen  32.86667    -117.25 MMETSP0199_2    Labyrinthista   green   La Jolla    CA  LLF1b       
+MMETSP0716  Sarah Smith 32.9    -117.255    MMETSP0716  Bacillariophyta #c0fb2d La Jolla    CA  0       
+MMETSP0717  Sarah Smith 32.9    -117.255    MMETSP0717  Bacillariophyta #c0fb2d La Jolla    CA  0       
+MMETSP0718  Sarah Smith 32.9    -117.255    MMETSP0718  Bacillariophyta #c0fb2d La Jolla    CA  0       
+MMETSP0719  Sarah Smith 32.9    -117.255    MMETSP0719  Bacillariophyta #c0fb2d La Jolla    CA  0       
+MMETSP0063_2    Aurora Nedelcu  36.05   120.31  MMETSP0063_2    Chlorophyta #00035b Vancouver   British Columbia    CCMP219     
+MMETSP0058  Aurora Nedelcu  36.64   121.93  MMETSP0058  Chlorophyta #00035b Vancouver   British Columbia    CCMP726     
+MMETSP0059  Aurora Nedelcu  36.64   121.93  MMETSP0059  Chlorophyta #00035b Vancouver   British Columbia    CCMP726     
+MMETSP0372  Claudio Slamovits   48.83375    -125.13023  MMETSP0372  Apicomplexa #607c8e Halifax NS  Grappler Inlet BC       
+MMETSP1164  Willie Wilson   24.62   125.24  MMETSP1164  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP2950        
+MMETSP0042_2    John Archibald  32.86667    117.255 MMETSP0042_2    Cercozoa    #d725de Halifax NS  CCMP2058        
+MMETSP1432  Adrian Marchetti    48.816  -128.666    MMETSP1432  Bacillariophyta #c0fb2d Chapel Hill NC  UNC1205     
+MMETSP1310  Daniel Vaulot   34.35   130.08  MMETSP1310  Unknown dark gray   Roscoff France  RCC2339     
+MMETSP0593  Tatiana Rynearson   34.3    132.4   MMETSP0593  Bacillariophyta #c0fb2d Narragansett    RI  CCMP2506        
+MMETSP1167  Willie Wilson   34  135.1   MMETSP1167  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP3275        
+MMETSP0161_2    Jan Pawlowski   42.26722    136.71861   MMETSP0161_2    Unknown dark gray   Geneva  Switzerland SoJaBio B1-5/56/2       
+MMETSP0958  Jackie Collier  9.53333 138.11667   MMETSP0958  Labyrinthista   green   Stony Brook NY  ATCCMYA-1381        
+MMETSP0959  Jackie Collier  9.53333 138.11667   MMETSP0959  Labyrinthista   green   Stony Brook NY  ATCCMYA-1381        
+MMETSP0960  Jackie Collier  9.53333 138.11667   MMETSP0960  Labyrinthista   green   Stony Brook NY  ATCCMYA-1381        
+MMETSP0961  Jackie Collier  9.53333 138.11667   MMETSP0961  Labyrinthista   green   Stony Brook NY  ATCCMYA-1381        
+MMETSP1312  Daniel Vaulot   35.21666667 139.6166    MMETSP1312  Unknown dark gray   Roscoff France  RCC2335     
+MMETSP1316  Daniel Vaulot   35.21666667 139.6166    MMETSP1316  Chlorophyta #00035b Roscoff France  RCC2336     
+MMETSP1335  Daniel Vaulot   38.11   141.07  MMETSP1335  Haptophyta  #c9643b Roscoff France  RCC1486     
+MMETSP1393  Alexandra Worden    -36.1   144.6   MMETSP1393  Chlorophyta #00035b Moss Landing    California  CS-222      
+MMETSP0418  Edward Theriot  13.4427 144.6428    MMETSP0418  Bacillariophyta #c0fb2d Austin  TX  13vi08-1A       
+MMETSP0111_2    Patrick Keeling 13.4    144.7   MMETSP0111_2    Cercozoa    #d725de Vancouver   British Columbia    CCCM811     
+MMETSP0112_2    Patrick Keeling 13.4    144.7   MMETSP0112_2    Cercozoa    #d725de Vancouver   British Columbia    CCCM811     
+MMETSP1165  Willie Wilson   13.5    144.75  MMETSP1165  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP3189        
+MMETSP1170  Willie Wilson   13.5    144.75  MMETSP1170  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP770     
+MMETSP1172  Willie Wilson   -31.81  144.9   MMETSP1172  Rhodophyta  brown   West Boothbay Harbor    Maine   CCMP3278        
+MMETSP0107_2    Brian Palenik   -37.86  144.93  MMETSP0107_2    Cryptophyta #fe83cc San Diego   CA  CCMP1869        
+MMETSP1339  Willie Wilson   -37.86  144.93  MMETSP1339  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP1661        
+MMETSP0009_2    Virginia Armbrust   37.86   144.93  MMETSP0009_2    Bacillariophyta #c0fb2d Seattle WA  CCMP 410        
+MMETSP1442  Willie Wilson   -38.45  145.3333    MMETSP1442  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP3328        
+MMETSP0689_2    Shauna Murray   -17 146 MMETSP0689_2    Dinophyta   #f9bc08 Sydney  New South Wales CS-259      
+MMETSP1160  Willie Wilson   7.48    146.46  MMETSP1160  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP2078        
+MMETSP1163  Willie Wilson   7.48    146.46  MMETSP1163  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP2877        
+MMETSP0661  Shauna Murray   43.03333    147.36667   MMETSP0661  Dinophyta   #f9bc08 Sydney  New South Wales AMGDE01CS-322       
+MMETSP0290  Patrick Keeling -33.84  151.28  MMETSP0290  Unknown dark gray   Vancouver   British Columbia    CCMP2878        
+MMETSP0288  Patrick Keeling -23.5   152 MMETSP0288  Apicomplexa #607c8e Vancouver   British Columbia    CCMP3155        
+MMETSP1115  Willie Wilson   -23.5   152 MMETSP1115  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   CCMP2430        
+MMETSP1116  Willie Wilson   -23.5   152 MMETSP1116  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   CCMP2430        
+MMETSP1117  Willie Wilson   -23.5   152 MMETSP1117  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   CCMP2430        
+MMETSP1451  Willie Wilson   -23.5   152 MMETSP1451  Alveolata   #789b73 West Boothbay Harbor    Maine   CCMP3346        
+MMETSP0011_2    Virginia Armbrust   20.5    156.8   MMETSP0011_2    Rhodophyta  brown   Seattle WA  CCMP 769        
+MMETSP0133_2    Senjie Lin  21.25   158 MMETSP0133_2    Dinophyta   #f9bc08 Groton  CT  CCMP2468        
+MMETSP0134_2    Senjie Lin  21.25   158 MMETSP0134_2    Dinophyta   #f9bc08 Groton  CT  CCMP2468        
+MMETSP0135_2    Senjie Lin  21.25   158 MMETSP0135_2    Dinophyta   #f9bc08 Groton  CT  CCMP2468        
+MMETSP1468  Willie Wilson   -78.8333    163 MMETSP1468  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1436        
+MMETSP1176  Willie Wilson   -77.8333    163 MMETSP1176  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP1620        
+MMETSP1177  Willie Wilson   -77.8333    163 MMETSP1177  Ochrophyta  gray    West Boothbay Harbor    Maine   CCMP1899        
+MMETSP1437  Willie Wilson   -77.8333    163 MMETSP1437  Bacillariophyta #c0fb2d West Boothbay Harbor    Maine   CCMP1452        
+MMETSP0798  Jeremiah Hackett    -77.83  163 MMETSP0798  Ciliophora  #76ff7b Tuscon  AZ  CCMP2563        
+MMETSP0799  Jeremiah Hackett    -77.83  163 MMETSP0799  Cryptophyta #fe83cc Tuscon  AZ  CCMP2564        
+MMETSP0227  Patrick Keeling -77.85  166.75  MMETSP0227  Dinophyta   #f9bc08 Vancouver   British Columbia    CCMP 1383       
+MMETSP0766_2    Shauna Murray   35  173 MMETSP0766_2    Dinophyta   #f9bc08 Sydney  New South Wales CAWD 149        
+MMETSP1110  Willie Wilson   -41.27  174.795 MMETSP1110  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   CCMP421     
+MMETSP1091  Alexandra Worden    -39 176 MMETSP1091  Cryptophyta #fe83cc Moss Landing    California  CCMP768     
+MMETSP1389  Alexandra Worden    -39 176 MMETSP1389  Cryptophyta #fe83cc Moss Landing    California  CCMP768     
+MMETSP0038_2    John Archibald          MMETSP0038_2    Cryptophyta #fe83cc Halifax NS  CCAP977/2a      
+MMETSP0039_2    John Archibald          MMETSP0039_2    Euglenozoa  #7bc8f6 Halifax NS  NIES-381        
+MMETSP0047_2    John Archibald          MMETSP0047_2    Cryptophyta #fe83cc Halifax NS  CCMP1168        
+MMETSP0055  Sonya Dyhrman           MMETSP0055  Dinophyta   #f9bc08 Palisades   NY  CCMP1329        
+MMETSP0056  Sonya Dyhrman           MMETSP0056  Dinophyta   #f9bc08 Palisades   NY  CCMP1329        
+MMETSP0057  Sonya Dyhrman           MMETSP0057  Dinophyta   #f9bc08 Palisades   NY  CCMP1329        
+MMETSP0086_2    Brian Palenik           MMETSP0086_2    Unknown dark gray   San Diego   CA  D1      
+MMETSP0087  Brian Palenik           MMETSP0087  Unknown dark gray   San Diego   CA  D1      
+MMETSP0090  Sonya Dyhrman           MMETSP0090  Bacillariophyta #c0fb2d Palisades   NY  CCMP159     
+MMETSP0091  Sonya Dyhrman           MMETSP0091  Bacillariophyta #c0fb2d Palisades   NY  CCMP159     
+MMETSP0092  Sonya Dyhrman           MMETSP0092  Bacillariophyta #c0fb2d Palisades   NY  CCMP159     
+MMETSP0093  Sonya Dyhrman           MMETSP0093  Dinophyta   #f9bc08 Palisades   NY  CCMP3105        
+MMETSP0095  Sonya Dyhrman           MMETSP0095  Dinophyta   #f9bc08 Palisades   NY  CCMP3105        
+MMETSP0096  Sonya Dyhrman           MMETSP0096  Dinophyta   #f9bc08 Palisades   NY  CCMP3105        
+MMETSP0097  Sonya Dyhrman           MMETSP0097  Dinophyta   #f9bc08 Palisades   NY  CCMP3105        
+MMETSP0101  Brian Palenik           MMETSP0101  Ochrophyta  gray    San Diego   CA  PT      
+MMETSP0102  Brian Palenik           MMETSP0102  Ochrophyta  gray    San Diego   CA  PT      
+MMETSP0103  Brian Palenik           MMETSP0103  Ochrophyta  gray    San Diego   CA  PA2     
+MMETSP0104  Brian Palenik           MMETSP0104  Ochrophyta  gray    San Diego   CA  PA2     
+MMETSP0105_2    Brian Palenik           MMETSP0105_2    Sarcomastigophora   yellow  San Diego   CA  10tr        
+MMETSP0106_2    Brian Palenik           MMETSP0106_2    Sarcomastigophora   yellow  San Diego   CA  10tr        
+MMETSP0108  Brian Palenik           MMETSP0108  Cryptophyta #fe83cc San Diego   CA  CCMP1869        
+MMETSP0113_2    Patrick Keeling         MMETSP0113_2    Cercozoa    #d725de Vancouver   British Columbia    BC52        
+MMETSP0116_2    Patrick Keeling         MMETSP0116_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CSIRO CS-38     
+MMETSP0117_2    Patrick Keeling         MMETSP0117_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CSIRO CS-38     
+MMETSP0119_2    Patrick Keeling         MMETSP0119_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCAP 1116/3     
+MMETSP0120_2    Patrick Keeling         MMETSP0120_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCMP 1326       
+MMETSP0121_2    Patrick Keeling         MMETSP0121_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCMP 1326       
+MMETSP0127  Denis Lynn          MMETSP0127  Ciliophora  #76ff7b     Guam    WH      
+MMETSP0145  Sonya Dyhrman           MMETSP0145  Haptophyta  #c9643b Palisades   NY  CCMP1757        
+MMETSP0146  Sonya Dyhrman           MMETSP0146  Haptophyta  #c9643b Palisades   NY  CCMP1757        
+MMETSP0147  Sonya Dyhrman           MMETSP0147  Haptophyta  #c9643b Palisades   NY  CCMP1757        
+MMETSP0160_2    Glen Wheeler            MMETSP0160_2    Bacillariophyta #c0fb2d Plymouth    Devon   Grunow 1884     
+MMETSP0190_2    Jan Pawlowski           MMETSP0190_2    Foraminifera    #fffcc4 Geneva  Switzerland 0       
+MMETSP0191  Jan Pawlowski           MMETSP0191  Foraminifera    #fffcc4 Geneva  Switzerland 0       
+MMETSP0201  Frances Van Dolah           MMETSP0201  Dinophyta   #f9bc08 Charleston  SC  Wilson      
+MMETSP0202  Frances Van Dolah           MMETSP0202  Dinophyta   #f9bc08 Charleston  SC  Wilson      
+MMETSP0205  Denis Lynn          MMETSP0205  Ciliophora  #76ff7b     Guam    TN1     
+MMETSP0206  Denis Lynn          MMETSP0206  Ciliophora  #76ff7b     Guam    TN1     
+MMETSP0229_2    Patrick Keeling         MMETSP0229_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 517        
+MMETSP0232  Nadathur Govind         MMETSP0232  Ascomycota  #137e6d Mayaguez    PR  J26     
+MMETSP0233  Nadathur Govind         MMETSP0233  Ascomycota  #137e6d Mayaguez    PR  J26     
+MMETSP0234  Nadathur Govind         MMETSP0234  Ascomycota  #137e6d Mayaguez    PR  J26     
+MMETSP0235  Nadathur Govind         MMETSP0235  Ascomycota  #137e6d Mayaguez    PR  J26     
+MMETSP0251_2    Patrick Keeling         MMETSP0251_2    Dinophyta   #f9bc08 Vancouver   British Columbia    CCCM 845        
+MMETSP0253  Patrick Keeling         MMETSP0253  Dinophyta   #f9bc08 Vancouver   British Columbia    0       
+MMETSP0294  Sonya Dyhrman           MMETSP0294  Ochrophyta  gray    Palisades   NY  CCMP2393        
+MMETSP0295  Sonya Dyhrman           MMETSP0295  Ochrophyta  gray    Palisades   NY  CCMP2393        
+MMETSP0296  Sonya Dyhrman           MMETSP0296  Ochrophyta  gray    Palisades   NY  CCMP2393        
+MMETSP0314  Patrick Keeling         MMETSP0314  Rhodophyta  brown   Vancouver   British Columbia    CCMP736     
+MMETSP0316  Peter Stief         MMETSP0316  Bacillariophyta #c0fb2d Bremen  XY  CCMP127     
+MMETSP0317  Peter Stief         MMETSP0317  Bacillariophyta #c0fb2d Bremen  XY  CCMP127     
+MMETSP0318_2    Peter Stief         MMETSP0318_2    Bacillariophyta #c0fb2d Bremen  XY  CCMP127     
+MMETSP0323_2    Philippe Deschamps          MMETSP0323_2    Dinophyta   #f9bc08 Orsay   France  Seligo      
+MMETSP0324_2    Philippe Deschamps          MMETSP0324_2    Dinophyta   #f9bc08 Orsay   France  Seligo      
+MMETSP0325_2    Philippe Deschamps          MMETSP0325_2    Dinophyta   #f9bc08 Orsay   France  Seligo      
+MMETSP0326_2    Philippe Deschamps          MMETSP0326_2    Dinophyta   #f9bc08 Orsay   France  Seligo      
+MMETSP0419_2    SARAH D'ADAMO           MMETSP0419_2    Chlorophyta #00035b Golden  CO  GSL018      
+MMETSP0420  Laura Katz          MMETSP0420  Unknown dark gray   Groton  CT  0       
+MMETSP0468  Susanne Menden-Deuer            MMETSP0468  Dinophyta   #f9bc08 Narragansett    Rhode Island    0       
+MMETSP0469  Susanne Menden-Deuer            MMETSP0469  Dinophyta   #f9bc08 Narragansett    Rhode Island    0       
+MMETSP0470  Susanne Menden-Deuer            MMETSP0470  Dinophyta   #f9bc08 Narragansett    Rhode Island    0       
+MMETSP0471  Susanne Menden-Deuer            MMETSP0471  Dinophyta   #f9bc08 Narragansett    Rhode Island    0       
+MMETSP0484_2    George McManus          MMETSP0484_2    Cryptophyta #fe83cc Groton  CT  RHODO       
+MMETSP0491_2    George McManus          MMETSP0491_2    Chlorophyta #00035b Groton  CT  PLY429      
+MMETSP0527_2    Lisa Campbell           MMETSP0527_2    Dinophyta   #f9bc08 College Station TX  SP3     
+MMETSP0528_2    Lisa Campbell           MMETSP0528_2    Dinophyta   #f9bc08 College Station TX  SP3     
+MMETSP0573  Lisa Campbell           MMETSP0573  Dinophyta   #f9bc08 College Station TX  SP1     
+MMETSP0574  Lisa Campbell           MMETSP0574  Dinophyta   #f9bc08 College Station TX  SP1     
+MMETSP0648_2    Lisa Campbell           MMETSP0648_2    Dinophyta   #f9bc08 College Station TX  Wilson      
+MMETSP0649_2    Lisa Campbell           MMETSP0649_2    Dinophyta   #f9bc08 College Station TX  Wilson      
+MMETSP0725  Sarah Smith         MMETSP0725  Bacillariophyta #c0fb2d La Jolla    CA  CCMP467     
+MMETSP0726  Sarah Smith         MMETSP0726  Bacillariophyta #c0fb2d La Jolla    CA  CCMP467     
+MMETSP0727  Sarah Smith         MMETSP0727  Bacillariophyta #c0fb2d La Jolla    CA  CCMP467     
+MMETSP0738  Sarah Smith         MMETSP0738  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1093        
+MMETSP0739  Sarah Smith         MMETSP0739  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1093        
+MMETSP0740  Sarah Smith         MMETSP0740  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1093        
+MMETSP0745  Sarah Smith         MMETSP0745  Bacillariophyta #c0fb2d La Jolla    CA  CCMP561     
+MMETSP0746  Sarah Smith         MMETSP0746  Bacillariophyta #c0fb2d La Jolla    CA  CCMP561     
+MMETSP0747  Sarah Smith         MMETSP0747  Bacillariophyta #c0fb2d La Jolla    CA  CCMP561     
+MMETSP0752  Sarah Smith         MMETSP0752  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1317        
+MMETSP0753  Sarah Smith         MMETSP0753  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1317        
+MMETSP0754  Sarah Smith         MMETSP0754  Bacillariophyta #c0fb2d La Jolla    CA  CCMP1317        
+MMETSP0758  Alastair Simpson            MMETSP0758  Unknown dark gray   Halifax Nova Scotia AE-1 (ATCC 50343)       
+MMETSP0759  Alastair Simpson            MMETSP0759  Unknown dark gray   Halifax Nova Scotia WS      
+MMETSP0780_2    John Archibald          MMETSP0780_2    Unknown dark gray   Halifax NS  NIES-2562       
+MMETSP0784  Jeremiah Hackett            MMETSP0784  Dinophyta   #f9bc08 Tuscon  AZ  GC744       
+MMETSP0790  Jeremiah Hackett            MMETSP0790  Dinophyta   #f9bc08 Tuscon  AZ  OF101       
+MMETSP0795  Jeremiah Hackett            MMETSP0795  Dinophyta   #f9bc08 Tuscon  AZ  Ameob2      
+MMETSP0796  Jeremiah Hackett            MMETSP0796  Dinophyta   #f9bc08 Tuscon  AZ  pbaha01     
+MMETSP0797  Jeremiah Hackett            MMETSP0797  Dinophyta   #f9bc08 Tuscon  AZ  DAEP01      
+MMETSP0817  Min Park            MMETSP0817  Chlorophyta #00035b Los Alamos  NM  LANL1001        
+MMETSP0818  Min Park            MMETSP0818  Chlorophyta #00035b Los Alamos  NM  LANL1001        
+MMETSP0819  Min Park            MMETSP0819  Chlorophyta #00035b Los Alamos  NM  LANL1001        
+MMETSP0820  Min Park            MMETSP0820  Chlorophyta #00035b Los Alamos  NM  LANL1001        
+MMETSP0879  Francois Morel          MMETSP0879  Bacillariophyta #c0fb2d Princeton   NJ  CCMP1336        
+MMETSP0880  Francois Morel          MMETSP0880  Bacillariophyta #c0fb2d Princeton   NJ  CCMP1336        
+MMETSP0881  Francois Morel          MMETSP0881  Bacillariophyta #c0fb2d Princeton   NJ  CCMP1336        
+MMETSP0903  Thomas Mock         MMETSP0903  Bacillariophyta #c0fb2d Norwich England CCMP982     
+MMETSP0904  Thomas Mock         MMETSP0904  Bacillariophyta #c0fb2d Norwich England CCMP982     
+MMETSP0905  Thomas Mock         MMETSP0905  Bacillariophyta #c0fb2d Norwich England CCMP982     
+MMETSP0945  Mary Rumpho         MMETSP0945  Ochrophyta  gray    Storrs  CT  CCMP2940        
+MMETSP0946  Mary Rumpho         MMETSP0946  Ochrophyta  gray    Storrs  CT  CCMP2940        
+MMETSP0948  Kathryn Coyne           MMETSP0948  Ochrophyta  gray    Lewes   DE  CCMP2191        
+MMETSP0949  Kathryn Coyne           MMETSP0949  Ochrophyta  gray    Lewes   DE  CCMP2191        
+MMETSP0950  Kathryn Coyne           MMETSP0950  Ochrophyta  gray    Lewes   DE  CCMP2191        
+MMETSP1062  Virginia Armbrust           MMETSP1062  Bacillariophyta #c0fb2d Seattle WA  Pop1 (SS4)      
+MMETSP1063  Virginia Armbrust           MMETSP1063  Bacillariophyta #c0fb2d Seattle WA  Pop2 (SS10)     
+MMETSP1070  Virginia Armbrust           MMETSP1070  Bacillariophyta #c0fb2d Seattle WA  NH13        
+MMETSP1071  Virginia Armbrust           MMETSP1071  Bacillariophyta #c0fb2d Seattle WA  NH16        
+MMETSP1089  Alexandra Worden            MMETSP1089  Glaucophyta #fd411e Moss Landing    California  SAG46.84        
+MMETSP1102  David Caron         MMETSP1102  Cryptophyta #fe83cc Los Angeles CA  Caron Lab Isolate       
+MMETSP1103  David Caron         MMETSP1103  Ochrophyta  gray    Los Angeles CA  Caron Lab Isolate       
+MMETSP1104  David Caron         MMETSP1104  Bicosoecida #5729ce Los Angeles CA  Caron Lab Isolate       
+MMETSP1106  David Caron         MMETSP1106  Chlorophyta #00035b Los Angeles CA  SL-175      
+MMETSP1107  David Caron         MMETSP1107  Ochrophyta  gray    Los Angeles CA  GFlagA      
+MMETSP1122  Willie Wilson           MMETSP1122  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   Mp      
+MMETSP1123  Willie Wilson           MMETSP1123  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   Mp      
+MMETSP1124  Willie Wilson           MMETSP1124  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   Mp      
+MMETSP1125  Willie Wilson           MMETSP1125  Dinophyta   #f9bc08 West Boothbay Harbor    Maine   Mp      
+MMETSP1126  Willie Wilson           MMETSP1126  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1320        
+MMETSP1127  Willie Wilson           MMETSP1127  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1320        
+MMETSP1128  Willie Wilson           MMETSP1128  Chlorophyta #00035b West Boothbay Harbor    Maine   CCMP1320        
+MMETSP1130  Willie Wilson           MMETSP1130  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP1324        
+MMETSP1131  Willie Wilson           MMETSP1131  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP1324        
+MMETSP1132  Willie Wilson           MMETSP1132  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP1324        
+MMETSP1137  Willie Wilson           MMETSP1137  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP645     
+MMETSP1138  Willie Wilson           MMETSP1138  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP645     
+MMETSP1140  Willie Wilson           MMETSP1140  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP459     
+MMETSP1147  Patrick Keeling         MMETSP1147  Dinophyta   #f9bc08 Vancouver   British Columbia    SPMC 104        
+MMETSP1148  Patrick Keeling         MMETSP1148  Dinophyta   #f9bc08 Vancouver   British Columbia    SPMC 103        
+MMETSP1150  Francois Morel          MMETSP1150  Haptophyta  #c9643b Princeton   NJ  PLY M219        
+MMETSP1151  Francois Morel          MMETSP1151  Haptophyta  #c9643b Princeton   NJ  PLY M219        
+MMETSP1152  Francois Morel          MMETSP1152  Haptophyta  #c9643b Princeton   NJ  PLY M219        
+MMETSP1153  Francois Morel          MMETSP1153  Haptophyta  #c9643b Princeton   NJ  PLY M219        
+MMETSP1155  Francois Morel          MMETSP1155  Haptophyta  #c9643b Princeton   NJ  CCMP370     
+MMETSP1156  Francois Morel          MMETSP1156  Haptophyta  #c9643b Princeton   NJ  CCMP370     
+MMETSP1157  Francois Morel          MMETSP1157  Haptophyta  #c9643b Princeton   NJ  CCMP370     
+MMETSP1345  Giulio Petroni          MMETSP1345  Ciliophora  #76ff7b Pisa    Italy   0       
+MMETSP1356  John Archibald          MMETSP1356  Cryptophyta #fe83cc Halifax NS  PCC157      
+MMETSP1357  John Archibald          MMETSP1357  Cryptophyta #fe83cc Halifax NS  PCC563      
+MMETSP1364  Sonya Dyhrman           MMETSP1364  Haptophyta  #c9643b Palisades   NY  RCC1303     
+MMETSP1365  Sonya Dyhrman           MMETSP1365  Haptophyta  #c9643b Palisades   NY  RCC1303     
+MMETSP1366  Sonya Dyhrman           MMETSP1366  Haptophyta  #c9643b Palisades   NY  RCC1303     
+MMETSP1367  Ruth Gates          MMETSP1367  Dinophyta   #f9bc08 Kaneohe HI  C1      
+MMETSP1369  Ruth Gates          MMETSP1369  Dinophyta   #f9bc08 Kaneohe HI  C1      
+MMETSP1371  Ruth Gates          MMETSP1371  Dinophyta   #f9bc08 Kaneohe HI  C15     
+MMETSP1374  Ruth Gates          MMETSP1374  Dinophyta   #f9bc08 Kaneohe HI  cladeA      
+MMETSP1380  Cristina Miceli         MMETSP1380  Ciliophora  #76ff7b Camerino    Italy   CT5     
+MMETSP1381  Willie Wilson           MMETSP1381  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP459     
+MMETSP1384  Jan Pawlowski           MMETSP1384  Foraminifera    #fffcc4 Geneva  Switzerland 0       
+MMETSP1385  Jan Pawlowski           MMETSP1385  Foraminifera    #fffcc4 Geneva  Switzerland 0       
+MMETSP1395  Giulio Petroni          MMETSP1395  Ciliophora  #76ff7b Pisa    Italy   Stock R1072     
+MMETSP1396  Giulio Petroni          MMETSP1396  Ciliophora  #76ff7b Pisa    Italy   Brazil      
+MMETSP1397  Giulio Petroni          MMETSP1397  Ciliophora  #76ff7b Pisa    Italy   Stock W-24      
+MMETSP1400  Alexandra Worden            MMETSP1400  Chlorophyta #00035b Moss Landing    California  RCC451      
+MMETSP1403  Alexandra Worden            MMETSP1403  Chlorophyta #00035b Moss Landing    California  CCMP1723        
+MMETSP1423  Virginia Armbrust           MMETSP1423  Bacillariophyta #c0fb2d Seattle WA  UNC1101     
+MMETSP1424  Matthew Johnson         MMETSP1424  Dinophyta   #f9bc08 Woods Hole  MA  LB1974      
+MMETSP1425  Matthew Johnson         MMETSP1425  Dinophyta   #f9bc08 Woods Hole  MA  LB1974      
+MMETSP1426  Matthew Johnson         MMETSP1426  Dinophyta   #f9bc08 Woods Hole  MA  LB1974      
+MMETSP1453  Willie Wilson           MMETSP1453  Unknown dark gray   West Boothbay Harbor    Maine   RCC701      
+MMETSP1464  Willie Wilson           MMETSP1464  Haptophyta  #c9643b West Boothbay Harbor    Maine   RCC1523     
+MMETSP1466  Willie Wilson           MMETSP1466  Haptophyta  #c9643b West Boothbay Harbor    Maine   CCMP608     
+MMETSP1469  Willie Wilson           MMETSP1469  Unknown dark gray   West Boothbay Harbor    Maine   CCMP1205        
+MMETSP0132_2    Senjie Lin          MMETSP0132_2    -       Groton  CT  #N/A        
+MMETSP0451_2    Senjie Lin          MMETSP0451_2    -       Groton  CT          
+MMETSP1042  John Archibald          MMETSP1042  Cryptophyta #fe83cc Halifax NS  CCMP1180        
+MMETSP1049  John Archibald          MMETSP1049  Cryptophyta #fe83cc Halifax NS  CCMP704     
+MMETSP1050  John Archibald          MMETSP1050  Cryptophyta #fe83cc Halifax NS  CCAP979/52      
+MMETSP1054  John Archibald          MMETSP1054  Unknown dark gray   Halifax NS  CCMP1259        
+University of East Anglia       52.6238289  1.24054 University of East Anglia   University of East Anglia   white   Norwich         star    England
+Pierre and Marie Curie University       42.4828987  3.12691 Pierre and Marie Curie University   Pierre and Marie Curie University   white               star    
+University of Paris-Sud     48.6998901  2.1733091   University of Paris-Sud University of Paris-Sud white   Orsay           star    France
+Station biologique de Roscoff       46.6372795  2.3382623   Station biologique de Roscoff   Station biologique de Roscoff   white   Roscoff         star    France
+University of Camerino      43.1358337  13.0686111  University of Camerino  University of Camerino  white   Camerino            star    Italy
+Stazione Zoologica Anton Dohrn of Naples        42.7669792  12.4938231  Stazione Zoologica Anton Dohrn of Naples    Stazione Zoologica Anton Dohrn of Naples    white   Naples          star    Italy
+University of Pisa      43.7165985  10.39884    University of Pisa  University of Pisa  white   Pisa            star    Italy
+National Institute of Agrobiological Sciences       36.0349007  140.0801544 National Institute of Agrobiological Sciences   National Institute of Agrobiological Sciences   white   Tsukba          star    Japan
+University of New South Wales       -33.9170494 151.2260742 University of New South Wales   University of New South Wales   white   Sydney          star    Australia
+University of Ulsan     35.5427704  129.2567291 University of Ulsan University of Ulsan white               star    
+University of Arizona               University of Arizona   University of Arizona   white   Tuscon  AZ      star    
+University of British Columbia              University of British Columbia  University of British Columbia  white   Vancouver   British Columbia        star    
+"University of California, San Diego"               "University of California, San Diego"   "University of California, San Diego"   white   La Jolla    CA      star    
+University of Southern California               University of Southern California   University of Southern California   white   Los Angeles CA      star    
+Moss Landing Marine Laboratories                Moss Landing Marine Laboratories    Moss Landing Marine Laboratories    white   Moss Landing    CA      star    
+Monterey Bay Aquarium Research Institute                Monterey Bay Aquarium Research Institute    Monterey Bay Aquarium Research Institute    white   Moss Landing    California      star    
+Colorado School of Mines                Colorado School of Mines    Colorado School of Mines    white   Golden  CO      star    
+University of Connecticut               University of Connecticut   University of Connecticut   white   Groton  CT      star    
+University of Connecticut               University of Connecticut   University of Connecticut   white   Storrs  CT      star    
+University of Delaware              University of Delaware  University of Delaware  white   Lewes   DE      star    
+University of Georgia               University of Georgia   University of Georgia   white   Athens  GA      star    
+University of Hawaii                University of Hawaii    University of Hawaii    white   Kaneohe HI      star    
+Woods Hole Oceanographic Institution                Woods Hole Oceanographic Institution    Woods Hole Oceanographic Institution    white   Woods Hole  MA      star    
+Bigelow Laboratory for Ocean Sciences               Bigelow Laboratory for Ocean Sciences   Bigelow Laboratory for Ocean Sciences   white   East Boothbay   Maine       star    
+University of Maine             University of Maine University of Maine white   Orono   Maine       star    
+University of New Brunswick             University of New Brunswick University of New Brunswick white   Fredericton New Brunswick       star    
+University of North Carolina                University of North Carolina    University of North Carolina    white   Chapel Hill NC      star    
+Rutgers             Rutgers Rutgers white   New Brunswick   NJ      star    
+Princeton               Princeton   Princeton   white   Princeton   NJ      star    
+Los Alamos National Laboratory              Los Alamos National Laboratory  Los Alamos National Laboratory  white   Los Alamos  NM      star    
+Dalhousie University                Dalhousie University    Dalhousie University    white   Halifax Nova Scotia     star    
+Columbia University             Columbia University Columbia University white   Palisades   NY      star    
+Stony Brook University              Stony Brook University  Stony Brook University  white   Southampton NY      star    
+Stony Brook University              Stony Brook University  Stony Brook University  white   Stony Brook NY      star    
+University of Oklahoma              University of Oklahoma  University of Oklahoma  white   Norman  OK      star    
+University of Guelph                University of Guelph    University of Guelph    white   Guelph  Ontario     star    
+University of Puerto Rico               University of Puerto Rico   University of Puerto Rico   white   Mayaguez    PR      star    
+University of Prince Edward Island              University of Prince Edward Island  University of Prince Edward Island  white   Charlottetown   Prince Edward Island        star    
+Laval University                Laval University    Laval University    white   Quebec City Quebec      star    
+University of Rhode Island              University of Rhode Island  University of Rhode Island  white   Narragansett    Rhode Island        star    
+University of Rhode Island              University of Rhode Island  University of Rhode Island  white   Kingston    RI      star    
+Medical University of South Carolina                Medical University of South Carolina    Medical University of South Carolina    white   Charleston  SC      star    
+University of Tennessee             University of Tennessee University of Tennessee white   Knoxville   TN      star    
+University of Texas at Austin               University of Texas at Austin   University of Texas at Austin   white   Austin  TX      star    
+Texas A&M University                Texas A&M University    Texas A&M University    white   College Station TX      star    
+University of Washington                University of Washington    University of Washington    white   Seattle WA      star    
+Western Washington University               Western Washington University   Western Washington University   white   Bellingham  WA      star    
+Max Planck Instutute for Marine Microbiology        53.0750999  8.8046904   Max Planck Instutute for Marine Microbiology    Max Planck Instutute for Marine Microbiology    white               star    
+Lund University     55.70644    13.1938601  Lund University Lund University white               star    
+University of Guam      13.4322004  144.8029938 University of Guam  University of Guam  white               star    
+Alfred Wegener Institute        52.599664   13.402304   Alfred Wegener Institute    Alfred Wegener Institute    white               star    
+University of Geneva        46.1944313  6.1409001   University of Geneva    University of Geneva    white               star    
+Marine Biological Association of the UK     50.3708 -4.11373    Marine Biological Association of the UK Marine Biological Association of the UK white               star    
+University of Oslo      59.9375801  10.72188    University of Oslo  University of Oslo  white               star    
+
