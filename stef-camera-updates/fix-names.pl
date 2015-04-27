@@ -59,14 +59,14 @@ sub main {
             next;
         }
 
+        printf "%5d: %s (%s)\n", 
+            ++$i, $Sample->sample_name, $Sample->id;
+
         if ($Sample->sample_name ne $sample_name) {
-            printf "%5d: %s => %s (%s)\n", 
-                ++$i, $Sample->sample_name, $sample_name, $Sample->id;
-            $Sample->sample_name($sample_name);
-            $Sample->update;
+            printf "      => %s\n", $sample_name;
+#            $Sample->sample_name($sample_name);
+#            $Sample->update;
         }
-
-
     }
 
     say "Done.";
